@@ -1,37 +1,149 @@
 {
-  "generated_at_utc": "2026-05-31T10:02:40+00:00",
+  "generated_at_utc": "2026-05-31T10:50:55+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-05-31",
-  "next_trading_day": "2026-06-01",
+  "reference_date": "2026-06-02",
+  "next_trading_day": "2026-06-03",
   "summary": {
     "after_close_today": {
-      "date": "2026-05-31",
-      "count": 1,
+      "date": "2026-06-02",
+      "count": 6,
       "tickers": [
-        "CANG"
+        "PANW",
+        "ULTA",
+        "GTLB",
+        "PICS",
+        "YEXT",
+        "SPWH"
       ],
       "rows": [
         {
-          "symbol": "CANG",
-          "name": "Cango Inc.",
-          "marketCap": "$332,121,965",
-          "epsForecast": "($0.19)",
+          "symbol": "PANW",
+          "name": "Palo Alto Networks, Inc.",
+          "marketCap": "$210,340,320,000",
+          "epsForecast": "$0.43",
+          "fiscalQuarterEnding": "Apr/2026"
+        },
+        {
+          "symbol": "ULTA",
+          "name": "Ulta Beauty, Inc.",
+          "marketCap": "$22,657,950,382",
+          "epsForecast": "$6.85",
+          "fiscalQuarterEnding": "Apr/2026"
+        },
+        {
+          "symbol": "GTLB",
+          "name": "GitLab Inc.",
+          "marketCap": "$4,744,683,211",
+          "epsForecast": "($0.06)",
+          "fiscalQuarterEnding": "Apr/2026"
+        },
+        {
+          "symbol": "PICS",
+          "name": "PicS N.V.",
+          "marketCap": "$1,385,290,835",
+          "epsForecast": "$1.13",
           "fiscalQuarterEnding": "Mar/2026"
+        },
+        {
+          "symbol": "YEXT",
+          "name": "Yext, Inc.",
+          "marketCap": "$402,538,399",
+          "epsForecast": "$0.06",
+          "fiscalQuarterEnding": "Apr/2026"
+        },
+        {
+          "symbol": "SPWH",
+          "name": "Sportsman's Warehouse Holdings, Inc.",
+          "marketCap": "$52,197,489",
+          "epsForecast": "($0.57)",
+          "fiscalQuarterEnding": "Apr/2026"
         }
       ]
     },
     "before_open_next_trading_day": {
-      "date": "2026-06-01",
-      "count": 1,
+      "date": "2026-06-03",
+      "count": 10,
       "tickers": [
-        "SAIC"
+        "MDT",
+        "M",
+        "OLLI",
+        "THO",
+        "MMED",
+        "CXM",
+        "CGNT",
+        "VBNK",
+        "ZH",
+        "RENT"
       ],
       "rows": [
         {
-          "symbol": "SAIC",
-          "name": "Science Applications International Corporation",
-          "marketCap": "$4,469,717,532",
-          "epsForecast": "$2.26",
+          "symbol": "MDT",
+          "name": "Medtronic plc",
+          "marketCap": "$97,023,186,729",
+          "epsForecast": "$1.54",
+          "fiscalQuarterEnding": "Apr/2026"
+        },
+        {
+          "symbol": "M",
+          "name": "Macy's Inc",
+          "marketCap": "$5,921,445,653",
+          "epsForecast": "$0.02",
+          "fiscalQuarterEnding": "Apr/2026"
+        },
+        {
+          "symbol": "OLLI",
+          "name": "Ollie's Bargain Outlet Holdings, Inc.",
+          "marketCap": "$5,006,983,207",
+          "epsForecast": "$0.87",
+          "fiscalQuarterEnding": "Apr/2026"
+        },
+        {
+          "symbol": "THO",
+          "name": "Thor Industries, Inc.",
+          "marketCap": "$4,224,505,339",
+          "epsForecast": "$1.88",
+          "fiscalQuarterEnding": "Apr/2026"
+        },
+        {
+          "symbol": "MMED",
+          "name": "MiniMed Group, Inc.",
+          "marketCap": "$3,232,238,062",
+          "epsForecast": "($0.21)",
+          "fiscalQuarterEnding": "Apr/2026"
+        },
+        {
+          "symbol": "CXM",
+          "name": "Sprinklr, Inc.",
+          "marketCap": "$1,254,072,977",
+          "epsForecast": "$0.03",
+          "fiscalQuarterEnding": "Apr/2026"
+        },
+        {
+          "symbol": "CGNT",
+          "name": "Cognyte Software Ltd.",
+          "marketCap": "$765,277,806",
+          "epsForecast": "$0.03",
+          "fiscalQuarterEnding": "Apr/2026"
+        },
+        {
+          "symbol": "VBNK",
+          "name": "VersaBank",
+          "marketCap": "$586,666,832",
+          "epsForecast": "$0.28",
+          "fiscalQuarterEnding": "Apr/2026"
+        },
+        {
+          "symbol": "ZH",
+          "name": "Zhihu Inc.",
+          "marketCap": "$257,500,323",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Mar/2026"
+        },
+        {
+          "symbol": "RENT",
+          "name": "Rent the Runway, Inc.",
+          "marketCap": "$134,268,362",
+          "epsForecast": "",
           "fiscalQuarterEnding": "Apr/2026"
         }
       ]
@@ -39,28 +151,182 @@
   },
   "after_close": [
     {
-      "lastYearRptDt": "5/14/2025",
+      "lastYearRptDt": "5/20/2025",
+      "lastYearEPS": "$0.43",
+      "time": "time-after-hours",
+      "symbol": "PANW",
+      "name": "Palo Alto Networks, Inc.",
+      "marketCap": "$210,340,320,000",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "$0.43",
+      "noOfEsts": "15"
+    },
+    {
+      "lastYearRptDt": "5/29/2025",
+      "lastYearEPS": "$6.70",
+      "time": "time-after-hours",
+      "symbol": "ULTA",
+      "name": "Ulta Beauty, Inc.",
+      "marketCap": "$22,657,950,382",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "$6.85",
+      "noOfEsts": "13"
+    },
+    {
+      "lastYearRptDt": "6/10/2025",
       "lastYearEPS": "($0.14)",
       "time": "time-after-hours",
-      "symbol": "CANG",
-      "name": "Cango Inc.",
-      "marketCap": "$332,121,965",
+      "symbol": "GTLB",
+      "name": "GitLab Inc.",
+      "marketCap": "$4,744,683,211",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "($0.06)",
+      "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-after-hours",
+      "symbol": "PICS",
+      "name": "PicS N.V.",
+      "marketCap": "$1,385,290,835",
       "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "($0.19)",
+      "epsForecast": "$1.13",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "6/03/2025",
+      "lastYearEPS": "$0.01",
+      "time": "time-after-hours",
+      "symbol": "YEXT",
+      "name": "Yext, Inc.",
+      "marketCap": "$402,538,399",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "$0.06",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "6/03/2025",
+      "lastYearEPS": "($0.41)",
+      "time": "time-after-hours",
+      "symbol": "SPWH",
+      "name": "Sportsman's Warehouse Holdings, Inc.",
+      "marketCap": "$52,197,489",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "($0.57)",
       "noOfEsts": "2"
     }
   ],
   "before_open": [
     {
-      "lastYearRptDt": "6/02/2025",
-      "lastYearEPS": "$1.92",
+      "lastYearRptDt": "5/21/2025",
+      "lastYearEPS": "$1.62",
       "time": "time-pre-market",
-      "symbol": "SAIC",
-      "name": "Science Applications International Corporation",
-      "marketCap": "$4,469,717,532",
+      "symbol": "MDT",
+      "name": "Medtronic plc",
+      "marketCap": "$97,023,186,729",
       "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "$2.26",
+      "epsForecast": "$1.54",
+      "noOfEsts": "9"
+    },
+    {
+      "lastYearRptDt": "5/28/2025",
+      "lastYearEPS": "$0.16",
+      "time": "time-pre-market",
+      "symbol": "M",
+      "name": "Macy's Inc",
+      "marketCap": "$5,921,445,653",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "$0.02",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "6/03/2025",
+      "lastYearEPS": "$0.75",
+      "time": "time-pre-market",
+      "symbol": "OLLI",
+      "name": "Ollie's Bargain Outlet Holdings, Inc.",
+      "marketCap": "$5,006,983,207",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "$0.87",
+      "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "6/04/2025",
+      "lastYearEPS": "$2.77",
+      "time": "time-pre-market",
+      "symbol": "THO",
+      "name": "Thor Industries, Inc.",
+      "marketCap": "$4,224,505,339",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "$1.88",
       "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-pre-market",
+      "symbol": "MMED",
+      "name": "MiniMed Group, Inc.",
+      "marketCap": "$3,232,238,062",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "($0.21)",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "6/04/2025",
+      "lastYearEPS": "$0.05",
+      "time": "time-pre-market",
+      "symbol": "CXM",
+      "name": "Sprinklr, Inc.",
+      "marketCap": "$1,254,072,977",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "$0.03",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "6/11/2025",
+      "lastYearEPS": "N/A",
+      "time": "time-pre-market",
+      "symbol": "CGNT",
+      "name": "Cognyte Software Ltd.",
+      "marketCap": "$765,277,806",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "$0.03",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "6/04/2025",
+      "lastYearEPS": "$0.18",
+      "time": "time-pre-market",
+      "symbol": "VBNK",
+      "name": "VersaBank",
+      "marketCap": "$586,666,832",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "$0.28",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.02)",
+      "time": "time-pre-market",
+      "symbol": "ZH",
+      "name": "Zhihu Inc.",
+      "marketCap": "$257,500,323",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($6.58)",
+      "time": "time-pre-market",
+      "symbol": "RENT",
+      "name": "Rent the Runway, Inc.",
+      "marketCap": "$134,268,362",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
     }
   ]
 }
