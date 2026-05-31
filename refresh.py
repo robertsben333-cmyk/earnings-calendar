@@ -11,6 +11,7 @@ easy for an LLM agent to read.
 
 import calendar
 import json
+import os
 import sys
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
@@ -117,7 +118,12 @@ def slim(rows):
 
 
 def main():
-    today = datetime.now(timezone.utc).date()
+    override = os.environ.get("EARNINGS_REFERENCE_DATE", "").strip()
+    if override:
+        today = date.fromisoformat(override)
+        print(f"Reference date overridden via EARNINGS_REFERENCE_DATE -> {today}")
+    else:
+        today = datetime.now(timezone.utc).date()
     next_td = next_trading_day(today)
 
     today_rows = fetch_earnings(today)

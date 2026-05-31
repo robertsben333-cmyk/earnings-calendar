@@ -7,7 +7,12 @@ on:
     # and the feed is fresh before the European workday starts.
     # Cron times in Actions are not guaranteed to fire exactly on the minute.
     - cron: "30 0 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      reference_date:
+        description: "Override reference date (YYYY-MM-DD). Leave empty for today (UTC)."
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -26,6 +31,8 @@ jobs:
         run: pip install requests
 
       - name: Run refresh
+        env:
+          EARNINGS_REFERENCE_DATE: ${{ inputs.reference_date }}
         run: python refresh.py
 
       - name: Commit if changed
