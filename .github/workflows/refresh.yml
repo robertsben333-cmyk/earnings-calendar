@@ -1,0 +1,39 @@
+name: Refresh earnings.json
+
+on:
+  schedule:
+    # 11:00 UTC daily = 07:00 ET (before US market open).
+    # Cron times in Actions are not guaranteed to fire exactly on the minute.
+    - cron: "0 11 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Run refresh
+        run: python refresh.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain earnings.json)" ]]; then
+            git add earnings.json
+            git commit -m "chore: refresh earnings.json [$(date -u +%Y-%m-%dT%H:%MZ)]"
+            git push
+          else
+            echo "No change."
+          fi

@@ -1,0 +1,66 @@
+{
+  "generated_at_utc": "2026-05-31T10:01:56+00:00",
+  "source": "https://api.nasdaq.com/api/calendar/earnings",
+  "reference_date": "2026-05-31",
+  "next_trading_day": "2026-06-01",
+  "summary": {
+    "after_close_today": {
+      "date": "2026-05-31",
+      "count": 1,
+      "tickers": [
+        "CANG"
+      ],
+      "rows": [
+        {
+          "symbol": "CANG",
+          "name": "Cango Inc.",
+          "marketCap": "$332,121,965",
+          "epsForecast": "($0.19)",
+          "fiscalQuarterEnding": "Mar/2026"
+        }
+      ]
+    },
+    "before_open_next_trading_day": {
+      "date": "2026-06-01",
+      "count": 1,
+      "tickers": [
+        "SAIC"
+      ],
+      "rows": [
+        {
+          "symbol": "SAIC",
+          "name": "Science Applications International Corporation",
+          "marketCap": "$4,469,717,532",
+          "epsForecast": "$2.26",
+          "fiscalQuarterEnding": "Apr/2026"
+        }
+      ]
+    }
+  },
+  "after_close": [
+    {
+      "lastYearRptDt": "5/14/2025",
+      "lastYearEPS": "($0.14)",
+      "time": "time-after-hours",
+      "symbol": "CANG",
+      "name": "Cango Inc.",
+      "marketCap": "$332,121,965",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "($0.19)",
+      "noOfEsts": "2"
+    }
+  ],
+  "before_open": [
+    {
+      "lastYearRptDt": "6/02/2025",
+      "lastYearEPS": "$1.92",
+      "time": "time-pre-market",
+      "symbol": "SAIC",
+      "name": "Science Applications International Corporation",
+      "marketCap": "$4,469,717,532",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "$2.26",
+      "noOfEsts": "5"
+    }
+  ]
+}
