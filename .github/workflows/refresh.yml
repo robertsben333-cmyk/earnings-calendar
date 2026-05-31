@@ -2,9 +2,11 @@ name: Refresh earnings.json
 
 on:
   schedule:
-    # 11:00 UTC daily = 07:00 ET (before US market open).
+    # 00:30 UTC daily ≈ 02:30 CET / 01:30 CET winter.
+    # Runs just after the UTC date rolls over so reference_date = "today UTC"
+    # and the feed is fresh before the European workday starts.
     # Cron times in Actions are not guaranteed to fire exactly on the minute.
-    - cron: "0 11 * * *"
+    - cron: "30 0 * * *"
   workflow_dispatch: {}
 
 permissions:
