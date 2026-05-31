@@ -2,7 +2,18 @@
 
 US earnings calendar, refreshed daily by GitHub Actions.
 
-**Always-fresh raw URL:**
+**Always-fresh URL (use this for ChatGPT / external agents):**
+
+```
+https://cdn.jsdelivr.net/gh/robertsben333-cmyk/earnings-calendar@main/earnings.json
+```
+
+Mirror of the raw GitHub file via jsDelivr — picked because some agent platforms
+(ChatGPT included) block `raw.githubusercontent.com` due to its sandbox CSP.
+The workflow purges jsDelivr's edge cache after each refresh so propagation
+is near-instant.
+
+**Direct raw URL** (works for most clients, blocked by some agents):
 
 ```
 https://raw.githubusercontent.com/robertsben333-cmyk/earnings-calendar/main/earnings.json

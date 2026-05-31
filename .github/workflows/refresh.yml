@@ -36,6 +36,7 @@ jobs:
         run: python refresh.py
 
       - name: Commit if changed
+        id: commit
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -43,6 +44,13 @@ jobs:
             git add earnings.json
             git commit -m "chore: refresh earnings.json [$(date -u +%Y-%m-%dT%H:%MZ)]"
             git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           else
             echo "No change."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Purge jsDelivr cache
+        if: steps.commit.outputs.changed == 'true'
+        run: |
+          curl -fsS "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/earnings.json" || echo "Purge call failed (non-fatal)."
