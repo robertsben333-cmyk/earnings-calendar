@@ -1,389 +1,177 @@
 {
-  "generated_at_utc": "2026-06-04T05:22:19+00:00",
+  "generated_at_utc": "2026-06-05T04:57:12+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-06-04",
-  "next_trading_day": "2026-06-05",
+  "reference_date": "2026-06-05",
+  "next_trading_day": "2026-06-08",
   "summary": {
     "after_close_today": {
-      "date": "2026-06-04",
-      "count": 14,
-      "tickers": [
-        "IOT",
-        "PL",
-        "RBRK",
-        "LULU",
-        "GWRE",
-        "COO",
-        "DOCU",
-        "AGX",
-        "TTAN",
-        "WLTH",
-        "NX",
-        "ZUMZ",
-        "BBCP",
-        "CURV"
-      ],
-      "rows": [
-        {
-          "symbol": "IOT",
-          "name": "Samsara Inc.",
-          "marketCap": "$21,770,048,664",
-          "epsForecast": "($0.02)",
-          "fiscalQuarterEnding": "Apr/2026"
-        },
-        {
-          "symbol": "PL",
-          "name": "Planet Labs PBC",
-          "marketCap": "$17,138,948,796",
-          "epsForecast": "($0.13)",
-          "fiscalQuarterEnding": "Apr/2026"
-        },
-        {
-          "symbol": "RBRK",
-          "name": "Rubrik, Inc.",
-          "marketCap": "$16,944,323,798",
-          "epsForecast": "($0.44)",
-          "fiscalQuarterEnding": "Apr/2026"
-        },
-        {
-          "symbol": "LULU",
-          "name": "lululemon athletica inc.",
-          "marketCap": "$13,825,571,906",
-          "epsForecast": "$1.67",
-          "fiscalQuarterEnding": "Apr/2026"
-        },
-        {
-          "symbol": "GWRE",
-          "name": "Guidewire Software, Inc.",
-          "marketCap": "$13,777,156,668",
-          "epsForecast": "$0.35",
-          "fiscalQuarterEnding": "Apr/2026"
-        },
-        {
-          "symbol": "COO",
-          "name": "The Cooper Companies, Inc. ",
-          "marketCap": "$11,607,355,537",
-          "epsForecast": "$1.10",
-          "fiscalQuarterEnding": "Apr/2026"
-        },
-        {
-          "symbol": "DOCU",
-          "name": "DocuSign, Inc.",
-          "marketCap": "$10,796,615,839",
-          "epsForecast": "$0.38",
-          "fiscalQuarterEnding": "Apr/2026"
-        },
-        {
-          "symbol": "AGX",
-          "name": "Argan, Inc.",
-          "marketCap": "$9,257,742,760",
-          "epsForecast": "$2.27",
-          "fiscalQuarterEnding": "Apr/2026"
-        },
-        {
-          "symbol": "TTAN",
-          "name": "ServiceTitan, Inc.",
-          "marketCap": "$7,155,049,379",
-          "epsForecast": "($0.16)",
-          "fiscalQuarterEnding": "Apr/2026"
-        },
-        {
-          "symbol": "WLTH",
-          "name": "Wealthfront Corporation",
-          "marketCap": "$1,840,374,778",
-          "epsForecast": "$0.09",
-          "fiscalQuarterEnding": "Apr/2026"
-        },
-        {
-          "symbol": "NX",
-          "name": "Quanex Building Products Corporation",
-          "marketCap": "$844,722,839",
-          "epsForecast": "$0.22",
-          "fiscalQuarterEnding": "Apr/2026"
-        },
-        {
-          "symbol": "ZUMZ",
-          "name": "Zumiez Inc.",
-          "marketCap": "$401,195,537",
-          "epsForecast": "($0.81)",
-          "fiscalQuarterEnding": "Apr/2026"
-        },
-        {
-          "symbol": "BBCP",
-          "name": "Concrete Pumping Holdings, Inc. ",
-          "marketCap": "$395,497,262",
-          "epsForecast": "$0",
-          "fiscalQuarterEnding": "Apr/2026"
-        },
-        {
-          "symbol": "CURV",
-          "name": "Torrid Holdings Inc.",
-          "marketCap": "$153,227,652",
-          "epsForecast": "($0.02)",
-          "fiscalQuarterEnding": "Apr/2026"
-        }
-      ]
+      "date": "2026-06-05",
+      "count": 0,
+      "tickers": [],
+      "rows": []
     },
     "before_open_next_trading_day": {
-      "date": "2026-06-05",
-      "count": 5,
+      "date": "2026-06-08",
+      "count": 8,
       "tickers": [
-        "ABM",
-        "GIII",
-        "GASS",
-        "HERE",
-        "TOUR"
+        "CPB",
+        "GHM",
+        "FCEL",
+        "MPAA",
+        "DLTH",
+        "ALOT",
+        "ZEPP",
+        "GMHS"
       ],
       "rows": [
         {
-          "symbol": "ABM",
-          "name": "ABM Industries Incorporated",
-          "marketCap": "$2,303,266,467",
-          "epsForecast": "$0.92",
+          "symbol": "CPB",
+          "name": "The Campbell's Company",
+          "marketCap": "$6,258,094,783",
+          "epsForecast": "$0.48",
           "fiscalQuarterEnding": "Apr/2026"
         },
         {
-          "symbol": "GIII",
-          "name": "G-III Apparel Group, LTD.",
-          "marketCap": "$1,374,526,970",
-          "epsForecast": "($0.30)",
+          "symbol": "GHM",
+          "name": "Graham Corporation",
+          "marketCap": "$1,212,456,125",
+          "epsForecast": "$0.30",
+          "fiscalQuarterEnding": "Mar/2026"
+        },
+        {
+          "symbol": "FCEL",
+          "name": "FuelCell Energy, Inc.",
+          "marketCap": "$1,155,447,257",
+          "epsForecast": "($0.57)",
           "fiscalQuarterEnding": "Apr/2026"
         },
         {
-          "symbol": "GASS",
-          "name": "StealthGas, Inc.",
-          "marketCap": "$351,032,876",
+          "symbol": "MPAA",
+          "name": "Motorcar Parts of America, Inc.",
+          "marketCap": "$202,675,565",
+          "epsForecast": "$0.11",
+          "fiscalQuarterEnding": "Mar/2026"
+        },
+        {
+          "symbol": "DLTH",
+          "name": "Duluth Holdings Inc.",
+          "marketCap": "$130,781,434",
+          "epsForecast": "($0.45)",
+          "fiscalQuarterEnding": "Apr/2026"
+        },
+        {
+          "symbol": "ALOT",
+          "name": "AstroNova, Inc.",
+          "marketCap": "$116,854,240",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Apr/2026"
+        },
+        {
+          "symbol": "ZEPP",
+          "name": "Zepp Health Corporation",
+          "marketCap": "$99,721,871",
           "epsForecast": "",
           "fiscalQuarterEnding": "Mar/2026"
         },
         {
-          "symbol": "HERE",
-          "name": "Here Group Limited",
-          "marketCap": "$126,172,307",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Mar/2026"
-        },
-        {
-          "symbol": "TOUR",
-          "name": "Tuniu Corporation",
-          "marketCap": "$61,271,589",
+          "symbol": "GMHS",
+          "name": "Gamehaus Holdings Inc.",
+          "marketCap": "$53,569,358",
           "epsForecast": "",
           "fiscalQuarterEnding": "Mar/2026"
         }
       ]
     }
   },
-  "after_close": [
+  "after_close": [],
+  "before_open": [
     {
-      "lastYearRptDt": "6/05/2025",
-      "lastYearEPS": "($0.04)",
-      "time": "time-after-hours",
-      "symbol": "IOT",
-      "name": "Samsara Inc.",
-      "marketCap": "$21,770,048,664",
+      "lastYearRptDt": "6/02/2025",
+      "lastYearEPS": "$0.73",
+      "time": "time-pre-market",
+      "symbol": "CPB",
+      "name": "The Campbell's Company",
+      "marketCap": "$6,258,094,783",
       "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "($0.02)",
-      "noOfEsts": "5"
+      "epsForecast": "$0.48",
+      "noOfEsts": "8"
     },
     {
-      "lastYearRptDt": "6/04/2025",
-      "lastYearEPS": "($0.04)",
-      "time": "time-after-hours",
-      "symbol": "PL",
-      "name": "Planet Labs PBC",
-      "marketCap": "$17,138,948,796",
+      "lastYearRptDt": "6/09/2025",
+      "lastYearEPS": "$0.43",
+      "time": "time-pre-market",
+      "symbol": "GHM",
+      "name": "Graham Corporation",
+      "marketCap": "$1,212,456,125",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "$0.30",
+      "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "6/06/2025",
+      "lastYearEPS": "($1.79)",
+      "time": "time-pre-market",
+      "symbol": "FCEL",
+      "name": "FuelCell Energy, Inc.",
+      "marketCap": "$1,155,447,257",
       "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "($0.13)",
+      "epsForecast": "($0.57)",
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "6/05/2025",
-      "lastYearEPS": "($0.53)",
-      "time": "time-after-hours",
-      "symbol": "RBRK",
-      "name": "Rubrik, Inc.",
-      "marketCap": "$16,944,323,798",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "($0.44)",
-      "noOfEsts": "9"
-    },
-    {
-      "lastYearRptDt": "6/05/2025",
-      "lastYearEPS": "$2.60",
-      "time": "time-after-hours",
-      "symbol": "LULU",
-      "name": "lululemon athletica inc.",
-      "marketCap": "$13,825,571,906",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "$1.67",
-      "noOfEsts": "9"
-    },
-    {
-      "lastYearRptDt": "6/03/2025",
-      "lastYearEPS": "$0.55",
-      "time": "time-after-hours",
-      "symbol": "GWRE",
-      "name": "Guidewire Software, Inc.",
-      "marketCap": "$13,777,156,668",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "$0.35",
-      "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "5/29/2025",
-      "lastYearEPS": "$0.96",
-      "time": "time-after-hours",
-      "symbol": "COO",
-      "name": "The Cooper Companies, Inc. ",
-      "marketCap": "$11,607,355,537",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "$1.10",
-      "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "6/05/2025",
-      "lastYearEPS": "$0.40",
-      "time": "time-after-hours",
-      "symbol": "DOCU",
-      "name": "DocuSign, Inc.",
-      "marketCap": "$10,796,615,839",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "$0.38",
-      "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "6/04/2025",
-      "lastYearEPS": "$1.60",
-      "time": "time-after-hours",
-      "symbol": "AGX",
-      "name": "Argan, Inc.",
-      "marketCap": "$9,257,742,760",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "$2.27",
-      "noOfEsts": "2"
+      "lastYearRptDt": "6/09/2025",
+      "lastYearEPS": "$0.24",
+      "time": "time-pre-market",
+      "symbol": "MPAA",
+      "name": "Motorcar Parts of America, Inc.",
+      "marketCap": "$202,675,565",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "$0.11",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "6/05/2025",
       "lastYearEPS": "($0.32)",
-      "time": "time-after-hours",
-      "symbol": "TTAN",
-      "name": "ServiceTitan, Inc.",
-      "marketCap": "$7,155,049,379",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "($0.16)",
-      "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-after-hours",
-      "symbol": "WLTH",
-      "name": "Wealthfront Corporation",
-      "marketCap": "$1,840,374,778",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "$0.09",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "6/05/2025",
-      "lastYearEPS": "$0.60",
-      "time": "time-after-hours",
-      "symbol": "NX",
-      "name": "Quanex Building Products Corporation",
-      "marketCap": "$844,722,839",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "$0.22",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "6/05/2025",
-      "lastYearEPS": "($0.79)",
-      "time": "time-after-hours",
-      "symbol": "ZUMZ",
-      "name": "Zumiez Inc.",
-      "marketCap": "$401,195,537",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "($0.81)",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "6/05/2025",
-      "lastYearEPS": "($0.01)",
-      "time": "time-after-hours",
-      "symbol": "BBCP",
-      "name": "Concrete Pumping Holdings, Inc. ",
-      "marketCap": "$395,497,262",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "$0",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "6/05/2025",
-      "lastYearEPS": "$0.06",
-      "time": "time-after-hours",
-      "symbol": "CURV",
-      "name": "Torrid Holdings Inc.",
-      "marketCap": "$153,227,652",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "($0.02)",
-      "noOfEsts": "3"
-    }
-  ],
-  "before_open": [
-    {
-      "lastYearRptDt": "6/06/2025",
-      "lastYearEPS": "$0.86",
       "time": "time-pre-market",
-      "symbol": "ABM",
-      "name": "ABM Industries Incorporated",
-      "marketCap": "$2,303,266,467",
+      "symbol": "DLTH",
+      "name": "Duluth Holdings Inc.",
+      "marketCap": "$130,781,434",
       "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "$0.92",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "6/06/2025",
-      "lastYearEPS": "$0.19",
-      "time": "time-pre-market",
-      "symbol": "GIII",
-      "name": "G-III Apparel Group, LTD.",
-      "marketCap": "$1,374,526,970",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "($0.30)",
+      "epsForecast": "($0.45)",
       "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.40",
+      "lastYearEPS": "$0.05",
       "time": "time-pre-market",
-      "symbol": "GASS",
-      "name": "StealthGas, Inc.",
-      "marketCap": "$351,032,876",
+      "symbol": "ALOT",
+      "name": "AstroNova, Inc.",
+      "marketCap": "$116,854,240",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($1.17)",
+      "time": "time-pre-market",
+      "symbol": "ZEPP",
+      "name": "Zepp Health Corporation",
+      "marketCap": "$99,721,871",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.08",
-      "time": "time-pre-market",
-      "symbol": "HERE",
-      "name": "Here Group Limited",
-      "marketCap": "$126,172,307",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "N/A",
       "time": "time-pre-market",
-      "symbol": "TOUR",
-      "name": "Tuniu Corporation",
-      "marketCap": "$61,271,589",
+      "symbol": "GMHS",
+      "name": "Gamehaus Holdings Inc.",
+      "marketCap": "$53,569,358",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "3"
     }
   ]
 }
