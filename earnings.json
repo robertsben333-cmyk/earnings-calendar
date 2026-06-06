@@ -1,24 +1,25 @@
 {
-  "generated_at_utc": "2026-06-05T04:57:12+00:00",
+  "generated_at_utc": "2026-06-06T04:37:11+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-06-05",
+  "reference_date": "2026-06-06",
   "next_trading_day": "2026-06-08",
   "summary": {
     "after_close_today": {
-      "date": "2026-06-05",
+      "date": "2026-06-06",
       "count": 0,
       "tickers": [],
       "rows": []
     },
     "before_open_next_trading_day": {
       "date": "2026-06-08",
-      "count": 8,
+      "count": 9,
       "tickers": [
         "CPB",
         "GHM",
         "FCEL",
         "MPAA",
         "DLTH",
+        "OCC",
         "ALOT",
         "ZEPP",
         "GMHS"
@@ -27,28 +28,28 @@
         {
           "symbol": "CPB",
           "name": "The Campbell's Company",
-          "marketCap": "$6,258,094,783",
+          "marketCap": "$6,425,056,816",
           "epsForecast": "$0.48",
           "fiscalQuarterEnding": "Apr/2026"
         },
         {
           "symbol": "GHM",
           "name": "Graham Corporation",
-          "marketCap": "$1,212,456,125",
+          "marketCap": "$1,260,197,971",
           "epsForecast": "$0.30",
           "fiscalQuarterEnding": "Mar/2026"
         },
         {
           "symbol": "FCEL",
           "name": "FuelCell Energy, Inc.",
-          "marketCap": "$1,155,447,257",
-          "epsForecast": "($0.57)",
+          "marketCap": "$1,133,726,332",
+          "epsForecast": "($0.54)",
           "fiscalQuarterEnding": "Apr/2026"
         },
         {
           "symbol": "MPAA",
           "name": "Motorcar Parts of America, Inc.",
-          "marketCap": "$202,675,565",
+          "marketCap": "$204,980,879",
           "epsForecast": "$0.11",
           "fiscalQuarterEnding": "Mar/2026"
         },
@@ -60,23 +61,30 @@
           "fiscalQuarterEnding": "Apr/2026"
         },
         {
+          "symbol": "OCC",
+          "name": "Optical Cable Corporation",
+          "marketCap": "$124,790,480",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Apr/2026"
+        },
+        {
           "symbol": "ALOT",
           "name": "AstroNova, Inc.",
-          "marketCap": "$116,854,240",
+          "marketCap": "$117,161,953",
           "epsForecast": "",
           "fiscalQuarterEnding": "Apr/2026"
         },
         {
           "symbol": "ZEPP",
           "name": "Zepp Health Corporation",
-          "marketCap": "$99,721,871",
+          "marketCap": "$94,735,777",
           "epsForecast": "",
           "fiscalQuarterEnding": "Mar/2026"
         },
         {
           "symbol": "GMHS",
           "name": "Gamehaus Holdings Inc.",
-          "marketCap": "$53,569,358",
+          "marketCap": "$53,033,664",
           "epsForecast": "",
           "fiscalQuarterEnding": "Mar/2026"
         }
@@ -91,7 +99,7 @@
       "time": "time-pre-market",
       "symbol": "CPB",
       "name": "The Campbell's Company",
-      "marketCap": "$6,258,094,783",
+      "marketCap": "$6,425,056,816",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$0.48",
       "noOfEsts": "8"
@@ -102,7 +110,7 @@
       "time": "time-pre-market",
       "symbol": "GHM",
       "name": "Graham Corporation",
-      "marketCap": "$1,212,456,125",
+      "marketCap": "$1,260,197,971",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "$0.30",
       "noOfEsts": "4"
@@ -113,10 +121,10 @@
       "time": "time-pre-market",
       "symbol": "FCEL",
       "name": "FuelCell Energy, Inc.",
-      "marketCap": "$1,155,447,257",
+      "marketCap": "$1,133,726,332",
       "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "($0.57)",
-      "noOfEsts": "3"
+      "epsForecast": "($0.54)",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "6/09/2025",
@@ -124,7 +132,7 @@
       "time": "time-pre-market",
       "symbol": "MPAA",
       "name": "Motorcar Parts of America, Inc.",
-      "marketCap": "$202,675,565",
+      "marketCap": "$204,980,879",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "$0.11",
       "noOfEsts": "1"
@@ -142,14 +150,25 @@
     },
     {
       "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.09)",
+      "time": "time-pre-market",
+      "symbol": "OCC",
+      "name": "Optical Cable Corporation",
+      "marketCap": "$124,790,480",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "N/A",
       "lastYearEPS": "$0.05",
       "time": "time-pre-market",
       "symbol": "ALOT",
       "name": "AstroNova, Inc.",
-      "marketCap": "$116,854,240",
+      "marketCap": "$117,161,953",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -157,10 +176,10 @@
       "time": "time-pre-market",
       "symbol": "ZEPP",
       "name": "Zepp Health Corporation",
-      "marketCap": "$99,721,871",
+      "marketCap": "$94,735,777",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -168,10 +187,10 @@
       "time": "time-pre-market",
       "symbol": "GMHS",
       "name": "Gamehaus Holdings Inc.",
-      "marketCap": "$53,569,358",
+      "marketCap": "$53,033,664",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "N/A"
     }
   ]
 }
