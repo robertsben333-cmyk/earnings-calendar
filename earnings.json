@@ -1,256 +1,120 @@
 {
-  "generated_at_utc": "2026-06-10T04:57:49+00:00",
+  "generated_at_utc": "2026-06-11T05:09:45+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-06-10",
-  "next_trading_day": "2026-06-11",
+  "reference_date": "2026-06-11",
+  "next_trading_day": "2026-06-12",
   "summary": {
     "after_close_today": {
-      "date": "2026-06-10",
-      "count": 7,
+      "date": "2026-06-11",
+      "count": 5,
       "tickers": [
-        "ORCL",
-        "NAVN",
-        "ATEX",
-        "OXM",
-        "SFIX",
-        "MIND",
-        "AEMD"
+        "ADBE",
+        "LEN",
+        "LEN.B",
+        "RH",
+        "ZDGE"
       ],
       "rows": [
         {
-          "symbol": "ORCL",
-          "name": "Oracle Corporation",
-          "marketCap": "$609,204,063,720",
-          "epsForecast": "$1.58",
+          "symbol": "ADBE",
+          "name": "Adobe Inc.",
+          "marketCap": "$96,151,096,000",
+          "epsForecast": "$4.74",
           "fiscalQuarterEnding": "May/2026"
         },
         {
-          "symbol": "NAVN",
-          "name": "Navan, Inc.",
-          "marketCap": "$5,414,727,079",
-          "epsForecast": "($0.12)",
+          "symbol": "LEN",
+          "name": "Lennar Corporation",
+          "marketCap": "$22,797,370,278",
+          "epsForecast": "$1.23",
+          "fiscalQuarterEnding": "May/2026"
+        },
+        {
+          "symbol": "LEN.B",
+          "name": "Lennar Corporation",
+          "marketCap": "$22,797,370,278",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "May/2026"
+        },
+        {
+          "symbol": "RH",
+          "name": "RH",
+          "marketCap": "$2,836,816,419",
+          "epsForecast": "($2.07)",
           "fiscalQuarterEnding": "Apr/2026"
         },
         {
-          "symbol": "ATEX",
-          "name": "Anterix Inc.",
-          "marketCap": "$1,240,866,567",
-          "epsForecast": "($0.56)",
-          "fiscalQuarterEnding": "Mar/2026"
-        },
-        {
-          "symbol": "OXM",
-          "name": "Oxford Industries, Inc.",
-          "marketCap": "$663,384,462",
-          "epsForecast": "$1.27",
-          "fiscalQuarterEnding": "Apr/2026"
-        },
-        {
-          "symbol": "SFIX",
-          "name": "Stitch Fix, Inc.",
-          "marketCap": "$499,672,423",
-          "epsForecast": "($0.06)",
-          "fiscalQuarterEnding": "Apr/2026"
-        },
-        {
-          "symbol": "MIND",
-          "name": "MIND Technology, Inc.",
-          "marketCap": "$55,897,688",
+          "symbol": "ZDGE",
+          "name": "Zedge, Inc.",
+          "marketCap": "$40,951,553",
           "epsForecast": "",
           "fiscalQuarterEnding": "Apr/2026"
-        },
-        {
-          "symbol": "AEMD",
-          "name": "Aethlon Medical, Inc.",
-          "marketCap": "$4,745,387",
-          "epsForecast": "($2.46)",
-          "fiscalQuarterEnding": "Mar/2026"
         }
       ]
     },
     "before_open_next_trading_day": {
-      "date": "2026-06-11",
-      "count": 5,
-      "tickers": [
-        "MH",
-        "LOVE",
-        "ACB",
-        "HOFT",
-        "VRA"
-      ],
-      "rows": [
-        {
-          "symbol": "MH",
-          "name": "McGraw Hill, Inc.",
-          "marketCap": "$2,274,828,091",
-          "epsForecast": "$0.15",
-          "fiscalQuarterEnding": "Mar/2026"
-        },
-        {
-          "symbol": "LOVE",
-          "name": "The Lovesac Company",
-          "marketCap": "$235,887,204",
-          "epsForecast": "($1.03)",
-          "fiscalQuarterEnding": "Apr/2026"
-        },
-        {
-          "symbol": "ACB",
-          "name": "Aurora Cannabis Inc.",
-          "marketCap": "$202,186,544",
-          "epsForecast": "($0.07)",
-          "fiscalQuarterEnding": "Mar/2026"
-        },
-        {
-          "symbol": "HOFT",
-          "name": "Hooker Furnishings Corporation",
-          "marketCap": "$130,326,924",
-          "epsForecast": "($0.07)",
-          "fiscalQuarterEnding": "Apr/2026"
-        },
-        {
-          "symbol": "VRA",
-          "name": "Vera Bradley, Inc.",
-          "marketCap": "$93,846,232",
-          "epsForecast": "($0.33)",
-          "fiscalQuarterEnding": "Apr/2026"
-        }
-      ]
+      "date": "2026-06-12",
+      "count": 0,
+      "tickers": [],
+      "rows": []
     }
   },
   "after_close": [
     {
-      "lastYearRptDt": "6/11/2025",
-      "lastYearEPS": "$1.35",
+      "lastYearRptDt": "6/12/2025",
+      "lastYearEPS": "$4.10",
       "time": "time-after-hours",
-      "symbol": "ORCL",
-      "name": "Oracle Corporation",
-      "marketCap": "$609,204,063,720",
+      "symbol": "ADBE",
+      "name": "Adobe Inc.",
+      "marketCap": "$96,151,096,000",
       "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$1.58",
+      "epsForecast": "$4.74",
       "noOfEsts": "11"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "lastYearRptDt": "6/16/2025",
+      "lastYearEPS": "$1.90",
       "time": "time-after-hours",
-      "symbol": "NAVN",
-      "name": "Navan, Inc.",
-      "marketCap": "$5,414,727,079",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "($0.12)",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "6/24/2025",
-      "lastYearEPS": "($0.36)",
-      "time": "time-after-hours",
-      "symbol": "ATEX",
-      "name": "Anterix Inc.",
-      "marketCap": "$1,240,866,567",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "($0.56)",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "6/11/2025",
-      "lastYearEPS": "$1.82",
-      "time": "time-after-hours",
-      "symbol": "OXM",
-      "name": "Oxford Industries, Inc.",
-      "marketCap": "$663,384,462",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "$1.27",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "6/10/2025",
-      "lastYearEPS": "($0.06)",
-      "time": "time-after-hours",
-      "symbol": "SFIX",
-      "name": "Stitch Fix, Inc.",
-      "marketCap": "$499,672,423",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "($0.06)",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.12)",
-      "time": "time-after-hours",
-      "symbol": "MIND",
-      "name": "MIND Technology, Inc.",
-      "marketCap": "$55,897,688",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-after-hours",
-      "symbol": "AEMD",
-      "name": "Aethlon Medical, Inc.",
-      "marketCap": "$4,745,387",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "($2.46)",
-      "noOfEsts": "2"
-    }
-  ],
-  "before_open": [
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-pre-market",
-      "symbol": "MH",
-      "name": "McGraw Hill, Inc.",
-      "marketCap": "$2,274,828,091",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "$0.15",
+      "symbol": "LEN",
+      "name": "Lennar Corporation",
+      "marketCap": "$22,797,370,278",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "$1.23",
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "6/12/2025",
-      "lastYearEPS": "($0.73)",
-      "time": "time-pre-market",
-      "symbol": "LOVE",
-      "name": "The Lovesac Company",
-      "marketCap": "$235,887,204",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "($1.03)",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "6/18/2025",
-      "lastYearEPS": "$0.07",
-      "time": "time-pre-market",
-      "symbol": "ACB",
-      "name": "Aurora Cannabis Inc.",
-      "marketCap": "$202,186,544",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "($0.07)",
-      "noOfEsts": "1"
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$1.90",
+      "time": "time-after-hours",
+      "symbol": "LEN.B",
+      "name": "Lennar Corporation",
+      "marketCap": "$22,797,370,278",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "6/12/2025",
-      "lastYearEPS": "($0.29)",
-      "time": "time-pre-market",
-      "symbol": "HOFT",
-      "name": "Hooker Furnishings Corporation",
-      "marketCap": "$130,326,924",
+      "lastYearEPS": "$0.13",
+      "time": "time-after-hours",
+      "symbol": "RH",
+      "name": "RH",
+      "marketCap": "$2,836,816,419",
       "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "($0.07)",
-      "noOfEsts": "2"
+      "epsForecast": "($2.07)",
+      "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "6/11/2025",
-      "lastYearEPS": "($0.36)",
-      "time": "time-pre-market",
-      "symbol": "VRA",
-      "name": "Vera Bradley, Inc.",
-      "marketCap": "$93,846,232",
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.06",
+      "time": "time-after-hours",
+      "symbol": "ZDGE",
+      "name": "Zedge, Inc.",
+      "marketCap": "$40,951,553",
       "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "($0.33)",
-      "noOfEsts": "1"
+      "epsForecast": "",
+      "noOfEsts": "6"
     }
-  ]
+  ],
+  "before_open": []
 }
