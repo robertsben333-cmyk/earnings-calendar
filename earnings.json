@@ -1,120 +1,120 @@
 {
-  "generated_at_utc": "2026-06-11T05:09:45+00:00",
+  "generated_at_utc": "2026-06-12T05:14:29+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-06-11",
-  "next_trading_day": "2026-06-12",
+  "reference_date": "2026-06-12",
+  "next_trading_day": "2026-06-15",
   "summary": {
     "after_close_today": {
-      "date": "2026-06-11",
-      "count": 5,
-      "tickers": [
-        "ADBE",
-        "LEN",
-        "LEN.B",
-        "RH",
-        "ZDGE"
-      ],
-      "rows": [
-        {
-          "symbol": "ADBE",
-          "name": "Adobe Inc.",
-          "marketCap": "$96,151,096,000",
-          "epsForecast": "$4.74",
-          "fiscalQuarterEnding": "May/2026"
-        },
-        {
-          "symbol": "LEN",
-          "name": "Lennar Corporation",
-          "marketCap": "$22,797,370,278",
-          "epsForecast": "$1.23",
-          "fiscalQuarterEnding": "May/2026"
-        },
-        {
-          "symbol": "LEN.B",
-          "name": "Lennar Corporation",
-          "marketCap": "$22,797,370,278",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "May/2026"
-        },
-        {
-          "symbol": "RH",
-          "name": "RH",
-          "marketCap": "$2,836,816,419",
-          "epsForecast": "($2.07)",
-          "fiscalQuarterEnding": "Apr/2026"
-        },
-        {
-          "symbol": "ZDGE",
-          "name": "Zedge, Inc.",
-          "marketCap": "$40,951,553",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Apr/2026"
-        }
-      ]
-    },
-    "before_open_next_trading_day": {
       "date": "2026-06-12",
       "count": 0,
       "tickers": [],
       "rows": []
+    },
+    "before_open_next_trading_day": {
+      "date": "2026-06-15",
+      "count": 5,
+      "tickers": [
+        "AIOT",
+        "CGC",
+        "CODA",
+        "JRSH",
+        "ADXN"
+      ],
+      "rows": [
+        {
+          "symbol": "AIOT",
+          "name": "PowerFleet, Inc.",
+          "marketCap": "$515,125,544",
+          "epsForecast": "$0",
+          "fiscalQuarterEnding": "Mar/2026"
+        },
+        {
+          "symbol": "CGC",
+          "name": "Canopy Growth Corporation",
+          "marketCap": "$440,246,851",
+          "epsForecast": "($0.06)",
+          "fiscalQuarterEnding": "Mar/2026"
+        },
+        {
+          "symbol": "CODA",
+          "name": "Coda Octopus Group, Inc.",
+          "marketCap": "$125,503,572",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Apr/2026"
+        },
+        {
+          "symbol": "JRSH",
+          "name": "Jerash Holdings (US), Inc.",
+          "marketCap": "$45,592,785",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Mar/2026"
+        },
+        {
+          "symbol": "ADXN",
+          "name": "Addex Therapeutics Ltd",
+          "marketCap": "$10,522,636",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Mar/2026"
+        }
+      ]
     }
   },
-  "after_close": [
-    {
-      "lastYearRptDt": "6/12/2025",
-      "lastYearEPS": "$4.10",
-      "time": "time-after-hours",
-      "symbol": "ADBE",
-      "name": "Adobe Inc.",
-      "marketCap": "$96,151,096,000",
-      "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$4.74",
-      "noOfEsts": "11"
-    },
+  "after_close": [],
+  "before_open": [
     {
       "lastYearRptDt": "6/16/2025",
-      "lastYearEPS": "$1.90",
-      "time": "time-after-hours",
-      "symbol": "LEN",
-      "name": "Lennar Corporation",
-      "marketCap": "$22,797,370,278",
-      "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$1.23",
-      "noOfEsts": "7"
+      "lastYearEPS": "($0.09)",
+      "time": "time-pre-market",
+      "symbol": "AIOT",
+      "name": "PowerFleet, Inc.",
+      "marketCap": "$515,125,544",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "$0",
+      "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "5/30/2025",
+      "lastYearEPS": "($0.94)",
+      "time": "time-pre-market",
+      "symbol": "CGC",
+      "name": "Canopy Growth Corporation",
+      "marketCap": "$440,246,851",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "($0.06)",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "$1.90",
-      "time": "time-after-hours",
-      "symbol": "LEN.B",
-      "name": "Lennar Corporation",
-      "marketCap": "$22,797,370,278",
-      "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "6/12/2025",
-      "lastYearEPS": "$0.13",
-      "time": "time-after-hours",
-      "symbol": "RH",
-      "name": "RH",
-      "marketCap": "$2,836,816,419",
+      "lastYearEPS": "$0.08",
+      "time": "time-pre-market",
+      "symbol": "CODA",
+      "name": "Coda Octopus Group, Inc.",
+      "marketCap": "$125,503,572",
       "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "($2.07)",
-      "noOfEsts": "6"
+      "epsForecast": "",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.06",
-      "time": "time-after-hours",
-      "symbol": "ZDGE",
-      "name": "Zedge, Inc.",
-      "marketCap": "$40,951,553",
-      "fiscalQuarterEnding": "Apr/2026",
+      "lastYearEPS": "($0.01)",
+      "time": "time-pre-market",
+      "symbol": "JRSH",
+      "name": "Jerash Holdings (US), Inc.",
+      "marketCap": "$45,592,785",
+      "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "6"
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($1.33)",
+      "time": "time-pre-market",
+      "symbol": "ADXN",
+      "name": "Addex Therapeutics Ltd",
+      "marketCap": "$10,522,636",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
     }
-  ],
-  "before_open": []
+  ]
 }
