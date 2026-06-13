@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-06-12T05:14:29+00:00",
+  "generated_at_utc": "2026-06-13T05:03:56+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-06-12",
+  "reference_date": "2026-06-13",
   "next_trading_day": "2026-06-15",
   "summary": {
     "after_close_today": {
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "count": 0,
       "tickers": [],
       "rows": []
@@ -24,35 +24,35 @@
         {
           "symbol": "AIOT",
           "name": "PowerFleet, Inc.",
-          "marketCap": "$515,125,544",
+          "marketCap": "$564,760,036",
           "epsForecast": "$0",
           "fiscalQuarterEnding": "Mar/2026"
         },
         {
           "symbol": "CGC",
           "name": "Canopy Growth Corporation",
-          "marketCap": "$440,246,851",
+          "marketCap": "$437,398,622",
           "epsForecast": "($0.06)",
           "fiscalQuarterEnding": "Mar/2026"
         },
         {
           "symbol": "CODA",
           "name": "Coda Octopus Group, Inc.",
-          "marketCap": "$125,503,572",
+          "marketCap": "$134,186,209",
           "epsForecast": "",
           "fiscalQuarterEnding": "Apr/2026"
         },
         {
           "symbol": "JRSH",
           "name": "Jerash Holdings (US), Inc.",
-          "marketCap": "$45,592,785",
+          "marketCap": "$45,465,785",
           "epsForecast": "",
           "fiscalQuarterEnding": "Mar/2026"
         },
         {
           "symbol": "ADXN",
           "name": "Addex Therapeutics Ltd",
-          "marketCap": "$10,522,636",
+          "marketCap": "$10,036,975",
           "epsForecast": "",
           "fiscalQuarterEnding": "Mar/2026"
         }
@@ -67,7 +67,7 @@
       "time": "time-pre-market",
       "symbol": "AIOT",
       "name": "PowerFleet, Inc.",
-      "marketCap": "$515,125,544",
+      "marketCap": "$564,760,036",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "$0",
       "noOfEsts": "5"
@@ -78,7 +78,7 @@
       "time": "time-pre-market",
       "symbol": "CGC",
       "name": "Canopy Growth Corporation",
-      "marketCap": "$440,246,851",
+      "marketCap": "$437,398,622",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "($0.06)",
       "noOfEsts": "3"
@@ -89,7 +89,7 @@
       "time": "time-pre-market",
       "symbol": "CODA",
       "name": "Coda Octopus Group, Inc.",
-      "marketCap": "$125,503,572",
+      "marketCap": "$134,186,209",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -100,7 +100,7 @@
       "time": "time-pre-market",
       "symbol": "JRSH",
       "name": "Jerash Holdings (US), Inc.",
-      "marketCap": "$45,592,785",
+      "marketCap": "$45,465,785",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -111,7 +111,7 @@
       "time": "time-pre-market",
       "symbol": "ADXN",
       "name": "Addex Therapeutics Ltd",
-      "marketCap": "$10,522,636",
+      "marketCap": "$10,036,975",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "2"
