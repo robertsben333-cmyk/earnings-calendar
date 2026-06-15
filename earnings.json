@@ -1,120 +1,218 @@
 {
-  "generated_at_utc": "2026-06-14T05:16:11+00:00",
+  "generated_at_utc": "2026-06-15T05:37:01+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-06-14",
-  "next_trading_day": "2026-06-15",
+  "reference_date": "2026-06-15",
+  "next_trading_day": "2026-06-16",
   "summary": {
     "after_close_today": {
-      "date": "2026-06-14",
-      "count": 0,
-      "tickers": [],
-      "rows": []
-    },
-    "before_open_next_trading_day": {
       "date": "2026-06-15",
       "count": 5,
       "tickers": [
-        "AIOT",
-        "CGC",
-        "CODA",
-        "JRSH",
-        "ADXN"
+        "PLAY",
+        "HITI",
+        "RFIL",
+        "QMCO",
+        "DOMO"
       ],
       "rows": [
         {
-          "symbol": "AIOT",
-          "name": "PowerFleet, Inc.",
-          "marketCap": "$564,760,036",
-          "epsForecast": "$0",
+          "symbol": "PLAY",
+          "name": "Dave & Buster's Entertainment, Inc.",
+          "marketCap": "$457,865,358",
+          "epsForecast": "$0.37",
+          "fiscalQuarterEnding": "Apr/2026"
+        },
+        {
+          "symbol": "HITI",
+          "name": "High Tide Inc.",
+          "marketCap": "$204,816,715",
+          "epsForecast": "($0.02)",
+          "fiscalQuarterEnding": "Apr/2026"
+        },
+        {
+          "symbol": "RFIL",
+          "name": "RF Industries, Ltd.",
+          "marketCap": "$200,820,938",
+          "epsForecast": "$0.07",
+          "fiscalQuarterEnding": "Apr/2026"
+        },
+        {
+          "symbol": "QMCO",
+          "name": "Quantum Corporation",
+          "marketCap": "$191,172,659",
+          "epsForecast": "($0.37)",
           "fiscalQuarterEnding": "Mar/2026"
         },
         {
-          "symbol": "CGC",
-          "name": "Canopy Growth Corporation",
-          "marketCap": "$437,398,622",
-          "epsForecast": "($0.06)",
-          "fiscalQuarterEnding": "Mar/2026"
+          "symbol": "DOMO",
+          "name": "Domo, Inc.",
+          "marketCap": "$133,645,666",
+          "epsForecast": "($0.41)",
+          "fiscalQuarterEnding": "Apr/2026"
+        }
+      ]
+    },
+    "before_open_next_trading_day": {
+      "date": "2026-06-16",
+      "count": 5,
+      "tickers": [
+        "WLY",
+        "WLYB",
+        "WDH",
+        "UXIN",
+        "VNCE"
+      ],
+      "rows": [
+        {
+          "symbol": "WLY",
+          "name": "John Wiley & Sons, Inc.",
+          "marketCap": "$2,291,571,771",
+          "epsForecast": "$1.65",
+          "fiscalQuarterEnding": "Apr/2026"
         },
         {
-          "symbol": "CODA",
-          "name": "Coda Octopus Group, Inc.",
-          "marketCap": "$134,186,209",
+          "symbol": "WLYB",
+          "name": "John Wiley & Sons, Inc.",
+          "marketCap": "$2,291,571,771",
           "epsForecast": "",
           "fiscalQuarterEnding": "Apr/2026"
         },
         {
-          "symbol": "JRSH",
-          "name": "Jerash Holdings (US), Inc.",
-          "marketCap": "$45,465,785",
+          "symbol": "WDH",
+          "name": "Waterdrop Inc.",
+          "marketCap": "$506,615,754",
           "epsForecast": "",
           "fiscalQuarterEnding": "Mar/2026"
         },
         {
-          "symbol": "ADXN",
-          "name": "Addex Therapeutics Ltd",
-          "marketCap": "$10,036,975",
+          "symbol": "UXIN",
+          "name": "Uxin Limited",
+          "marketCap": "$464,158,351",
           "epsForecast": "",
           "fiscalQuarterEnding": "Mar/2026"
+        },
+        {
+          "symbol": "VNCE",
+          "name": "Vince Holding Corp.",
+          "marketCap": "$61,538,538",
+          "epsForecast": "($0.13)",
+          "fiscalQuarterEnding": "Apr/2026"
         }
       ]
     }
   },
-  "after_close": [],
-  "before_open": [
+  "after_close": [
     {
-      "lastYearRptDt": "6/16/2025",
-      "lastYearEPS": "($0.09)",
-      "time": "time-pre-market",
-      "symbol": "AIOT",
-      "name": "PowerFleet, Inc.",
-      "marketCap": "$564,760,036",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "$0",
-      "noOfEsts": "5"
+      "lastYearRptDt": "6/10/2025",
+      "lastYearEPS": "$0.76",
+      "time": "time-after-hours",
+      "symbol": "PLAY",
+      "name": "Dave & Buster's Entertainment, Inc.",
+      "marketCap": "$457,865,358",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "$0.37",
+      "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "5/30/2025",
-      "lastYearEPS": "($0.94)",
-      "time": "time-pre-market",
-      "symbol": "CGC",
-      "name": "Canopy Growth Corporation",
-      "marketCap": "$437,398,622",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "($0.06)",
+      "lastYearRptDt": "6/16/2025",
+      "lastYearEPS": "($0.03)",
+      "time": "time-after-hours",
+      "symbol": "HITI",
+      "name": "High Tide Inc.",
+      "marketCap": "$204,816,715",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "($0.02)",
       "noOfEsts": "3"
     },
     {
+      "lastYearRptDt": "6/16/2025",
+      "lastYearEPS": "$0.05",
+      "time": "time-after-hours",
+      "symbol": "RFIL",
+      "name": "RF Industries, Ltd.",
+      "marketCap": "$200,820,938",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "$0.07",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.08",
+      "lastYearEPS": "N/A",
+      "time": "time-after-hours",
+      "symbol": "QMCO",
+      "name": "Quantum Corporation",
+      "marketCap": "$191,172,659",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "($0.37)",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "5/21/2025",
+      "lastYearEPS": "($0.48)",
+      "time": "time-after-hours",
+      "symbol": "DOMO",
+      "name": "Domo, Inc.",
+      "marketCap": "$133,645,666",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "($0.41)",
+      "noOfEsts": "2"
+    }
+  ],
+  "before_open": [
+    {
+      "lastYearRptDt": "6/17/2025",
+      "lastYearEPS": "$1.37",
       "time": "time-pre-market",
-      "symbol": "CODA",
-      "name": "Coda Octopus Group, Inc.",
-      "marketCap": "$134,186,209",
+      "symbol": "WLY",
+      "name": "John Wiley & Sons, Inc.",
+      "marketCap": "$2,291,571,771",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "$1.65",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$1.37",
+      "time": "time-pre-market",
+      "symbol": "WLYB",
+      "name": "John Wiley & Sons, Inc.",
+      "marketCap": "$2,291,571,771",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "",
       "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.01)",
+      "lastYearEPS": "$0.04",
       "time": "time-pre-market",
-      "symbol": "JRSH",
-      "name": "Jerash Holdings (US), Inc.",
-      "marketCap": "$45,465,785",
+      "symbol": "WDH",
+      "name": "Waterdrop Inc.",
+      "marketCap": "$506,615,754",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "($1.33)",
+      "lastYearEPS": "($0.03)",
       "time": "time-pre-market",
-      "symbol": "ADXN",
-      "name": "Addex Therapeutics Ltd",
-      "marketCap": "$10,036,975",
+      "symbol": "UXIN",
+      "name": "Uxin Limited",
+      "marketCap": "$464,158,351",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "6/17/2025",
+      "lastYearEPS": "($0.37)",
+      "time": "time-pre-market",
+      "symbol": "VNCE",
+      "name": "Vince Holding Corp.",
+      "marketCap": "$61,538,538",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "($0.13)",
+      "noOfEsts": "1"
     }
   ]
 }
