@@ -1,104 +1,63 @@
 {
-  "generated_at_utc": "2026-06-17T05:24:41+00:00",
+  "generated_at_utc": "2026-06-18T05:17:50+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-06-17",
-  "next_trading_day": "2026-06-18",
+  "reference_date": "2026-06-18",
+  "next_trading_day": "2026-06-22",
   "summary": {
     "after_close_today": {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
+      "count": 0,
+      "tickers": [],
+      "rows": []
+    },
+    "before_open_next_trading_day": {
+      "date": "2026-06-22",
       "count": 2,
       "tickers": [
-        "SB",
-        "SWBI"
+        "FRVO",
+        "POWW"
       ],
       "rows": [
         {
-          "symbol": "SB",
-          "name": "Safe Bulkers, Inc",
-          "marketCap": "$696,286,965",
-          "epsForecast": "",
+          "symbol": "FRVO",
+          "name": "Fervo Energy Company",
+          "marketCap": "$9,615,598,712",
+          "epsForecast": "($0.09)",
           "fiscalQuarterEnding": "Mar/2026"
         },
         {
-          "symbol": "SWBI",
-          "name": "Smith & Wesson Brands, Inc.",
-          "marketCap": "$638,485,241",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Apr/2026"
-        }
-      ]
-    },
-    "before_open_next_trading_day": {
-      "date": "2026-06-18",
-      "count": 2,
-      "tickers": [
-        "ACN",
-        "KR"
-      ],
-      "rows": [
-        {
-          "symbol": "ACN",
-          "name": "Accenture plc",
-          "marketCap": "$109,987,887,734",
-          "epsForecast": "$3.70",
-          "fiscalQuarterEnding": "May/2026"
-        },
-        {
-          "symbol": "KR",
-          "name": "Kroger Company (The)",
-          "marketCap": "$39,245,331,349",
-          "epsForecast": "$1.59",
-          "fiscalQuarterEnding": "Apr/2026"
+          "symbol": "POWW",
+          "name": "Outdoor Holding Company",
+          "marketCap": "$228,713,008",
+          "epsForecast": "($0.02)",
+          "fiscalQuarterEnding": "Mar/2026"
         }
       ]
     }
   },
-  "after_close": [
+  "after_close": [],
+  "before_open": [
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.05",
-      "time": "time-after-hours",
-      "symbol": "SB",
-      "name": "Safe Bulkers, Inc",
-      "marketCap": "$696,286,965",
+      "lastYearEPS": "N/A",
+      "time": "time-pre-market",
+      "symbol": "FRVO",
+      "name": "Fervo Energy Company",
+      "marketCap": "$9,615,598,712",
       "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "",
+      "epsForecast": "($0.09)",
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "6/18/2025",
-      "lastYearEPS": "$0.20",
-      "time": "time-after-hours",
-      "symbol": "SWBI",
-      "name": "Smith & Wesson Brands, Inc.",
-      "marketCap": "$638,485,241",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    }
-  ],
-  "before_open": [
-    {
-      "lastYearRptDt": "6/20/2025",
-      "lastYearEPS": "$3.49",
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
       "time": "time-pre-market",
-      "symbol": "ACN",
-      "name": "Accenture plc",
-      "marketCap": "$109,987,887,734",
-      "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$3.70",
-      "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "6/20/2025",
-      "lastYearEPS": "$1.49",
-      "time": "time-pre-market",
-      "symbol": "KR",
-      "name": "Kroger Company (The)",
-      "marketCap": "$39,245,331,349",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "$1.59",
-      "noOfEsts": "8"
+      "symbol": "POWW",
+      "name": "Outdoor Holding Company",
+      "marketCap": "$228,713,008",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "($0.02)",
+      "noOfEsts": "1"
     }
   ]
 }
