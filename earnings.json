@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-06-18T05:17:50+00:00",
+  "generated_at_utc": "2026-06-19T05:33:51+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-06-18",
+  "reference_date": "2026-06-19",
   "next_trading_day": "2026-06-22",
   "summary": {
     "after_close_today": {
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "count": 0,
       "tickers": [],
       "rows": []
@@ -21,14 +21,14 @@
         {
           "symbol": "FRVO",
           "name": "Fervo Energy Company",
-          "marketCap": "$9,615,598,712",
+          "marketCap": "$10,347,189,531",
           "epsForecast": "($0.09)",
           "fiscalQuarterEnding": "Mar/2026"
         },
         {
           "symbol": "POWW",
           "name": "Outdoor Holding Company",
-          "marketCap": "$228,713,008",
+          "marketCap": "$227,540,121",
           "epsForecast": "($0.02)",
           "fiscalQuarterEnding": "Mar/2026"
         }
@@ -43,7 +43,7 @@
       "time": "time-pre-market",
       "symbol": "FRVO",
       "name": "Fervo Energy Company",
-      "marketCap": "$9,615,598,712",
+      "marketCap": "$10,347,189,531",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "($0.09)",
       "noOfEsts": "1"
@@ -54,7 +54,7 @@
       "time": "time-pre-market",
       "symbol": "POWW",
       "name": "Outdoor Holding Company",
-      "marketCap": "$228,713,008",
+      "marketCap": "$227,540,121",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "($0.02)",
       "noOfEsts": "1"
