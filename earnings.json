@@ -1,35 +1,51 @@
 {
-  "generated_at_utc": "2026-06-21T05:25:23+00:00",
+  "generated_at_utc": "2026-06-22T05:41:34+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-06-21",
-  "next_trading_day": "2026-06-22",
+  "reference_date": "2026-06-22",
+  "next_trading_day": "2026-06-23",
   "summary": {
     "after_close_today": {
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "count": 0,
       "tickers": [],
       "rows": []
     },
     "before_open_next_trading_day": {
-      "date": "2026-06-22",
-      "count": 2,
+      "date": "2026-06-23",
+      "count": 4,
       "tickers": [
-        "FRVO",
-        "POWW"
+        "CCL",
+        "SUNB",
+        "KFY",
+        "JFIN"
       ],
       "rows": [
         {
-          "symbol": "FRVO",
-          "name": "Fervo Energy Company",
-          "marketCap": "$10,347,189,531",
-          "epsForecast": "($0.09)",
-          "fiscalQuarterEnding": "Mar/2026"
+          "symbol": "CCL",
+          "name": "Carnival Corporation Ltd.",
+          "marketCap": "$42,711,954,044",
+          "epsForecast": "$0.34",
+          "fiscalQuarterEnding": "May/2026"
         },
         {
-          "symbol": "POWW",
-          "name": "Outdoor Holding Company",
-          "marketCap": "$227,540,121",
-          "epsForecast": "($0.02)",
+          "symbol": "SUNB",
+          "name": "Sunbelt Rentals Holdings, Inc.",
+          "marketCap": "$33,696,332,939",
+          "epsForecast": "$0.73",
+          "fiscalQuarterEnding": "Apr/2026"
+        },
+        {
+          "symbol": "KFY",
+          "name": "Korn Ferry ",
+          "marketCap": "$3,718,747,525",
+          "epsForecast": "$1.37",
+          "fiscalQuarterEnding": "Apr/2026"
+        },
+        {
+          "symbol": "JFIN",
+          "name": "Jiayin Group Inc.",
+          "marketCap": "$205,131,820",
+          "epsForecast": "",
           "fiscalQuarterEnding": "Mar/2026"
         }
       ]
@@ -38,26 +54,48 @@
   "after_close": [],
   "before_open": [
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "lastYearRptDt": "6/24/2025",
+      "lastYearEPS": "$0.35",
       "time": "time-pre-market",
-      "symbol": "FRVO",
-      "name": "Fervo Energy Company",
-      "marketCap": "$10,347,189,531",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "($0.09)",
-      "noOfEsts": "2"
+      "symbol": "CCL",
+      "name": "Carnival Corporation Ltd.",
+      "marketCap": "$42,711,954,044",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "$0.34",
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "N/A",
       "time": "time-pre-market",
-      "symbol": "POWW",
-      "name": "Outdoor Holding Company",
-      "marketCap": "$227,540,121",
+      "symbol": "SUNB",
+      "name": "Sunbelt Rentals Holdings, Inc.",
+      "marketCap": "$33,696,332,939",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "$0.73",
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "6/18/2025",
+      "lastYearEPS": "$1.32",
+      "time": "time-pre-market",
+      "symbol": "KFY",
+      "name": "Korn Ferry ",
+      "marketCap": "$3,718,747,525",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "$1.37",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$1.40",
+      "time": "time-pre-market",
+      "symbol": "JFIN",
+      "name": "Jiayin Group Inc.",
+      "marketCap": "$205,131,820",
       "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "($0.02)",
-      "noOfEsts": "2"
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     }
   ]
 }
