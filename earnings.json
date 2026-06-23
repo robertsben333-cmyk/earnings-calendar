@@ -1,101 +1,275 @@
 {
-  "generated_at_utc": "2026-06-22T05:41:34+00:00",
+  "generated_at_utc": "2026-06-23T04:41:12+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-06-22",
-  "next_trading_day": "2026-06-23",
+  "reference_date": "2026-06-23",
+  "next_trading_day": "2026-06-24",
   "summary": {
     "after_close_today": {
-      "date": "2026-06-22",
-      "count": 0,
-      "tickers": [],
-      "rows": []
-    },
-    "before_open_next_trading_day": {
       "date": "2026-06-23",
-      "count": 4,
+      "count": 6,
       "tickers": [
-        "CCL",
-        "SUNB",
-        "KFY",
-        "JFIN"
+        "FDX",
+        "CBRS",
+        "ICLR",
+        "KBH",
+        "WOR",
+        "KEQU"
       ],
       "rows": [
         {
-          "symbol": "CCL",
-          "name": "Carnival Corporation Ltd.",
-          "marketCap": "$42,711,954,044",
-          "epsForecast": "$0.34",
+          "symbol": "FDX",
+          "name": "FedEx Corporation",
+          "marketCap": "$77,833,523,807",
+          "epsForecast": "$5.91",
           "fiscalQuarterEnding": "May/2026"
         },
         {
-          "symbol": "SUNB",
-          "name": "Sunbelt Rentals Holdings, Inc.",
-          "marketCap": "$33,696,332,939",
-          "epsForecast": "$0.73",
+          "symbol": "CBRS",
+          "name": "Cerebras Systems Inc.",
+          "marketCap": "$50,516,290,858",
+          "epsForecast": "($0.14)",
+          "fiscalQuarterEnding": "Mar/2026"
+        },
+        {
+          "symbol": "ICLR",
+          "name": "ICON plc",
+          "marketCap": "$11,178,829,450",
+          "epsForecast": "$2.18",
+          "fiscalQuarterEnding": "Mar/2026"
+        },
+        {
+          "symbol": "KBH",
+          "name": "KB Home",
+          "marketCap": "$3,395,534,933",
+          "epsForecast": "$0.44",
+          "fiscalQuarterEnding": "May/2026"
+        },
+        {
+          "symbol": "WOR",
+          "name": "Worthington Enterprises, Inc.",
+          "marketCap": "$2,974,880,838",
+          "epsForecast": "$1.04",
+          "fiscalQuarterEnding": "May/2026"
+        },
+        {
+          "symbol": "KEQU",
+          "name": "Kewaunee Scientific Corporation",
+          "marketCap": "$107,575,392",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Apr/2026"
+        }
+      ]
+    },
+    "before_open_next_trading_day": {
+      "date": "2026-06-24",
+      "count": 7,
+      "tickers": [
+        "PAYX",
+        "NG",
+        "DAKT",
+        "PODC",
+        "LVO",
+        "MNY",
+        "CRWS"
+      ],
+      "rows": [
+        {
+          "symbol": "PAYX",
+          "name": "Paychex, Inc.",
+          "marketCap": "$35,198,496,149",
+          "epsForecast": "$1.31",
+          "fiscalQuarterEnding": "May/2026"
+        },
+        {
+          "symbol": "NG",
+          "name": "Novagold Resources Inc.",
+          "marketCap": "$3,453,380,065",
+          "epsForecast": "($0.06)",
+          "fiscalQuarterEnding": "May/2026"
+        },
+        {
+          "symbol": "DAKT",
+          "name": "Daktronics, Inc.",
+          "marketCap": "$1,002,668,764",
+          "epsForecast": "$0.22",
           "fiscalQuarterEnding": "Apr/2026"
         },
         {
-          "symbol": "KFY",
-          "name": "Korn Ferry ",
-          "marketCap": "$3,718,747,525",
-          "epsForecast": "$1.37",
-          "fiscalQuarterEnding": "Apr/2026"
+          "symbol": "PODC",
+          "name": "PodcastOne, Inc.",
+          "marketCap": "$112,700,652",
+          "epsForecast": "($0.03)",
+          "fiscalQuarterEnding": "Mar/2026"
         },
         {
-          "symbol": "JFIN",
-          "name": "Jiayin Group Inc.",
-          "marketCap": "$205,131,820",
+          "symbol": "LVO",
+          "name": "LiveOne, Inc.",
+          "marketCap": "$83,656,419",
+          "epsForecast": "($0.31)",
+          "fiscalQuarterEnding": "Mar/2026"
+        },
+        {
+          "symbol": "MNY",
+          "name": "MoneyHero Limited",
+          "marketCap": "$52,417,867",
+          "epsForecast": "($0.06)",
+          "fiscalQuarterEnding": "Mar/2026"
+        },
+        {
+          "symbol": "CRWS",
+          "name": "Crown Crafts, Inc.",
+          "marketCap": "$29,525,892",
           "epsForecast": "",
           "fiscalQuarterEnding": "Mar/2026"
         }
       ]
     }
   },
-  "after_close": [],
-  "before_open": [
+  "after_close": [
     {
       "lastYearRptDt": "6/24/2025",
-      "lastYearEPS": "$0.35",
-      "time": "time-pre-market",
-      "symbol": "CCL",
-      "name": "Carnival Corporation Ltd.",
-      "marketCap": "$42,711,954,044",
+      "lastYearEPS": "$6.07",
+      "time": "time-after-hours",
+      "symbol": "FDX",
+      "name": "FedEx Corporation",
+      "marketCap": "$77,833,523,807",
       "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$0.34",
-      "noOfEsts": "6"
+      "epsForecast": "$5.91",
+      "noOfEsts": "9"
     },
     {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "N/A",
-      "time": "time-pre-market",
-      "symbol": "SUNB",
-      "name": "Sunbelt Rentals Holdings, Inc.",
-      "marketCap": "$33,696,332,939",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "$0.73",
+      "time": "time-after-hours",
+      "symbol": "CBRS",
+      "name": "Cerebras Systems Inc.",
+      "marketCap": "$50,516,290,858",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "($0.14)",
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "6/18/2025",
-      "lastYearEPS": "$1.32",
-      "time": "time-pre-market",
-      "symbol": "KFY",
-      "name": "Korn Ferry ",
-      "marketCap": "$3,718,747,525",
+      "lastYearRptDt": "4/30/2025",
+      "lastYearEPS": "$3.07",
+      "time": "time-after-hours",
+      "symbol": "ICLR",
+      "name": "ICON plc",
+      "marketCap": "$11,178,829,450",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "$2.18",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "6/23/2025",
+      "lastYearEPS": "$1.50",
+      "time": "time-after-hours",
+      "symbol": "KBH",
+      "name": "KB Home",
+      "marketCap": "$3,395,534,933",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "$0.44",
+      "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "6/24/2025",
+      "lastYearEPS": "$1.06",
+      "time": "time-after-hours",
+      "symbol": "WOR",
+      "name": "Worthington Enterprises, Inc.",
+      "marketCap": "$2,974,880,838",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "$1.04",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$1.95",
+      "time": "time-after-hours",
+      "symbol": "KEQU",
+      "name": "Kewaunee Scientific Corporation",
+      "marketCap": "$107,575,392",
       "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "$1.37",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    }
+  ],
+  "before_open": [
+    {
+      "lastYearRptDt": "6/25/2025",
+      "lastYearEPS": "$1.19",
+      "time": "time-pre-market",
+      "symbol": "PAYX",
+      "name": "Paychex, Inc.",
+      "marketCap": "$35,198,496,149",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "$1.31",
+      "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "6/25/2025",
+      "lastYearEPS": "($0.04)",
+      "time": "time-pre-market",
+      "symbol": "NG",
+      "name": "Novagold Resources Inc.",
+      "marketCap": "$3,453,380,065",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "($0.06)",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "6/25/2025",
+      "lastYearEPS": "$0.18",
+      "time": "time-pre-market",
+      "symbol": "DAKT",
+      "name": "Daktronics, Inc.",
+      "marketCap": "$1,002,668,764",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "$0.22",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "7/02/2025",
+      "lastYearEPS": "($0.06)",
+      "time": "time-pre-market",
+      "symbol": "PODC",
+      "name": "PodcastOne, Inc.",
+      "marketCap": "$112,700,652",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "($0.03)",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "6/18/2025",
+      "lastYearEPS": "($0.30)",
+      "time": "time-pre-market",
+      "symbol": "LVO",
+      "name": "LiveOne, Inc.",
+      "marketCap": "$83,656,419",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "($0.31)",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "6/13/2025",
+      "lastYearEPS": "($0.10)",
+      "time": "time-pre-market",
+      "symbol": "MNY",
+      "name": "MoneyHero Limited",
+      "marketCap": "$52,417,867",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "($0.06)",
       "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "$1.40",
+      "lastYearEPS": "($0.04)",
       "time": "time-pre-market",
-      "symbol": "JFIN",
-      "name": "Jiayin Group Inc.",
-      "marketCap": "$205,131,820",
+      "symbol": "CRWS",
+      "name": "Crown Crafts, Inc.",
+      "marketCap": "$29,525,892",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     }
   ]
 }
