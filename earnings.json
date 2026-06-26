@@ -1,142 +1,22 @@
 {
-  "generated_at_utc": "2026-06-25T04:46:01+00:00",
+  "generated_at_utc": "2026-06-26T04:49:42+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-06-25",
-  "next_trading_day": "2026-06-26",
+  "reference_date": "2026-06-26",
+  "next_trading_day": "2026-06-29",
   "summary": {
     "after_close_today": {
-      "date": "2026-06-25",
-      "count": 3,
-      "tickers": [
-        "FDXF",
-        "OMSE",
-        "AOUT"
-      ],
-      "rows": [
-        {
-          "symbol": "FDXF",
-          "name": "FedEx Freight Holding Company, Inc.",
-          "marketCap": "$19,855,514,980",
-          "epsForecast": "$1.48",
-          "fiscalQuarterEnding": "May/2026"
-        },
-        {
-          "symbol": "OMSE",
-          "name": "OMS Energy Technologies Inc.",
-          "marketCap": "$176,162,122",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Mar/2026"
-        },
-        {
-          "symbol": "AOUT",
-          "name": "American Outdoor Brands, Inc.",
-          "marketCap": "$128,098,879",
-          "epsForecast": "($0.05)",
-          "fiscalQuarterEnding": "Apr/2026"
-        }
-      ]
+      "date": "2026-06-26",
+      "count": 0,
+      "tickers": [],
+      "rows": []
     },
     "before_open_next_trading_day": {
-      "date": "2026-06-26",
-      "count": 3,
-      "tickers": [
-        "APOG",
-        "CNVS",
-        "XAIR"
-      ],
-      "rows": [
-        {
-          "symbol": "APOG",
-          "name": "Apogee Enterprises, Inc.",
-          "marketCap": "$857,669,871",
-          "epsForecast": "$0.43",
-          "fiscalQuarterEnding": "May/2026"
-        },
-        {
-          "symbol": "CNVS",
-          "name": "Cineverse Corp.",
-          "marketCap": "$60,690,368",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Mar/2026"
-        },
-        {
-          "symbol": "XAIR",
-          "name": "Beyond Air, Inc.",
-          "marketCap": "$5,940,176",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Mar/2026"
-        }
-      ]
+      "date": "2026-06-29",
+      "count": 0,
+      "tickers": [],
+      "rows": []
     }
   },
-  "after_close": [
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-after-hours",
-      "symbol": "FDXF",
-      "name": "FedEx Freight Holding Company, Inc.",
-      "marketCap": "$19,855,514,980",
-      "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$1.48",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-after-hours",
-      "symbol": "OMSE",
-      "name": "OMS Energy Technologies Inc.",
-      "marketCap": "$176,162,122",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "6/26/2025",
-      "lastYearEPS": "$0.08",
-      "time": "time-after-hours",
-      "symbol": "AOUT",
-      "name": "American Outdoor Brands, Inc.",
-      "marketCap": "$128,098,879",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "($0.05)",
-      "noOfEsts": "2"
-    }
-  ],
-  "before_open": [
-    {
-      "lastYearRptDt": "6/27/2025",
-      "lastYearEPS": "$0.56",
-      "time": "time-pre-market",
-      "symbol": "APOG",
-      "name": "Apogee Enterprises, Inc.",
-      "marketCap": "$857,669,871",
-      "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$0.43",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.04",
-      "time": "time-pre-market",
-      "symbol": "CNVS",
-      "name": "Cineverse Corp.",
-      "marketCap": "$60,690,368",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($1.80)",
-      "time": "time-pre-market",
-      "symbol": "XAIR",
-      "name": "Beyond Air, Inc.",
-      "marketCap": "$5,940,176",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "",
-      "noOfEsts": "2"
-    }
-  ]
+  "after_close": [],
+  "before_open": []
 }
