@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-06-26T04:49:42+00:00",
+  "generated_at_utc": "2026-06-27T04:34:59+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-06-26",
+  "reference_date": "2026-06-27",
   "next_trading_day": "2026-06-29",
   "summary": {
     "after_close_today": {
-      "date": "2026-06-26",
+      "date": "2026-06-27",
       "count": 0,
       "tickers": [],
       "rows": []
