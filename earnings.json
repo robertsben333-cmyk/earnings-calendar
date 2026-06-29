@@ -1,22 +1,63 @@
 {
-  "generated_at_utc": "2026-06-28T05:03:02+00:00",
+  "generated_at_utc": "2026-06-29T05:12:22+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-06-28",
-  "next_trading_day": "2026-06-29",
+  "reference_date": "2026-06-29",
+  "next_trading_day": "2026-06-30",
   "summary": {
     "after_close_today": {
-      "date": "2026-06-28",
-      "count": 0,
-      "tickers": [],
-      "rows": []
+      "date": "2026-06-29",
+      "count": 2,
+      "tickers": [
+        "AVAV",
+        "CNXC"
+      ],
+      "rows": [
+        {
+          "symbol": "AVAV",
+          "name": "AeroVironment, Inc.",
+          "marketCap": "$6,824,978,163",
+          "epsForecast": "$1.53",
+          "fiscalQuarterEnding": "Apr/2026"
+        },
+        {
+          "symbol": "CNXC",
+          "name": "Concentrix Corporation",
+          "marketCap": "$1,373,828,682",
+          "epsForecast": "$2.31",
+          "fiscalQuarterEnding": "May/2026"
+        }
+      ]
     },
     "before_open_next_trading_day": {
-      "date": "2026-06-29",
+      "date": "2026-06-30",
       "count": 0,
       "tickers": [],
       "rows": []
     }
   },
-  "after_close": [],
+  "after_close": [
+    {
+      "lastYearRptDt": "6/24/2025",
+      "lastYearEPS": "$1.61",
+      "time": "time-after-hours",
+      "symbol": "AVAV",
+      "name": "AeroVironment, Inc.",
+      "marketCap": "$6,824,978,163",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "$1.53",
+      "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "6/26/2025",
+      "lastYearEPS": "$2.30",
+      "time": "time-after-hours",
+      "symbol": "CNXC",
+      "name": "Concentrix Corporation",
+      "marketCap": "$1,373,828,682",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "$2.31",
+      "noOfEsts": "1"
+    }
+  ],
   "before_open": []
 }
