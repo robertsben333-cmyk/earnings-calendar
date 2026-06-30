@@ -1,63 +1,161 @@
 {
-  "generated_at_utc": "2026-06-29T05:12:22+00:00",
+  "generated_at_utc": "2026-06-30T04:45:22+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-06-29",
-  "next_trading_day": "2026-06-30",
+  "reference_date": "2026-06-30",
+  "next_trading_day": "2026-07-01",
   "summary": {
     "after_close_today": {
-      "date": "2026-06-29",
-      "count": 2,
+      "date": "2026-06-30",
+      "count": 3,
       "tickers": [
-        "AVAV",
-        "CNXC"
+        "NKE",
+        "STZ",
+        "PRGS"
       ],
       "rows": [
         {
-          "symbol": "AVAV",
-          "name": "AeroVironment, Inc.",
-          "marketCap": "$6,824,978,163",
-          "epsForecast": "$1.53",
-          "fiscalQuarterEnding": "Apr/2026"
+          "symbol": "NKE",
+          "name": "Nike, Inc.",
+          "marketCap": "$60,346,146,595",
+          "epsForecast": "$0.11",
+          "fiscalQuarterEnding": "May/2026"
         },
         {
-          "symbol": "CNXC",
-          "name": "Concentrix Corporation",
-          "marketCap": "$1,373,828,682",
-          "epsForecast": "$2.31",
+          "symbol": "STZ",
+          "name": "Constellation Brands Inc",
+          "marketCap": "$25,192,635,722",
+          "epsForecast": "$3.22",
+          "fiscalQuarterEnding": "May/2026"
+        },
+        {
+          "symbol": "PRGS",
+          "name": "Progress Software Corporation",
+          "marketCap": "$1,394,905,922",
+          "epsForecast": "$1.15",
           "fiscalQuarterEnding": "May/2026"
         }
       ]
     },
     "before_open_next_trading_day": {
-      "date": "2026-06-30",
-      "count": 0,
-      "tickers": [],
-      "rows": []
+      "date": "2026-07-01",
+      "count": 4,
+      "tickers": [
+        "GIS",
+        "FDS",
+        "MSM",
+        "UNF"
+      ],
+      "rows": [
+        {
+          "symbol": "GIS",
+          "name": "General Mills, Inc.",
+          "marketCap": "$19,217,860,660",
+          "epsForecast": "$0.82",
+          "fiscalQuarterEnding": "May/2026"
+        },
+        {
+          "symbol": "FDS",
+          "name": "FactSet Research Systems Inc.",
+          "marketCap": "$8,442,549,371",
+          "epsForecast": "$4.44",
+          "fiscalQuarterEnding": "May/2026"
+        },
+        {
+          "symbol": "MSM",
+          "name": "MSC Industrial Direct Company, Inc.",
+          "marketCap": "$6,598,498,874",
+          "epsForecast": "$1.27",
+          "fiscalQuarterEnding": "May/2026"
+        },
+        {
+          "symbol": "UNF",
+          "name": "Unifirst Corporation",
+          "marketCap": "$4,811,332,635",
+          "epsForecast": "$1.93",
+          "fiscalQuarterEnding": "May/2026"
+        }
+      ]
     }
   },
   "after_close": [
     {
-      "lastYearRptDt": "6/24/2025",
-      "lastYearEPS": "$1.61",
+      "lastYearRptDt": "6/26/2025",
+      "lastYearEPS": "$0.14",
       "time": "time-after-hours",
-      "symbol": "AVAV",
-      "name": "AeroVironment, Inc.",
-      "marketCap": "$6,824,978,163",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "$1.53",
-      "noOfEsts": "5"
+      "symbol": "NKE",
+      "name": "Nike, Inc.",
+      "marketCap": "$60,346,146,595",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "$0.11",
+      "noOfEsts": "10"
     },
     {
-      "lastYearRptDt": "6/26/2025",
-      "lastYearEPS": "$2.30",
+      "lastYearRptDt": "7/01/2025",
+      "lastYearEPS": "$3.22",
       "time": "time-after-hours",
-      "symbol": "CNXC",
-      "name": "Concentrix Corporation",
-      "marketCap": "$1,373,828,682",
+      "symbol": "STZ",
+      "name": "Constellation Brands Inc",
+      "marketCap": "$25,192,635,722",
       "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$2.31",
-      "noOfEsts": "1"
+      "epsForecast": "$3.22",
+      "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "6/30/2025",
+      "lastYearEPS": "$1.11",
+      "time": "time-after-hours",
+      "symbol": "PRGS",
+      "name": "Progress Software Corporation",
+      "marketCap": "$1,394,905,922",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "$1.15",
+      "noOfEsts": "3"
     }
   ],
-  "before_open": []
+  "before_open": [
+    {
+      "lastYearRptDt": "6/25/2025",
+      "lastYearEPS": "$0.74",
+      "time": "time-pre-market",
+      "symbol": "GIS",
+      "name": "General Mills, Inc.",
+      "marketCap": "$19,217,860,660",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "$0.82",
+      "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "6/23/2025",
+      "lastYearEPS": "$4.27",
+      "time": "time-pre-market",
+      "symbol": "FDS",
+      "name": "FactSet Research Systems Inc.",
+      "marketCap": "$8,442,549,371",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "$4.44",
+      "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "7/01/2025",
+      "lastYearEPS": "$1.08",
+      "time": "time-pre-market",
+      "symbol": "MSM",
+      "name": "MSC Industrial Direct Company, Inc.",
+      "marketCap": "$6,598,498,874",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "$1.27",
+      "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "7/02/2025",
+      "lastYearEPS": "$2.17",
+      "time": "time-pre-market",
+      "symbol": "UNF",
+      "name": "Unifirst Corporation",
+      "marketCap": "$4,811,332,635",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "$1.93",
+      "noOfEsts": "1"
+    }
+  ]
 }
