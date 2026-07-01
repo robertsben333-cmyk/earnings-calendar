@@ -1,77 +1,61 @@
 {
-  "generated_at_utc": "2026-06-30T04:45:22+00:00",
+  "generated_at_utc": "2026-07-01T05:05:34+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-06-30",
-  "next_trading_day": "2026-07-01",
+  "reference_date": "2026-07-01",
+  "next_trading_day": "2026-07-02",
   "summary": {
     "after_close_today": {
-      "date": "2026-06-30",
-      "count": 3,
+      "date": "2026-07-01",
+      "count": 4,
       "tickers": [
-        "NKE",
-        "STZ",
-        "PRGS"
+        "GBX",
+        "FC",
+        "BSET",
+        "CULP"
       ],
       "rows": [
         {
-          "symbol": "NKE",
-          "name": "Nike, Inc.",
-          "marketCap": "$60,346,146,595",
-          "epsForecast": "$0.11",
+          "symbol": "GBX",
+          "name": "Greenbrier Companies, Inc. (The)",
+          "marketCap": "$1,511,969,089",
+          "epsForecast": "$0.57",
           "fiscalQuarterEnding": "May/2026"
         },
         {
-          "symbol": "STZ",
-          "name": "Constellation Brands Inc",
-          "marketCap": "$25,192,635,722",
-          "epsForecast": "$3.22",
+          "symbol": "FC",
+          "name": "Franklin Covey Company",
+          "marketCap": "$288,010,944",
+          "epsForecast": "$0.24",
           "fiscalQuarterEnding": "May/2026"
         },
         {
-          "symbol": "PRGS",
-          "name": "Progress Software Corporation",
-          "marketCap": "$1,394,905,922",
-          "epsForecast": "$1.15",
+          "symbol": "BSET",
+          "name": "Bassett Furniture Industries, Incorporated",
+          "marketCap": "$157,725,548",
+          "epsForecast": "$0.20",
           "fiscalQuarterEnding": "May/2026"
+        },
+        {
+          "symbol": "CULP",
+          "name": "Culp, Inc.",
+          "marketCap": "$39,381,258",
+          "epsForecast": "($0.11)",
+          "fiscalQuarterEnding": "Apr/2026"
         }
       ]
     },
     "before_open_next_trading_day": {
-      "date": "2026-07-01",
-      "count": 4,
+      "date": "2026-07-02",
+      "count": 1,
       "tickers": [
-        "GIS",
-        "FDS",
-        "MSM",
-        "UNF"
+        "LNN"
       ],
       "rows": [
         {
-          "symbol": "GIS",
-          "name": "General Mills, Inc.",
-          "marketCap": "$19,217,860,660",
-          "epsForecast": "$0.82",
-          "fiscalQuarterEnding": "May/2026"
-        },
-        {
-          "symbol": "FDS",
-          "name": "FactSet Research Systems Inc.",
-          "marketCap": "$8,442,549,371",
-          "epsForecast": "$4.44",
-          "fiscalQuarterEnding": "May/2026"
-        },
-        {
-          "symbol": "MSM",
-          "name": "MSC Industrial Direct Company, Inc.",
-          "marketCap": "$6,598,498,874",
-          "epsForecast": "$1.27",
-          "fiscalQuarterEnding": "May/2026"
-        },
-        {
-          "symbol": "UNF",
-          "name": "Unifirst Corporation",
-          "marketCap": "$4,811,332,635",
-          "epsForecast": "$1.93",
+          "symbol": "LNN",
+          "name": "Lindsay Corporation",
+          "marketCap": "$1,291,452,221",
+          "epsForecast": "$1.41",
           "fiscalQuarterEnding": "May/2026"
         }
       ]
@@ -79,83 +63,61 @@
   },
   "after_close": [
     {
-      "lastYearRptDt": "6/26/2025",
-      "lastYearEPS": "$0.14",
-      "time": "time-after-hours",
-      "symbol": "NKE",
-      "name": "Nike, Inc.",
-      "marketCap": "$60,346,146,595",
-      "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$0.11",
-      "noOfEsts": "10"
-    },
-    {
       "lastYearRptDt": "7/01/2025",
-      "lastYearEPS": "$3.22",
+      "lastYearEPS": "$1.86",
       "time": "time-after-hours",
-      "symbol": "STZ",
-      "name": "Constellation Brands Inc",
-      "marketCap": "$25,192,635,722",
+      "symbol": "GBX",
+      "name": "Greenbrier Companies, Inc. (The)",
+      "marketCap": "$1,511,969,089",
       "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$3.22",
-      "noOfEsts": "6"
+      "epsForecast": "$0.57",
+      "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "6/30/2025",
-      "lastYearEPS": "$1.11",
+      "lastYearRptDt": "7/02/2025",
+      "lastYearEPS": "$0.18",
       "time": "time-after-hours",
-      "symbol": "PRGS",
-      "name": "Progress Software Corporation",
-      "marketCap": "$1,394,905,922",
+      "symbol": "FC",
+      "name": "Franklin Covey Company",
+      "marketCap": "$288,010,944",
       "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$1.15",
+      "epsForecast": "$0.24",
       "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "7/09/2025",
+      "lastYearEPS": "$0.22",
+      "time": "time-after-hours",
+      "symbol": "BSET",
+      "name": "Bassett Furniture Industries, Incorporated",
+      "marketCap": "$157,725,548",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "$0.20",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "6/25/2025",
+      "lastYearEPS": "($0.06)",
+      "time": "time-after-hours",
+      "symbol": "CULP",
+      "name": "Culp, Inc.",
+      "marketCap": "$39,381,258",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "($0.11)",
+      "noOfEsts": "1"
     }
   ],
   "before_open": [
     {
-      "lastYearRptDt": "6/25/2025",
-      "lastYearEPS": "$0.74",
+      "lastYearRptDt": "6/26/2025",
+      "lastYearEPS": "$1.78",
       "time": "time-pre-market",
-      "symbol": "GIS",
-      "name": "General Mills, Inc.",
-      "marketCap": "$19,217,860,660",
+      "symbol": "LNN",
+      "name": "Lindsay Corporation",
+      "marketCap": "$1,291,452,221",
       "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$0.82",
-      "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "6/23/2025",
-      "lastYearEPS": "$4.27",
-      "time": "time-pre-market",
-      "symbol": "FDS",
-      "name": "FactSet Research Systems Inc.",
-      "marketCap": "$8,442,549,371",
-      "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$4.44",
-      "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "7/01/2025",
-      "lastYearEPS": "$1.08",
-      "time": "time-pre-market",
-      "symbol": "MSM",
-      "name": "MSC Industrial Direct Company, Inc.",
-      "marketCap": "$6,598,498,874",
-      "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$1.27",
-      "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "7/02/2025",
-      "lastYearEPS": "$2.17",
-      "time": "time-pre-market",
-      "symbol": "UNF",
-      "name": "Unifirst Corporation",
-      "marketCap": "$4,811,332,635",
-      "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$1.93",
-      "noOfEsts": "1"
+      "epsForecast": "$1.41",
+      "noOfEsts": "2"
     }
   ]
 }
