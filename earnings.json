@@ -1,123 +1,22 @@
 {
-  "generated_at_utc": "2026-07-01T05:05:34+00:00",
+  "generated_at_utc": "2026-07-02T04:40:06+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-07-01",
-  "next_trading_day": "2026-07-02",
+  "reference_date": "2026-07-02",
+  "next_trading_day": "2026-07-06",
   "summary": {
     "after_close_today": {
-      "date": "2026-07-01",
-      "count": 4,
-      "tickers": [
-        "GBX",
-        "FC",
-        "BSET",
-        "CULP"
-      ],
-      "rows": [
-        {
-          "symbol": "GBX",
-          "name": "Greenbrier Companies, Inc. (The)",
-          "marketCap": "$1,511,969,089",
-          "epsForecast": "$0.57",
-          "fiscalQuarterEnding": "May/2026"
-        },
-        {
-          "symbol": "FC",
-          "name": "Franklin Covey Company",
-          "marketCap": "$288,010,944",
-          "epsForecast": "$0.24",
-          "fiscalQuarterEnding": "May/2026"
-        },
-        {
-          "symbol": "BSET",
-          "name": "Bassett Furniture Industries, Incorporated",
-          "marketCap": "$157,725,548",
-          "epsForecast": "$0.20",
-          "fiscalQuarterEnding": "May/2026"
-        },
-        {
-          "symbol": "CULP",
-          "name": "Culp, Inc.",
-          "marketCap": "$39,381,258",
-          "epsForecast": "($0.11)",
-          "fiscalQuarterEnding": "Apr/2026"
-        }
-      ]
+      "date": "2026-07-02",
+      "count": 0,
+      "tickers": [],
+      "rows": []
     },
     "before_open_next_trading_day": {
-      "date": "2026-07-02",
-      "count": 1,
-      "tickers": [
-        "LNN"
-      ],
-      "rows": [
-        {
-          "symbol": "LNN",
-          "name": "Lindsay Corporation",
-          "marketCap": "$1,291,452,221",
-          "epsForecast": "$1.41",
-          "fiscalQuarterEnding": "May/2026"
-        }
-      ]
+      "date": "2026-07-06",
+      "count": 0,
+      "tickers": [],
+      "rows": []
     }
   },
-  "after_close": [
-    {
-      "lastYearRptDt": "7/01/2025",
-      "lastYearEPS": "$1.86",
-      "time": "time-after-hours",
-      "symbol": "GBX",
-      "name": "Greenbrier Companies, Inc. (The)",
-      "marketCap": "$1,511,969,089",
-      "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$0.57",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "7/02/2025",
-      "lastYearEPS": "$0.18",
-      "time": "time-after-hours",
-      "symbol": "FC",
-      "name": "Franklin Covey Company",
-      "marketCap": "$288,010,944",
-      "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$0.24",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "7/09/2025",
-      "lastYearEPS": "$0.22",
-      "time": "time-after-hours",
-      "symbol": "BSET",
-      "name": "Bassett Furniture Industries, Incorporated",
-      "marketCap": "$157,725,548",
-      "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$0.20",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "6/25/2025",
-      "lastYearEPS": "($0.06)",
-      "time": "time-after-hours",
-      "symbol": "CULP",
-      "name": "Culp, Inc.",
-      "marketCap": "$39,381,258",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "($0.11)",
-      "noOfEsts": "1"
-    }
-  ],
-  "before_open": [
-    {
-      "lastYearRptDt": "6/26/2025",
-      "lastYearEPS": "$1.78",
-      "time": "time-pre-market",
-      "symbol": "LNN",
-      "name": "Lindsay Corporation",
-      "marketCap": "$1,291,452,221",
-      "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$1.41",
-      "noOfEsts": "2"
-    }
-  ]
+  "after_close": [],
+  "before_open": []
 }
