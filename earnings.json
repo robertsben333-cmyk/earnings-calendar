@@ -1,22 +1,142 @@
 {
-  "generated_at_utc": "2026-07-06T04:51:40+00:00",
+  "generated_at_utc": "2026-07-07T04:32:55+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-07-06",
-  "next_trading_day": "2026-07-07",
+  "reference_date": "2026-07-07",
+  "next_trading_day": "2026-07-08",
   "summary": {
     "after_close_today": {
-      "date": "2026-07-06",
-      "count": 0,
-      "tickers": [],
-      "rows": []
+      "date": "2026-07-07",
+      "count": 4,
+      "tickers": [
+        "PENG",
+        "EPAC",
+        "KRUS",
+        "SAR"
+      ],
+      "rows": [
+        {
+          "symbol": "PENG",
+          "name": "Penguin Solutions, Inc.",
+          "marketCap": "$3,119,449,317",
+          "epsForecast": "$0.49",
+          "fiscalQuarterEnding": "May/2026"
+        },
+        {
+          "symbol": "EPAC",
+          "name": "Enerpac Tool Group Corp.",
+          "marketCap": "$1,797,310,303",
+          "epsForecast": "$0.49",
+          "fiscalQuarterEnding": "May/2026"
+        },
+        {
+          "symbol": "KRUS",
+          "name": "Kura Sushi USA, Inc.",
+          "marketCap": "$699,839,482",
+          "epsForecast": "($0.05)",
+          "fiscalQuarterEnding": "May/2026"
+        },
+        {
+          "symbol": "SAR",
+          "name": "Saratoga Investment Corp",
+          "marketCap": "$363,746,845",
+          "epsForecast": "$0.54",
+          "fiscalQuarterEnding": "May/2026"
+        }
+      ]
     },
     "before_open_next_trading_day": {
-      "date": "2026-07-07",
-      "count": 0,
-      "tickers": [],
-      "rows": []
+      "date": "2026-07-08",
+      "count": 2,
+      "tickers": [
+        "LEVI",
+        "HELE"
+      ],
+      "rows": [
+        {
+          "symbol": "LEVI",
+          "name": "Levi Strauss & Co.",
+          "marketCap": "$9,387,994,487",
+          "epsForecast": "$0.24",
+          "fiscalQuarterEnding": "May/2026"
+        },
+        {
+          "symbol": "HELE",
+          "name": "Helen of Troy Limited",
+          "marketCap": "$655,438,597",
+          "epsForecast": "($0.13)",
+          "fiscalQuarterEnding": "May/2026"
+        }
+      ]
     }
   },
-  "after_close": [],
-  "before_open": []
+  "after_close": [
+    {
+      "lastYearRptDt": "7/08/2025",
+      "lastYearEPS": "$0.28",
+      "time": "time-after-hours",
+      "symbol": "PENG",
+      "name": "Penguin Solutions, Inc.",
+      "marketCap": "$3,119,449,317",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "$0.49",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "6/26/2025",
+      "lastYearEPS": "$0.51",
+      "time": "time-after-hours",
+      "symbol": "EPAC",
+      "name": "Enerpac Tool Group Corp.",
+      "marketCap": "$1,797,310,303",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "$0.49",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "7/08/2025",
+      "lastYearEPS": "$0.05",
+      "time": "time-after-hours",
+      "symbol": "KRUS",
+      "name": "Kura Sushi USA, Inc.",
+      "marketCap": "$699,839,482",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "($0.05)",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "7/08/2025",
+      "lastYearEPS": "$0.66",
+      "time": "time-after-hours",
+      "symbol": "SAR",
+      "name": "Saratoga Investment Corp",
+      "marketCap": "$363,746,845",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "$0.54",
+      "noOfEsts": "3"
+    }
+  ],
+  "before_open": [
+    {
+      "lastYearRptDt": "7/10/2025",
+      "lastYearEPS": "$0.22",
+      "time": "time-pre-market",
+      "symbol": "LEVI",
+      "name": "Levi Strauss & Co.",
+      "marketCap": "$9,387,994,487",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "$0.24",
+      "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "7/10/2025",
+      "lastYearEPS": "$0.40",
+      "time": "time-pre-market",
+      "symbol": "HELE",
+      "name": "Helen of Troy Limited",
+      "marketCap": "$655,438,597",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "($0.13)",
+      "noOfEsts": "3"
+    }
+  ]
 }
