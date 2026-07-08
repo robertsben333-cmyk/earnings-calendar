@@ -1,69 +1,77 @@
 {
-  "generated_at_utc": "2026-07-07T04:32:55+00:00",
+  "generated_at_utc": "2026-07-08T03:54:31+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-07-07",
-  "next_trading_day": "2026-07-08",
+  "reference_date": "2026-07-08",
+  "next_trading_day": "2026-07-09",
   "summary": {
     "after_close_today": {
-      "date": "2026-07-07",
-      "count": 4,
+      "date": "2026-07-08",
+      "count": 3,
       "tickers": [
-        "PENG",
-        "EPAC",
-        "KRUS",
-        "SAR"
+        "PSMT",
+        "AZZ",
+        "PCYO"
       ],
       "rows": [
         {
-          "symbol": "PENG",
-          "name": "Penguin Solutions, Inc.",
-          "marketCap": "$3,119,449,317",
-          "epsForecast": "$0.49",
+          "symbol": "PSMT",
+          "name": "PriceSmart, Inc.",
+          "marketCap": "$5,996,890,114",
+          "epsForecast": "",
           "fiscalQuarterEnding": "May/2026"
         },
         {
-          "symbol": "EPAC",
-          "name": "Enerpac Tool Group Corp.",
-          "marketCap": "$1,797,310,303",
-          "epsForecast": "$0.49",
+          "symbol": "AZZ",
+          "name": "AZZ Inc.",
+          "marketCap": "$4,578,593,596",
+          "epsForecast": "$1.63",
           "fiscalQuarterEnding": "May/2026"
         },
         {
-          "symbol": "KRUS",
-          "name": "Kura Sushi USA, Inc.",
-          "marketCap": "$699,839,482",
-          "epsForecast": "($0.05)",
-          "fiscalQuarterEnding": "May/2026"
-        },
-        {
-          "symbol": "SAR",
-          "name": "Saratoga Investment Corp",
-          "marketCap": "$363,746,845",
-          "epsForecast": "$0.54",
+          "symbol": "PCYO",
+          "name": "Pure Cycle Corporation",
+          "marketCap": "$254,296,229",
+          "epsForecast": "",
           "fiscalQuarterEnding": "May/2026"
         }
       ]
     },
     "before_open_next_trading_day": {
-      "date": "2026-07-08",
-      "count": 2,
+      "date": "2026-07-09",
+      "count": 4,
       "tickers": [
-        "LEVI",
-        "HELE"
+        "PEP",
+        "SMPL",
+        "BYRN",
+        "NTIC"
       ],
       "rows": [
         {
-          "symbol": "LEVI",
-          "name": "Levi Strauss & Co.",
-          "marketCap": "$9,387,994,487",
-          "epsForecast": "$0.24",
+          "symbol": "PEP",
+          "name": "Pepsico, Inc.",
+          "marketCap": "$195,844,231,856",
+          "epsForecast": "$2.19",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "SMPL",
+          "name": "The Simply Good Foods Company",
+          "marketCap": "$1,172,737,751",
+          "epsForecast": "$0.32",
           "fiscalQuarterEnding": "May/2026"
         },
         {
-          "symbol": "HELE",
-          "name": "Helen of Troy Limited",
-          "marketCap": "$655,438,597",
-          "epsForecast": "($0.13)",
+          "symbol": "BYRN",
+          "name": "Byrna Technologies, Inc.",
+          "marketCap": "$160,614,430",
+          "epsForecast": "($0.10)",
+          "fiscalQuarterEnding": "May/2026"
+        },
+        {
+          "symbol": "NTIC",
+          "name": "Northern Technologies International Corporation",
+          "marketCap": "$84,099,129",
+          "epsForecast": "$0.04",
           "fiscalQuarterEnding": "May/2026"
         }
       ]
@@ -71,72 +79,83 @@
   },
   "after_close": [
     {
-      "lastYearRptDt": "7/08/2025",
-      "lastYearEPS": "$0.28",
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$1.14",
       "time": "time-after-hours",
-      "symbol": "PENG",
-      "name": "Penguin Solutions, Inc.",
-      "marketCap": "$3,119,449,317",
+      "symbol": "PSMT",
+      "name": "PriceSmart, Inc.",
+      "marketCap": "$5,996,890,114",
       "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$0.49",
-      "noOfEsts": "1"
+      "epsForecast": "",
+      "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "6/26/2025",
-      "lastYearEPS": "$0.51",
+      "lastYearRptDt": "7/09/2025",
+      "lastYearEPS": "$1.78",
       "time": "time-after-hours",
-      "symbol": "EPAC",
-      "name": "Enerpac Tool Group Corp.",
-      "marketCap": "$1,797,310,303",
+      "symbol": "AZZ",
+      "name": "AZZ Inc.",
+      "marketCap": "$4,578,593,596",
       "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$0.49",
-      "noOfEsts": "3"
+      "epsForecast": "$1.63",
+      "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "7/08/2025",
-      "lastYearEPS": "$0.05",
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.09",
       "time": "time-after-hours",
-      "symbol": "KRUS",
-      "name": "Kura Sushi USA, Inc.",
-      "marketCap": "$699,839,482",
+      "symbol": "PCYO",
+      "name": "Pure Cycle Corporation",
+      "marketCap": "$254,296,229",
       "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "($0.05)",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "7/08/2025",
-      "lastYearEPS": "$0.66",
-      "time": "time-after-hours",
-      "symbol": "SAR",
-      "name": "Saratoga Investment Corp",
-      "marketCap": "$363,746,845",
-      "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$0.54",
-      "noOfEsts": "3"
+      "epsForecast": "",
+      "noOfEsts": "4"
     }
   ],
   "before_open": [
     {
-      "lastYearRptDt": "7/10/2025",
-      "lastYearEPS": "$0.22",
+      "lastYearRptDt": "7/17/2025",
+      "lastYearEPS": "$2.12",
       "time": "time-pre-market",
-      "symbol": "LEVI",
-      "name": "Levi Strauss & Co.",
-      "marketCap": "$9,387,994,487",
-      "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$0.24",
-      "noOfEsts": "5"
+      "symbol": "PEP",
+      "name": "Pepsico, Inc.",
+      "marketCap": "$195,844,231,856",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$2.19",
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "7/10/2025",
-      "lastYearEPS": "$0.40",
+      "lastYearEPS": "$0.48",
       "time": "time-pre-market",
-      "symbol": "HELE",
-      "name": "Helen of Troy Limited",
-      "marketCap": "$655,438,597",
+      "symbol": "SMPL",
+      "name": "The Simply Good Foods Company",
+      "marketCap": "$1,172,737,751",
       "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "($0.13)",
+      "epsForecast": "$0.32",
       "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "7/10/2025",
+      "lastYearEPS": "$0.10",
+      "time": "time-pre-market",
+      "symbol": "BYRN",
+      "name": "Byrna Technologies, Inc.",
+      "marketCap": "$160,614,430",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "($0.10)",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "7/10/2025",
+      "lastYearEPS": "$0.02",
+      "time": "time-pre-market",
+      "symbol": "NTIC",
+      "name": "Northern Technologies International Corporation",
+      "marketCap": "$84,099,129",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "$0.04",
+      "noOfEsts": "1"
     }
   ]
 }
