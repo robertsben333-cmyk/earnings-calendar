@@ -1,85 +1,22 @@
 {
-  "generated_at_utc": "2026-07-09T04:30:41+00:00",
+  "generated_at_utc": "2026-07-10T04:33:54+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-07-09",
-  "next_trading_day": "2026-07-10",
+  "reference_date": "2026-07-10",
+  "next_trading_day": "2026-07-13",
   "summary": {
     "after_close_today": {
-      "date": "2026-07-09",
-      "count": 2,
-      "tickers": [
-        "WDFC",
-        "EDUC"
-      ],
-      "rows": [
-        {
-          "symbol": "WDFC",
-          "name": "WD-40 Company",
-          "marketCap": "$3,359,141,109",
-          "epsForecast": "$1.58",
-          "fiscalQuarterEnding": "May/2026"
-        },
-        {
-          "symbol": "EDUC",
-          "name": "Educational Development Corporation",
-          "marketCap": "$13,362,841",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "May/2026"
-        }
-      ]
+      "date": "2026-07-10",
+      "count": 0,
+      "tickers": [],
+      "rows": []
     },
     "before_open_next_trading_day": {
-      "date": "2026-07-10",
-      "count": 1,
-      "tickers": [
-        "DAL"
-      ],
-      "rows": [
-        {
-          "symbol": "DAL",
-          "name": "Delta Air Lines, Inc.",
-          "marketCap": "$58,229,408,354",
-          "epsForecast": "$1.50",
-          "fiscalQuarterEnding": "Jun/2026"
-        }
-      ]
+      "date": "2026-07-13",
+      "count": 0,
+      "tickers": [],
+      "rows": []
     }
   },
-  "after_close": [
-    {
-      "lastYearRptDt": "7/10/2025",
-      "lastYearEPS": "$1.54",
-      "time": "time-after-hours",
-      "symbol": "WDFC",
-      "name": "WD-40 Company",
-      "marketCap": "$3,359,141,109",
-      "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$1.58",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.13)",
-      "time": "time-after-hours",
-      "symbol": "EDUC",
-      "name": "Educational Development Corporation",
-      "marketCap": "$13,362,841",
-      "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "",
-      "noOfEsts": "2"
-    }
-  ],
-  "before_open": [
-    {
-      "lastYearRptDt": "7/10/2025",
-      "lastYearEPS": "$2.10",
-      "time": "time-pre-market",
-      "symbol": "DAL",
-      "name": "Delta Air Lines, Inc.",
-      "marketCap": "$58,229,408,354",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$1.50",
-      "noOfEsts": "7"
-    }
-  ]
+  "after_close": [],
+  "before_open": []
 }
