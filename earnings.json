@@ -1,22 +1,237 @@
 {
-  "generated_at_utc": "2026-07-12T04:06:43+00:00",
+  "generated_at_utc": "2026-07-13T04:09:00+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-07-12",
-  "next_trading_day": "2026-07-13",
+  "reference_date": "2026-07-13",
+  "next_trading_day": "2026-07-14",
   "summary": {
     "after_close_today": {
-      "date": "2026-07-12",
-      "count": 0,
-      "tickers": [],
-      "rows": []
+      "date": "2026-07-13",
+      "count": 2,
+      "tickers": [
+        "FBK",
+        "AERO"
+      ],
+      "rows": [
+        {
+          "symbol": "FBK",
+          "name": "FB Financial Corporation",
+          "marketCap": "$2,896,649,034",
+          "epsForecast": "$1.14",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "AERO",
+          "name": "Grupo Aeromexico, S.A.B. de C.V.",
+          "marketCap": "$2,424,914,658",
+          "epsForecast": "($0.37)",
+          "fiscalQuarterEnding": "Jun/2026"
+        }
+      ]
     },
     "before_open_next_trading_day": {
-      "date": "2026-07-13",
-      "count": 0,
-      "tickers": [],
-      "rows": []
+      "date": "2026-07-14",
+      "count": 9,
+      "tickers": [
+        "JPM",
+        "BAC",
+        "GS",
+        "WFC",
+        "C",
+        "FAST",
+        "ERIC",
+        "ANGO",
+        "CRMT"
+      ],
+      "rows": [
+        {
+          "symbol": "JPM",
+          "name": "J P Morgan Chase & Co",
+          "marketCap": "$898,895,695,396",
+          "epsForecast": "$5.52",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "BAC",
+          "name": "Bank of America Corporation",
+          "marketCap": "$420,472,996,072",
+          "epsForecast": "$1.13",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "GS",
+          "name": "Goldman Sachs Group, Inc. (The)",
+          "marketCap": "$311,518,986,353",
+          "epsForecast": "$14.47",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "WFC",
+          "name": "Wells Fargo & Company",
+          "marketCap": "$265,961,068,924",
+          "epsForecast": "$1.73",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "C",
+          "name": "Citigroup Inc.",
+          "marketCap": "$238,047,375,609",
+          "epsForecast": "$2.72",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "FAST",
+          "name": "Fastenal Company",
+          "marketCap": "$53,211,425,077",
+          "epsForecast": "$0.33",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "ERIC",
+          "name": "Ericsson",
+          "marketCap": "$39,040,253,091",
+          "epsForecast": "$0.13",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "ANGO",
+          "name": "AngioDynamics, Inc.",
+          "marketCap": "$533,840,382",
+          "epsForecast": "($0.11)",
+          "fiscalQuarterEnding": "May/2026"
+        },
+        {
+          "symbol": "CRMT",
+          "name": "America's Car-Mart, Inc.",
+          "marketCap": "$28,892,526",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Apr/2026"
+        }
+      ]
     }
   },
-  "after_close": [],
-  "before_open": []
+  "after_close": [
+    {
+      "lastYearRptDt": "7/14/2025",
+      "lastYearEPS": "$0.88",
+      "time": "time-after-hours",
+      "symbol": "FBK",
+      "name": "FB Financial Corporation",
+      "marketCap": "$2,896,649,034",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$1.14",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-after-hours",
+      "symbol": "AERO",
+      "name": "Grupo Aeromexico, S.A.B. de C.V.",
+      "marketCap": "$2,424,914,658",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "($0.37)",
+      "noOfEsts": "2"
+    }
+  ],
+  "before_open": [
+    {
+      "lastYearRptDt": "7/15/2025",
+      "lastYearEPS": "$4.96",
+      "time": "time-pre-market",
+      "symbol": "JPM",
+      "name": "J P Morgan Chase & Co",
+      "marketCap": "$898,895,695,396",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$5.52",
+      "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "7/16/2025",
+      "lastYearEPS": "$0.89",
+      "time": "time-pre-market",
+      "symbol": "BAC",
+      "name": "Bank of America Corporation",
+      "marketCap": "$420,472,996,072",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$1.13",
+      "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "7/16/2025",
+      "lastYearEPS": "$10.91",
+      "time": "time-pre-market",
+      "symbol": "GS",
+      "name": "Goldman Sachs Group, Inc. (The)",
+      "marketCap": "$311,518,986,353",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$14.47",
+      "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "7/15/2025",
+      "lastYearEPS": "$1.54",
+      "time": "time-pre-market",
+      "symbol": "WFC",
+      "name": "Wells Fargo & Company",
+      "marketCap": "$265,961,068,924",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$1.73",
+      "noOfEsts": "8"
+    },
+    {
+      "lastYearRptDt": "7/15/2025",
+      "lastYearEPS": "$1.96",
+      "time": "time-pre-market",
+      "symbol": "C",
+      "name": "Citigroup Inc.",
+      "marketCap": "$238,047,375,609",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$2.72",
+      "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "7/14/2025",
+      "lastYearEPS": "$0.29",
+      "time": "time-pre-market",
+      "symbol": "FAST",
+      "name": "Fastenal Company",
+      "marketCap": "$53,211,425,077",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.33",
+      "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "7/15/2025",
+      "lastYearEPS": "$0.14",
+      "time": "time-pre-market",
+      "symbol": "ERIC",
+      "name": "Ericsson",
+      "marketCap": "$39,040,253,091",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.13",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "7/15/2025",
+      "lastYearEPS": "($0.03)",
+      "time": "time-pre-market",
+      "symbol": "ANGO",
+      "name": "AngioDynamics, Inc.",
+      "marketCap": "$533,840,382",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "($0.11)",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$1.26",
+      "time": "time-pre-market",
+      "symbol": "CRMT",
+      "name": "America's Car-Mart, Inc.",
+      "marketCap": "$28,892,526",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    }
+  ]
 }
