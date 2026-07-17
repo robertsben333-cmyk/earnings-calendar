@@ -1,275 +1,101 @@
 {
-  "generated_at_utc": "2026-07-16T03:47:30+00:00",
+  "generated_at_utc": "2026-07-17T03:46:34+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-07-16",
-  "next_trading_day": "2026-07-17",
+  "reference_date": "2026-07-17",
+  "next_trading_day": "2026-07-20",
   "summary": {
     "after_close_today": {
-      "date": "2026-07-16",
-      "count": 7,
+      "date": "2026-07-17",
+      "count": 0,
+      "tickers": [],
+      "rows": []
+    },
+    "before_open_next_trading_day": {
+      "date": "2026-07-20",
+      "count": 4,
       "tickers": [
-        "NFLX",
-        "AA",
-        "VIST",
-        "FNB",
-        "INDB",
-        "CNS",
-        "SFNC"
+        "RYAAY",
+        "DPZ",
+        "DX",
+        "AMC"
       ],
       "rows": [
         {
-          "symbol": "NFLX",
-          "name": "Netflix, Inc.",
-          "marketCap": "$309,620,015,764",
-          "epsForecast": "$0.79",
+          "symbol": "RYAAY",
+          "name": "Ryanair Holdings plc",
+          "marketCap": "$30,583,596,086",
+          "epsForecast": "$1.25",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "AA",
-          "name": "Alcoa Corporation",
-          "marketCap": "$12,946,437,268",
-          "epsForecast": "$2.33",
+          "symbol": "DPZ",
+          "name": "Domino's Pizza Inc",
+          "marketCap": "$10,340,117,527",
+          "epsForecast": "$4.10",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "VIST",
-          "name": "Vista Energy S.A.B. de C.V.",
-          "marketCap": "$6,855,619,478",
-          "epsForecast": "$3.15",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "FNB",
-          "name": "F.N.B. Corporation",
-          "marketCap": "$6,759,755,392",
-          "epsForecast": "$0.42",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "INDB",
-          "name": "Independent Bank Corp.",
-          "marketCap": "$4,068,659,391",
-          "epsForecast": "$1.77",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "CNS",
-          "name": "Cohen & Steers Inc",
-          "marketCap": "$3,960,928,567",
+          "symbol": "DX",
+          "name": "Dynex Capital, Inc.",
+          "marketCap": "$2,865,810,081",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "SFNC",
-          "name": "Simmons First National Corporation",
-          "marketCap": "$3,324,871,670",
-          "epsForecast": "$0.53",
-          "fiscalQuarterEnding": "Jun/2026"
-        }
-      ]
-    },
-    "before_open_next_trading_day": {
-      "date": "2026-07-17",
-      "count": 6,
-      "tickers": [
-        "TRV",
-        "TFC",
-        "FITB",
-        "RF",
-        "ALV",
-        "SPFI"
-      ],
-      "rows": [
-        {
-          "symbol": "TRV",
-          "name": "The Travelers Companies, Inc.",
-          "marketCap": "$71,625,111,943",
-          "epsForecast": "$5.14",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "TFC",
-          "name": "Truist Financial Corporation",
-          "marketCap": "$64,723,428,336",
-          "epsForecast": "$1.08",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "FITB",
-          "name": "Fifth Third Bancorp",
-          "marketCap": "$51,705,073,813",
-          "epsForecast": "$0.98",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "RF",
-          "name": "Regions Financial Corporation",
-          "marketCap": "$26,386,495,315",
-          "epsForecast": "$0.64",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "ALV",
-          "name": "Autoliv, Inc.",
-          "marketCap": "$9,094,398,300",
-          "epsForecast": "$2.34",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "SPFI",
-          "name": "South Plains Financial, Inc.",
-          "marketCap": "$807,567,904",
-          "epsForecast": "$0.86",
+          "symbol": "AMC",
+          "name": "AMC Entertainment Holdings, Inc.",
+          "marketCap": "$1,847,691,601",
+          "epsForecast": "($0.01)",
           "fiscalQuarterEnding": "Jun/2026"
         }
       ]
     }
   },
-  "after_close": [
-    {
-      "lastYearRptDt": "7/17/2025",
-      "lastYearEPS": "$0.72",
-      "time": "time-after-hours",
-      "symbol": "NFLX",
-      "name": "Netflix, Inc.",
-      "marketCap": "$309,620,015,764",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.79",
-      "noOfEsts": "12"
-    },
-    {
-      "lastYearRptDt": "7/16/2025",
-      "lastYearEPS": "$0.39",
-      "time": "time-after-hours",
-      "symbol": "AA",
-      "name": "Alcoa Corporation",
-      "marketCap": "$12,946,437,268",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$2.33",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "7/10/2025",
-      "lastYearEPS": "$0.55",
-      "time": "time-after-hours",
-      "symbol": "VIST",
-      "name": "Vista Energy S.A.B. de C.V.",
-      "marketCap": "$6,855,619,478",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$3.15",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "7/17/2025",
-      "lastYearEPS": "$0.36",
-      "time": "time-after-hours",
-      "symbol": "FNB",
-      "name": "F.N.B. Corporation",
-      "marketCap": "$6,759,755,392",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.42",
-      "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "7/17/2025",
-      "lastYearEPS": "$1.25",
-      "time": "time-after-hours",
-      "symbol": "INDB",
-      "name": "Independent Bank Corp.",
-      "marketCap": "$4,068,659,391",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$1.77",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "7/17/2025",
-      "lastYearEPS": "$0.73",
-      "time": "time-after-hours",
-      "symbol": "CNS",
-      "name": "Cohen & Steers Inc",
-      "marketCap": "$3,960,928,567",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "7/17/2025",
-      "lastYearEPS": "$0.44",
-      "time": "time-after-hours",
-      "symbol": "SFNC",
-      "name": "Simmons First National Corporation",
-      "marketCap": "$3,324,871,670",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.53",
-      "noOfEsts": "4"
-    }
-  ],
+  "after_close": [],
   "before_open": [
     {
-      "lastYearRptDt": "7/17/2025",
-      "lastYearEPS": "$6.51",
+      "lastYearRptDt": "7/21/2025",
+      "lastYearEPS": "$1.74",
       "time": "time-pre-market",
-      "symbol": "TRV",
-      "name": "The Travelers Companies, Inc.",
-      "marketCap": "$71,625,111,943",
+      "symbol": "RYAAY",
+      "name": "Ryanair Holdings plc",
+      "marketCap": "$30,583,596,086",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$5.14",
-      "noOfEsts": "12"
+      "epsForecast": "$1.25",
+      "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "7/18/2025",
-      "lastYearEPS": "$0.91",
+      "lastYearRptDt": "7/21/2025",
+      "lastYearEPS": "$3.81",
       "time": "time-pre-market",
-      "symbol": "TFC",
-      "name": "Truist Financial Corporation",
-      "marketCap": "$64,723,428,336",
+      "symbol": "DPZ",
+      "name": "Domino's Pizza Inc",
+      "marketCap": "$10,340,117,527",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$1.08",
+      "epsForecast": "$4.10",
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "7/17/2025",
-      "lastYearEPS": "$0.90",
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.22",
       "time": "time-pre-market",
-      "symbol": "FITB",
-      "name": "Fifth Third Bancorp",
-      "marketCap": "$51,705,073,813",
+      "symbol": "DX",
+      "name": "Dynex Capital, Inc.",
+      "marketCap": "$2,865,810,081",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.98",
-      "noOfEsts": "7"
+      "epsForecast": "",
+      "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "7/18/2025",
-      "lastYearEPS": "$0.60",
+      "lastYearRptDt": "8/11/2025",
+      "lastYearEPS": "N/A",
       "time": "time-pre-market",
-      "symbol": "RF",
-      "name": "Regions Financial Corporation",
-      "marketCap": "$26,386,495,315",
+      "symbol": "AMC",
+      "name": "AMC Entertainment Holdings, Inc.",
+      "marketCap": "$1,847,691,601",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.64",
-      "noOfEsts": "8"
-    },
-    {
-      "lastYearRptDt": "7/18/2025",
-      "lastYearEPS": "$2.21",
-      "time": "time-pre-market",
-      "symbol": "ALV",
-      "name": "Autoliv, Inc.",
-      "marketCap": "$9,094,398,300",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$2.34",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "7/16/2025",
-      "lastYearEPS": "$0.86",
-      "time": "time-pre-market",
-      "symbol": "SPFI",
-      "name": "South Plains Financial, Inc.",
-      "marketCap": "$807,567,904",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.86",
-      "noOfEsts": "2"
+      "epsForecast": "($0.01)",
+      "noOfEsts": "4"
     }
   ]
 }
