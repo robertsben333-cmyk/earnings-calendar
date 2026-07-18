@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-07-17T03:46:34+00:00",
+  "generated_at_utc": "2026-07-18T03:41:25+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-07-17",
+  "reference_date": "2026-07-18",
   "next_trading_day": "2026-07-20",
   "summary": {
     "after_close_today": {
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "count": 0,
       "tickers": [],
       "rows": []
@@ -23,21 +23,21 @@
         {
           "symbol": "RYAAY",
           "name": "Ryanair Holdings plc",
-          "marketCap": "$30,583,596,086",
+          "marketCap": "$30,910,981,495",
           "epsForecast": "$1.25",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
           "symbol": "DPZ",
           "name": "Domino's Pizza Inc",
-          "marketCap": "$10,340,117,527",
-          "epsForecast": "$4.10",
+          "marketCap": "$10,965,440,683",
+          "epsForecast": "$4.09",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
           "symbol": "DX",
           "name": "Dynex Capital, Inc.",
-          "marketCap": "$2,865,810,081",
+          "marketCap": "$2,910,991,772",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
@@ -59,7 +59,7 @@
       "time": "time-pre-market",
       "symbol": "RYAAY",
       "name": "Ryanair Holdings plc",
-      "marketCap": "$30,583,596,086",
+      "marketCap": "$30,910,981,495",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.25",
       "noOfEsts": "3"
@@ -70,9 +70,9 @@
       "time": "time-pre-market",
       "symbol": "DPZ",
       "name": "Domino's Pizza Inc",
-      "marketCap": "$10,340,117,527",
+      "marketCap": "$10,965,440,683",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$4.10",
+      "epsForecast": "$4.09",
       "noOfEsts": "7"
     },
     {
@@ -81,7 +81,7 @@
       "time": "time-pre-market",
       "symbol": "DX",
       "name": "Dynex Capital, Inc.",
-      "marketCap": "$2,865,810,081",
+      "marketCap": "$2,910,991,772",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "4"
