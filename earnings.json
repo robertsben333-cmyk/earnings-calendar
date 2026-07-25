@@ -1,24 +1,14 @@
 {
-  "generated_at_utc": "2026-07-24T03:53:25+00:00",
+  "generated_at_utc": "2026-07-25T03:48:31+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-07-24",
+  "reference_date": "2026-07-25",
   "next_trading_day": "2026-07-27",
   "summary": {
     "after_close_today": {
-      "date": "2026-07-24",
-      "count": 1,
-      "tickers": [
-        "ULH"
-      ],
-      "rows": [
-        {
-          "symbol": "ULH",
-          "name": "Universal Logistics Holdings, Inc.",
-          "marketCap": "$423,497,237",
-          "epsForecast": "$0.13",
-          "fiscalQuarterEnding": "Jun/2026"
-        }
-      ]
+      "date": "2026-07-25",
+      "count": 0,
+      "tickers": [],
+      "rows": []
     },
     "before_open_next_trading_day": {
       "date": "2026-07-27",
@@ -40,96 +30,84 @@
         {
           "symbol": "AZN",
           "name": "AstraZeneca PLC",
-          "marketCap": "$259,162,885,808",
+          "marketCap": "$263,458,548,902",
           "epsForecast": "$2.50",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
           "symbol": "VOD",
           "name": "Vodafone Group Plc",
-          "marketCap": "$36,347,142,993",
+          "marketCap": "$37,101,404,907",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
           "symbol": "KOF",
           "name": "Coca Cola Femsa S.A.B. de C.V.",
-          "marketCap": "$5,522,037,648",
+          "marketCap": "$5,382,332,301",
           "epsForecast": "$1.65",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
           "symbol": "BOH",
           "name": "Bank of Hawaii Corporation",
-          "marketCap": "$3,357,484,981",
+          "marketCap": "$3,357,881,191",
           "epsForecast": "$1.46",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
           "symbol": "ARLP",
           "name": "Alliance Resource Partners, L.P.",
-          "marketCap": "$3,204,890,733",
+          "marketCap": "$3,186,878,501",
           "epsForecast": "$0.65",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
           "symbol": "HOPE",
           "name": "Hope Bancorp, Inc.",
-          "marketCap": "$1,730,938,476",
+          "marketCap": "$1,718,154,588",
           "epsForecast": "$0.26",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
           "symbol": "LKFN",
           "name": "Lakeland Financial Corporation",
-          "marketCap": "$1,527,451,958",
+          "marketCap": "$1,522,718,376",
           "epsForecast": "$1.07",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
           "symbol": "HBT",
           "name": "HBT Financial, Inc.",
-          "marketCap": "$1,178,019,306",
+          "marketCap": "$1,183,112,657",
           "epsForecast": "$0.74",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
           "symbol": "NBN",
           "name": "Northeast Bank",
-          "marketCap": "$1,045,599,300",
+          "marketCap": "$1,039,176,600",
           "epsForecast": "$3.40",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
           "symbol": "BMRC",
           "name": "Bank of Marin Bancorp",
-          "marketCap": "$460,759,061",
+          "marketCap": "$458,006,811",
           "epsForecast": "$0.52",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
           "symbol": "PERF",
           "name": "Perfect Corp.",
-          "marketCap": "$195,549,448",
+          "marketCap": "$196,567,935",
           "epsForecast": "$0.01",
           "fiscalQuarterEnding": "Jun/2026"
         }
       ]
     }
   },
-  "after_close": [
-    {
-      "lastYearRptDt": "7/24/2025",
-      "lastYearEPS": "$0.32",
-      "time": "time-after-hours",
-      "symbol": "ULH",
-      "name": "Universal Logistics Holdings, Inc.",
-      "marketCap": "$423,497,237",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.13",
-      "noOfEsts": "1"
-    }
-  ],
+  "after_close": [],
   "before_open": [
     {
       "lastYearRptDt": "7/29/2025",
@@ -137,7 +115,7 @@
       "time": "time-pre-market",
       "symbol": "AZN",
       "name": "AstraZeneca PLC",
-      "marketCap": "$259,162,885,808",
+      "marketCap": "$263,458,548,902",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$2.50",
       "noOfEsts": "2"
@@ -148,7 +126,7 @@
       "time": "time-pre-market",
       "symbol": "VOD",
       "name": "Vodafone Group Plc",
-      "marketCap": "$36,347,142,993",
+      "marketCap": "$37,101,404,907",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "4"
@@ -159,7 +137,7 @@
       "time": "time-pre-market",
       "symbol": "KOF",
       "name": "Coca Cola Femsa S.A.B. de C.V.",
-      "marketCap": "$5,522,037,648",
+      "marketCap": "$5,382,332,301",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.65",
       "noOfEsts": "1"
@@ -170,7 +148,7 @@
       "time": "time-pre-market",
       "symbol": "BOH",
       "name": "Bank of Hawaii Corporation",
-      "marketCap": "$3,357,484,981",
+      "marketCap": "$3,357,881,191",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.46",
       "noOfEsts": "4"
@@ -181,7 +159,7 @@
       "time": "time-pre-market",
       "symbol": "ARLP",
       "name": "Alliance Resource Partners, L.P.",
-      "marketCap": "$3,204,890,733",
+      "marketCap": "$3,186,878,501",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.65",
       "noOfEsts": "2"
@@ -192,7 +170,7 @@
       "time": "time-pre-market",
       "symbol": "HOPE",
       "name": "Hope Bancorp, Inc.",
-      "marketCap": "$1,730,938,476",
+      "marketCap": "$1,718,154,588",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.26",
       "noOfEsts": "3"
@@ -203,7 +181,7 @@
       "time": "time-pre-market",
       "symbol": "LKFN",
       "name": "Lakeland Financial Corporation",
-      "marketCap": "$1,527,451,958",
+      "marketCap": "$1,522,718,376",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.07",
       "noOfEsts": "1"
@@ -214,7 +192,7 @@
       "time": "time-pre-market",
       "symbol": "HBT",
       "name": "HBT Financial, Inc.",
-      "marketCap": "$1,178,019,306",
+      "marketCap": "$1,183,112,657",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.74",
       "noOfEsts": "4"
@@ -225,7 +203,7 @@
       "time": "time-pre-market",
       "symbol": "NBN",
       "name": "Northeast Bank",
-      "marketCap": "$1,045,599,300",
+      "marketCap": "$1,039,176,600",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$3.40",
       "noOfEsts": "2"
@@ -236,7 +214,7 @@
       "time": "time-pre-market",
       "symbol": "BMRC",
       "name": "Bank of Marin Bancorp",
-      "marketCap": "$460,759,061",
+      "marketCap": "$458,006,811",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.52",
       "noOfEsts": "4"
@@ -247,7 +225,7 @@
       "time": "time-pre-market",
       "symbol": "PERF",
       "name": "Perfect Corp.",
-      "marketCap": "$195,549,448",
+      "marketCap": "$196,567,935",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.01",
       "noOfEsts": "3"
