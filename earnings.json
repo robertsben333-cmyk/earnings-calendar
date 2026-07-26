@@ -1,14 +1,24 @@
 {
-  "generated_at_utc": "2026-07-25T03:48:31+00:00",
+  "generated_at_utc": "2026-07-26T04:05:57+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-07-25",
+  "reference_date": "2026-07-26",
   "next_trading_day": "2026-07-27",
   "summary": {
     "after_close_today": {
-      "date": "2026-07-25",
-      "count": 0,
-      "tickers": [],
-      "rows": []
+      "date": "2026-07-26",
+      "count": 1,
+      "tickers": [
+        "BKR"
+      ],
+      "rows": [
+        {
+          "symbol": "BKR",
+          "name": "Baker Hughes Company",
+          "marketCap": "$55,645,133,215",
+          "epsForecast": "$0.51",
+          "fiscalQuarterEnding": "Jun/2026"
+        }
+      ]
     },
     "before_open_next_trading_day": {
       "date": "2026-07-27",
@@ -107,7 +117,19 @@
       ]
     }
   },
-  "after_close": [],
+  "after_close": [
+    {
+      "lastYearRptDt": "7/22/2025",
+      "lastYearEPS": "$0.63",
+      "time": "time-after-hours",
+      "symbol": "BKR",
+      "name": "Baker Hughes Company",
+      "marketCap": "$55,645,133,215",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.51",
+      "noOfEsts": "6"
+    }
+  ],
   "before_open": [
     {
       "lastYearRptDt": "7/29/2025",
