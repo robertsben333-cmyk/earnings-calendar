@@ -1,269 +1,65 @@
 {
-  "generated_at_utc": "2026-08-14T03:06:25+00:00",
+  "generated_at_utc": "2026-08-15T01:56:34+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-08-14",
+  "reference_date": "2026-08-15",
   "next_trading_day": "2026-08-17",
   "summary": {
     "after_close_today": {
-      "date": "2026-08-14",
-      "count": 11,
-      "tickers": [
-        "CSAN",
-        "NUAI",
-        "SIDU",
-        "HSDT",
-        "STEX",
-        "BRFH",
-        "MSGM",
-        "TOMZ",
-        "AMSS",
-        "NWTG",
-        "CSAI"
-      ],
-      "rows": [
-        {
-          "symbol": "CSAN",
-          "name": "Cosan S.A.",
-          "marketCap": "$2,538,605,396",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "NUAI",
-          "name": "New Era Energy & Digital, Inc.",
-          "marketCap": "$560,138,832",
-          "epsForecast": "($0.09)",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "SIDU",
-          "name": "Sidus Space, Inc.",
-          "marketCap": "$200,544,838",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "HSDT",
-          "name": "Solana Company",
-          "marketCap": "$101,592,815",
-          "epsForecast": "($0.02)",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "STEX",
-          "name": "Streamex Corp.",
-          "marketCap": "$87,309,304",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "BRFH",
-          "name": "Barfresh Food Group Inc.",
-          "marketCap": "$29,381,172",
-          "epsForecast": "($0.05)",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "MSGM",
-          "name": "Motorsport Games Inc.",
-          "marketCap": "$18,115,399",
-          "epsForecast": "$0.02",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "TOMZ",
-          "name": "TOMI Environmental Solutions, Inc.",
-          "marketCap": "$13,679,380",
-          "epsForecast": "($0.11)",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "AMSS",
-          "name": "AMASS Brands Inc.",
-          "marketCap": "$13,102,442",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "NWTG",
-          "name": "Newton Golf Company, Inc.",
-          "marketCap": "$5,740,079",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "CSAI",
-          "name": "Cloudastructure, Inc.",
-          "marketCap": "$4,440,356",
-          "epsForecast": "($2.70)",
-          "fiscalQuarterEnding": "Jun/2026"
-        }
-      ]
+      "date": "2026-08-15",
+      "count": 0,
+      "tickers": [],
+      "rows": []
     },
     "before_open_next_trading_day": {
       "date": "2026-08-17",
-      "count": 4,
+      "count": 5,
       "tickers": [
         "HTHT",
         "FUFU",
         "AGPU",
+        "CRGO",
         "NSPR"
       ],
       "rows": [
         {
           "symbol": "HTHT",
           "name": "H World Group Limited",
-          "marketCap": "$12,685,357,534",
+          "marketCap": "$12,457,789,908",
           "epsForecast": "$0.65",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
           "symbol": "FUFU",
           "name": "BitFuFu Inc.",
-          "marketCap": "$216,649,677",
+          "marketCap": "$213,316,605",
           "epsForecast": "($0.01)",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
           "symbol": "AGPU",
           "name": "Axe Compute Inc.",
-          "marketCap": "$92,416,488",
+          "marketCap": "$95,979,810",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "CRGO",
+          "name": "Freightos Limited",
+          "marketCap": "$68,222,217",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
           "symbol": "NSPR",
           "name": "InspireMD Inc.",
-          "marketCap": "$40,327,962",
+          "marketCap": "$39,394,792",
           "epsForecast": "($0.20)",
           "fiscalQuarterEnding": "Jun/2026"
         }
       ]
     }
   },
-  "after_close": [
-    {
-      "lastYearRptDt": "8/14/2025",
-      "lastYearEPS": "($0.36)",
-      "time": "time-after-hours",
-      "symbol": "CSAN",
-      "name": "Cosan S.A.",
-      "marketCap": "$2,538,605,396",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "8/14/2025",
-      "lastYearEPS": "($0.21)",
-      "time": "time-after-hours",
-      "symbol": "NUAI",
-      "name": "New Era Energy & Digital, Inc.",
-      "marketCap": "$560,138,832",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.09)",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.31)",
-      "time": "time-after-hours",
-      "symbol": "SIDU",
-      "name": "Sidus Space, Inc.",
-      "marketCap": "$200,544,838",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "8/14/2025",
-      "lastYearEPS": "($79.73)",
-      "time": "time-after-hours",
-      "symbol": "HSDT",
-      "name": "Solana Company",
-      "marketCap": "$101,592,815",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.02)",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.74)",
-      "time": "time-after-hours",
-      "symbol": "STEX",
-      "name": "Streamex Corp.",
-      "marketCap": "$87,309,304",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "8/13/2025",
-      "lastYearEPS": "($0.06)",
-      "time": "time-after-hours",
-      "symbol": "BRFH",
-      "name": "Barfresh Food Group Inc.",
-      "marketCap": "$29,381,172",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.05)",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "8/13/2025",
-      "lastYearEPS": "$0.82",
-      "time": "time-after-hours",
-      "symbol": "MSGM",
-      "name": "Motorsport Games Inc.",
-      "marketCap": "$18,115,399",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.02",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "8/14/2025",
-      "lastYearEPS": "($0.18)",
-      "time": "time-after-hours",
-      "symbol": "TOMZ",
-      "name": "TOMI Environmental Solutions, Inc.",
-      "marketCap": "$13,679,380",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.11)",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-after-hours",
-      "symbol": "AMSS",
-      "name": "AMASS Brands Inc.",
-      "marketCap": "$13,102,442",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "8/14/2025",
-      "lastYearEPS": "($0.34)",
-      "time": "time-after-hours",
-      "symbol": "NWTG",
-      "name": "Newton Golf Company, Inc.",
-      "marketCap": "$5,740,079",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "8/14/2025",
-      "lastYearEPS": "($4.20)",
-      "time": "time-after-hours",
-      "symbol": "CSAI",
-      "name": "Cloudastructure, Inc.",
-      "marketCap": "$4,440,356",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($2.70)",
-      "noOfEsts": "1"
-    }
-  ],
+  "after_close": [],
   "before_open": [
     {
       "lastYearRptDt": "8/20/2025",
@@ -271,7 +67,7 @@
       "time": "time-pre-market",
       "symbol": "HTHT",
       "name": "H World Group Limited",
-      "marketCap": "$12,685,357,534",
+      "marketCap": "$12,457,789,908",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.65",
       "noOfEsts": "1"
@@ -282,7 +78,7 @@
       "time": "time-pre-market",
       "symbol": "FUFU",
       "name": "BitFuFu Inc.",
-      "marketCap": "$216,649,677",
+      "marketCap": "$213,316,605",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "($0.01)",
       "noOfEsts": "1"
@@ -293,10 +89,21 @@
       "time": "time-pre-market",
       "symbol": "AGPU",
       "name": "Axe Compute Inc.",
-      "marketCap": "$92,416,488",
+      "marketCap": "$95,979,810",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.09)",
+      "time": "time-pre-market",
+      "symbol": "CRGO",
+      "name": "Freightos Limited",
+      "marketCap": "$68,222,217",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "8/04/2025",
@@ -304,7 +111,7 @@
       "time": "time-pre-market",
       "symbol": "NSPR",
       "name": "InspireMD Inc.",
-      "marketCap": "$40,327,962",
+      "marketCap": "$39,394,792",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "($0.20)",
       "noOfEsts": "1"
