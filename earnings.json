@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-08-15T01:56:34+00:00",
+  "generated_at_utc": "2026-08-16T02:06:36+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-08-15",
+  "reference_date": "2026-08-16",
   "next_trading_day": "2026-08-17",
   "summary": {
     "after_close_today": {
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "count": 0,
       "tickers": [],
       "rows": []
@@ -103,7 +103,7 @@
       "marketCap": "$68,222,217",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "8/04/2025",
