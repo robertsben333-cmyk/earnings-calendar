@@ -1,120 +1,446 @@
 {
-  "generated_at_utc": "2026-08-16T02:06:36+00:00",
+  "generated_at_utc": "2026-08-17T02:04:19+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-08-16",
-  "next_trading_day": "2026-08-17",
+  "reference_date": "2026-08-17",
+  "next_trading_day": "2026-08-18",
   "summary": {
     "after_close_today": {
-      "date": "2026-08-16",
-      "count": 0,
-      "tickers": [],
-      "rows": []
-    },
-    "before_open_next_trading_day": {
       "date": "2026-08-17",
-      "count": 5,
+      "count": 7,
       "tickers": [
-        "HTHT",
-        "FUFU",
-        "AGPU",
-        "CRGO",
-        "NSPR"
+        "FN",
+        "XP",
+        "YALA",
+        "FLXS",
+        "DUOT",
+        "DCGO",
+        "PRPO"
       ],
       "rows": [
         {
-          "symbol": "HTHT",
-          "name": "H World Group Limited",
-          "marketCap": "$12,457,789,908",
-          "epsForecast": "$0.65",
+          "symbol": "FN",
+          "name": "Fabrinet",
+          "marketCap": "$20,297,189,413",
+          "epsForecast": "$3.69",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "FUFU",
-          "name": "BitFuFu Inc.",
-          "marketCap": "$213,316,605",
-          "epsForecast": "($0.01)",
+          "symbol": "XP",
+          "name": "XP Inc.",
+          "marketCap": "$8,210,061,114",
+          "epsForecast": "$0.51",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "AGPU",
-          "name": "Axe Compute Inc.",
-          "marketCap": "$95,979,810",
+          "symbol": "YALA",
+          "name": "Yalla Group Limited",
+          "marketCap": "$822,913,110",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "CRGO",
-          "name": "Freightos Limited",
-          "marketCap": "$68,222,217",
+          "symbol": "FLXS",
+          "name": "Flexsteel Industries, Inc.",
+          "marketCap": "$398,237,285",
+          "epsForecast": "$1.15",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "DUOT",
+          "name": "Duos Technologies Group, Inc.",
+          "marketCap": "$275,307,515",
+          "epsForecast": "($0.02)",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "DCGO",
+          "name": "DocGo Inc.",
+          "marketCap": "$64,522,059",
+          "epsForecast": "($0.04)",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "PRPO",
+          "name": "Precipio, Inc.",
+          "marketCap": "$41,484,904",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Jun/2026"
+        }
+      ]
+    },
+    "before_open_next_trading_day": {
+      "date": "2026-08-18",
+      "count": 15,
+      "tickers": [
+        "HD",
+        "BIDU",
+        "AS",
+        "KLAR",
+        "PONY",
+        "RNW",
+        "VNET",
+        "IQ",
+        "ENRD",
+        "HSAI",
+        "PRE",
+        "ELTK",
+        "THCH",
+        "UCL",
+        "EVGN"
+      ],
+      "rows": [
+        {
+          "symbol": "HD",
+          "name": "Home Depot, Inc. (The)",
+          "marketCap": "$340,714,770,239",
+          "epsForecast": "$4.71",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "BIDU",
+          "name": "Baidu, Inc.",
+          "marketCap": "$35,617,648,344",
+          "epsForecast": "$1.19",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "AS",
+          "name": "Amer Sports, Inc.",
+          "marketCap": "$18,469,943,857",
+          "epsForecast": "$0.11",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "KLAR",
+          "name": "Klarna Group plc",
+          "marketCap": "$14,592,728,239",
+          "epsForecast": "($0.07)",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "PONY",
+          "name": "Pony AI Inc.",
+          "marketCap": "$3,611,401,136",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "NSPR",
-          "name": "InspireMD Inc.",
-          "marketCap": "$39,394,792",
-          "epsForecast": "($0.20)",
+          "symbol": "RNW",
+          "name": "ReNew Energy Global plc",
+          "marketCap": "$2,477,938,278",
+          "epsForecast": "$0.12",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "VNET",
+          "name": "VNET Group, Inc.",
+          "marketCap": "$2,120,952,740",
+          "epsForecast": "($0.06)",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "IQ",
+          "name": "iQIYI, Inc.",
+          "marketCap": "$1,312,433,640",
+          "epsForecast": "($0.04)",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "ENRD",
+          "name": "Einride AB",
+          "marketCap": "$928,425,640",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "May/2026"
+        },
+        {
+          "symbol": "HSAI",
+          "name": "Hesai Group",
+          "marketCap": "$378,909,149",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "PRE",
+          "name": "Prenetics Global Limited",
+          "marketCap": "$330,553,333",
+          "epsForecast": "($0.32)",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "ELTK",
+          "name": "Eltek Ltd.",
+          "marketCap": "$57,118,530",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "THCH",
+          "name": "TH International Limited",
+          "marketCap": "$53,189,731",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "UCL",
+          "name": "uCloudlink Group Inc.",
+          "marketCap": "$27,921,619",
+          "epsForecast": "($0.05)",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "EVGN",
+          "name": "Evogene Ltd.",
+          "marketCap": "$8,631,297",
+          "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         }
       ]
     }
   },
-  "after_close": [],
+  "after_close": [
+    {
+      "lastYearRptDt": "8/18/2025",
+      "lastYearEPS": "$2.43",
+      "time": "time-after-hours",
+      "symbol": "FN",
+      "name": "Fabrinet",
+      "marketCap": "$20,297,189,413",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$3.69",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "8/18/2025",
+      "lastYearEPS": "$0.43",
+      "time": "time-after-hours",
+      "symbol": "XP",
+      "name": "XP Inc.",
+      "marketCap": "$8,210,061,114",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.51",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.20",
+      "time": "time-after-hours",
+      "symbol": "YALA",
+      "name": "Yalla Group Limited",
+      "marketCap": "$822,913,110",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "8/18/2025",
+      "lastYearEPS": "$1.40",
+      "time": "time-after-hours",
+      "symbol": "FLXS",
+      "name": "Flexsteel Industries, Inc.",
+      "marketCap": "$398,237,285",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$1.15",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "8/14/2025",
+      "lastYearEPS": "($0.30)",
+      "time": "time-after-hours",
+      "symbol": "DUOT",
+      "name": "Duos Technologies Group, Inc.",
+      "marketCap": "$275,307,515",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "($0.02)",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "8/07/2025",
+      "lastYearEPS": "($0.11)",
+      "time": "time-after-hours",
+      "symbol": "DCGO",
+      "name": "DocGo Inc.",
+      "marketCap": "$64,522,059",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "($0.04)",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.05",
+      "time": "time-after-hours",
+      "symbol": "PRPO",
+      "name": "Precipio, Inc.",
+      "marketCap": "$41,484,904",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    }
+  ],
   "before_open": [
     {
+      "lastYearRptDt": "8/19/2025",
+      "lastYearEPS": "$4.68",
+      "time": "time-pre-market",
+      "symbol": "HD",
+      "name": "Home Depot, Inc. (The)",
+      "marketCap": "$340,714,770,239",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$4.71",
+      "noOfEsts": "13"
+    },
+    {
       "lastYearRptDt": "8/20/2025",
-      "lastYearEPS": "$0.52",
+      "lastYearEPS": "$1.49",
       "time": "time-pre-market",
-      "symbol": "HTHT",
-      "name": "H World Group Limited",
-      "marketCap": "$12,457,789,908",
+      "symbol": "BIDU",
+      "name": "Baidu, Inc.",
+      "marketCap": "$35,617,648,344",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.65",
+      "epsForecast": "$1.19",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "8/19/2025",
+      "lastYearEPS": "$0.06",
+      "time": "time-pre-market",
+      "symbol": "AS",
+      "name": "Amer Sports, Inc.",
+      "marketCap": "$18,469,943,857",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.11",
+      "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.14)",
+      "time": "time-pre-market",
+      "symbol": "KLAR",
+      "name": "Klarna Group plc",
+      "marketCap": "$14,592,728,239",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "($0.07)",
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "8/12/2025",
+      "lastYearEPS": "($0.14)",
+      "time": "time-pre-market",
+      "symbol": "PONY",
+      "name": "Pony AI Inc.",
+      "marketCap": "$3,611,401,136",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "8/13/2025",
+      "lastYearEPS": "$0.16",
+      "time": "time-pre-market",
+      "symbol": "RNW",
+      "name": "ReNew Energy Global plc",
+      "marketCap": "$2,477,938,278",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.12",
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "8/15/2025",
-      "lastYearEPS": "$0.09",
+      "lastYearRptDt": "8/21/2025",
+      "lastYearEPS": "($0.01)",
       "time": "time-pre-market",
-      "symbol": "FUFU",
-      "name": "BitFuFu Inc.",
-      "marketCap": "$213,316,605",
+      "symbol": "VNET",
+      "name": "VNET Group, Inc.",
+      "marketCap": "$2,120,952,740",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.01)",
+      "epsForecast": "($0.06)",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "8/20/2025",
+      "lastYearEPS": "($0.01)",
+      "time": "time-pre-market",
+      "symbol": "IQ",
+      "name": "iQIYI, Inc.",
+      "marketCap": "$1,312,433,640",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "($0.04)",
       "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "($3.30)",
+      "lastYearEPS": "$0.08",
       "time": "time-pre-market",
-      "symbol": "AGPU",
-      "name": "Axe Compute Inc.",
-      "marketCap": "$95,979,810",
+      "symbol": "ENRD",
+      "name": "Einride AB",
+      "marketCap": "$928,425,640",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "8/14/2025",
+      "lastYearEPS": "$0.04",
+      "time": "time-pre-market",
+      "symbol": "HSAI",
+      "name": "Hesai Group",
+      "marketCap": "$378,909,149",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "9/12/2025",
+      "lastYearEPS": "($0.82)",
+      "time": "time-pre-market",
+      "symbol": "PRE",
+      "name": "Prenetics Global Limited",
+      "marketCap": "$330,553,333",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "($0.32)",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.05",
+      "time": "time-pre-market",
+      "symbol": "ELTK",
+      "name": "Eltek Ltd.",
+      "marketCap": "$57,118,530",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.17)",
+      "time": "time-pre-market",
+      "symbol": "THCH",
+      "name": "TH International Limited",
+      "marketCap": "$53,189,731",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.09)",
+      "lastYearRptDt": "8/13/2025",
+      "lastYearEPS": "$0.02",
       "time": "time-pre-market",
-      "symbol": "CRGO",
-      "name": "Freightos Limited",
-      "marketCap": "$68,222,217",
+      "symbol": "UCL",
+      "name": "uCloudlink Group Inc.",
+      "marketCap": "$27,921,619",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
+      "epsForecast": "($0.05)",
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "8/04/2025",
-      "lastYearEPS": "($0.26)",
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.62)",
       "time": "time-pre-market",
-      "symbol": "NSPR",
-      "name": "InspireMD Inc.",
-      "marketCap": "$39,394,792",
+      "symbol": "EVGN",
+      "name": "Evogene Ltd.",
+      "marketCap": "$8,631,297",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.20)",
-      "noOfEsts": "1"
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     }
   ]
 }
