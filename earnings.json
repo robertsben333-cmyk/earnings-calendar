@@ -1,199 +1,139 @@
 {
-  "generated_at_utc": "2026-08-20T01:59:18+00:00",
+  "generated_at_utc": "2026-08-21T02:07:53+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-08-20",
-  "next_trading_day": "2026-08-21",
+  "reference_date": "2026-08-21",
+  "next_trading_day": "2026-08-24",
   "summary": {
     "after_close_today": {
-      "date": "2026-08-20",
-      "count": 5,
-      "tickers": [
-        "ROST",
-        "OSIS",
-        "FLO",
-        "ICG",
-        "FLUX"
-      ],
-      "rows": [
-        {
-          "symbol": "ROST",
-          "name": "Ross Stores, Inc.",
-          "marketCap": "$75,826,230,745",
-          "epsForecast": "$1.93",
-          "fiscalQuarterEnding": "Jul/2026"
-        },
-        {
-          "symbol": "OSIS",
-          "name": "OSI Systems, Inc.",
-          "marketCap": "$3,605,302,530",
-          "epsForecast": "$3.76",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "FLO",
-          "name": "Flowers Foods, Inc.",
-          "marketCap": "$1,564,510,037",
-          "epsForecast": "$0.23",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "ICG",
-          "name": "Intchains Group Limited",
-          "marketCap": "$108,704,612",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "FLUX",
-          "name": "Flux Power Holdings, Inc.",
-          "marketCap": "$15,566,040",
-          "epsForecast": "($0.11)",
-          "fiscalQuarterEnding": "Jun/2026"
-        }
-      ]
+      "date": "2026-08-21",
+      "count": 0,
+      "tickers": [],
+      "rows": []
     },
     "before_open_next_trading_day": {
-      "date": "2026-08-21",
-      "count": 4,
+      "date": "2026-08-24",
+      "count": 6,
       "tickers": [
-        "BEKE",
-        "BJ",
-        "BKE",
-        "ZKH"
+        "PDD",
+        "XPEV",
+        "NSSC",
+        "XYF",
+        "NCTY",
+        "GGR"
       ],
       "rows": [
         {
-          "symbol": "BEKE",
-          "name": "KE Holdings Inc",
-          "marketCap": "$19,060,399,349",
-          "epsForecast": "$0.25",
+          "symbol": "PDD",
+          "name": "PDD Holdings Inc.",
+          "marketCap": "$128,390,360,872",
+          "epsForecast": "$2.69",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "BJ",
-          "name": "BJ's Wholesale Club Holdings, Inc.",
-          "marketCap": "$11,835,955,655",
-          "epsForecast": "$1.16",
-          "fiscalQuarterEnding": "Jul/2026"
-        },
-        {
-          "symbol": "BKE",
-          "name": "Buckle, Inc. (The)",
-          "marketCap": "$2,220,944,687",
+          "symbol": "XPEV",
+          "name": "XPeng Inc.",
+          "marketCap": "$11,460,393,307",
           "epsForecast": "",
-          "fiscalQuarterEnding": "Jul/2026"
+          "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "ZKH",
-          "name": "ZKH Group Limited",
-          "marketCap": "$460,866,019",
+          "symbol": "NSSC",
+          "name": "NAPCO Security Technologies, Inc.",
+          "marketCap": "$1,350,493,339",
+          "epsForecast": "$0.41",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "XYF",
+          "name": "X Financial",
+          "marketCap": "$300,209,963",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "NCTY",
+          "name": "The9 Limited",
+          "marketCap": "$65,980,081",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "GGR",
+          "name": "Gogoro Inc.",
+          "marketCap": "$32,501,729",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         }
       ]
     }
   },
-  "after_close": [
-    {
-      "lastYearRptDt": "8/21/2025",
-      "lastYearEPS": "$1.56",
-      "time": "time-after-hours",
-      "symbol": "ROST",
-      "name": "Ross Stores, Inc.",
-      "marketCap": "$75,826,230,745",
-      "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "$1.93",
-      "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "8/21/2025",
-      "lastYearEPS": "$3.24",
-      "time": "time-after-hours",
-      "symbol": "OSIS",
-      "name": "OSI Systems, Inc.",
-      "marketCap": "$3,605,302,530",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$3.76",
-      "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "8/15/2025",
-      "lastYearEPS": "$0.30",
-      "time": "time-after-hours",
-      "symbol": "FLO",
-      "name": "Flowers Foods, Inc.",
-      "marketCap": "$1,564,510,037",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.23",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.09",
-      "time": "time-after-hours",
-      "symbol": "ICG",
-      "name": "Intchains Group Limited",
-      "marketCap": "$108,704,612",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "9/16/2025",
-      "lastYearEPS": "N/A",
-      "time": "time-after-hours",
-      "symbol": "FLUX",
-      "name": "Flux Power Holdings, Inc.",
-      "marketCap": "$15,566,040",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.11)",
-      "noOfEsts": "3"
-    }
-  ],
+  "after_close": [],
   "before_open": [
     {
-      "lastYearRptDt": "8/26/2025",
-      "lastYearEPS": "$0.16",
+      "lastYearRptDt": "8/25/2025",
+      "lastYearEPS": "$2.90",
       "time": "time-pre-market",
-      "symbol": "BEKE",
-      "name": "KE Holdings Inc",
-      "marketCap": "$19,060,399,349",
+      "symbol": "PDD",
+      "name": "PDD Holdings Inc.",
+      "marketCap": "$128,390,360,872",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.25",
-      "noOfEsts": "2"
+      "epsForecast": "$2.69",
+      "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "8/22/2025",
-      "lastYearEPS": "$1.14",
+      "lastYearRptDt": "8/19/2025",
+      "lastYearEPS": "($0.07)",
       "time": "time-pre-market",
-      "symbol": "BJ",
-      "name": "BJ's Wholesale Club Holdings, Inc.",
-      "marketCap": "$11,835,955,655",
-      "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "$1.16",
-      "noOfEsts": "11"
+      "symbol": "XPEV",
+      "name": "XPeng Inc.",
+      "marketCap": "$11,460,393,307",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "8/25/2025",
+      "lastYearEPS": "$0.33",
+      "time": "time-pre-market",
+      "symbol": "NSSC",
+      "name": "NAPCO Security Technologies, Inc.",
+      "marketCap": "$1,350,493,339",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.41",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.89",
+      "lastYearEPS": "$1.85",
       "time": "time-pre-market",
-      "symbol": "BKE",
-      "name": "Buckle, Inc. (The)",
-      "marketCap": "$2,220,944,687",
-      "fiscalQuarterEnding": "Jul/2026",
+      "symbol": "XYF",
+      "name": "X Financial",
+      "marketCap": "$300,209,963",
+      "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.05)",
+      "lastYearEPS": "N/A",
       "time": "time-pre-market",
-      "symbol": "ZKH",
-      "name": "ZKH Group Limited",
-      "marketCap": "$460,866,019",
+      "symbol": "NCTY",
+      "name": "The9 Limited",
+      "marketCap": "$65,980,081",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($1.80)",
+      "time": "time-pre-market",
+      "symbol": "GGR",
+      "name": "Gogoro Inc.",
+      "marketCap": "$32,501,729",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     }
   ]
 }
