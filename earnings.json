@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-08-21T02:07:53+00:00",
+  "generated_at_utc": "2026-08-22T01:57:22+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-08-21",
+  "reference_date": "2026-08-22",
   "next_trading_day": "2026-08-24",
   "summary": {
     "after_close_today": {
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "count": 0,
       "tickers": [],
       "rows": []
@@ -25,42 +25,42 @@
         {
           "symbol": "PDD",
           "name": "PDD Holdings Inc.",
-          "marketCap": "$128,390,360,872",
+          "marketCap": "$127,422,451,278",
           "epsForecast": "$2.69",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
           "symbol": "XPEV",
           "name": "XPeng Inc.",
-          "marketCap": "$11,460,393,307",
+          "marketCap": "$11,469,951,600",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
           "symbol": "NSSC",
           "name": "NAPCO Security Technologies, Inc.",
-          "marketCap": "$1,350,493,339",
+          "marketCap": "$1,349,421,518",
           "epsForecast": "$0.41",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
           "symbol": "XYF",
           "name": "X Financial",
-          "marketCap": "$300,209,963",
+          "marketCap": "$301,305,620",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
           "symbol": "NCTY",
           "name": "The9 Limited",
-          "marketCap": "$65,980,081",
+          "marketCap": "$66,591,008",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
           "symbol": "GGR",
           "name": "Gogoro Inc.",
-          "marketCap": "$32,501,729",
+          "marketCap": "$33,240,404",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         }
@@ -75,7 +75,7 @@
       "time": "time-pre-market",
       "symbol": "PDD",
       "name": "PDD Holdings Inc.",
-      "marketCap": "$128,390,360,872",
+      "marketCap": "$127,422,451,278",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$2.69",
       "noOfEsts": "1"
@@ -86,7 +86,7 @@
       "time": "time-pre-market",
       "symbol": "XPEV",
       "name": "XPeng Inc.",
-      "marketCap": "$11,460,393,307",
+      "marketCap": "$11,469,951,600",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -97,7 +97,7 @@
       "time": "time-pre-market",
       "symbol": "NSSC",
       "name": "NAPCO Security Technologies, Inc.",
-      "marketCap": "$1,350,493,339",
+      "marketCap": "$1,349,421,518",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.41",
       "noOfEsts": "1"
@@ -108,7 +108,7 @@
       "time": "time-pre-market",
       "symbol": "XYF",
       "name": "X Financial",
-      "marketCap": "$300,209,963",
+      "marketCap": "$301,305,620",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -119,7 +119,7 @@
       "time": "time-pre-market",
       "symbol": "NCTY",
       "name": "The9 Limited",
-      "marketCap": "$65,980,081",
+      "marketCap": "$66,591,008",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -130,10 +130,10 @@
       "time": "time-pre-market",
       "symbol": "GGR",
       "name": "Gogoro Inc.",
-      "marketCap": "$32,501,729",
+      "marketCap": "$33,240,404",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     }
   ]
 }
