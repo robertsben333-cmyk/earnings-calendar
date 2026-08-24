@@ -1,114 +1,285 @@
 {
-  "generated_at_utc": "2026-08-23T02:09:04+00:00",
+  "generated_at_utc": "2026-08-24T02:07:34+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-08-23",
-  "next_trading_day": "2026-08-24",
+  "reference_date": "2026-08-24",
+  "next_trading_day": "2026-08-25",
   "summary": {
     "after_close_today": {
-      "date": "2026-08-23",
-      "count": 0,
-      "tickers": [],
-      "rows": []
-    },
-    "before_open_next_trading_day": {
       "date": "2026-08-24",
-      "count": 6,
+      "count": 3,
       "tickers": [
-        "PDD",
-        "XPEV",
-        "NSSC",
-        "XYF",
-        "NCTY",
-        "GGR"
+        "PICS",
+        "TUYA",
+        "GRRR"
       ],
       "rows": [
         {
-          "symbol": "PDD",
-          "name": "PDD Holdings Inc.",
-          "marketCap": "$127,422,451,278",
-          "epsForecast": "$2.69",
+          "symbol": "PICS",
+          "name": "PicS N.V.",
+          "marketCap": "$1,302,354,807",
+          "epsForecast": "$0.45",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "XPEV",
-          "name": "XPeng Inc.",
-          "marketCap": "$11,469,951,600",
+          "symbol": "TUYA",
+          "name": "Tuya Inc.",
+          "marketCap": "$1,073,250,682",
+          "epsForecast": "$0.02",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "GRRR",
+          "name": "Gorilla Technology Group Inc.",
+          "marketCap": "$423,301,479",
+          "epsForecast": "$0.27",
+          "fiscalQuarterEnding": "Jun/2026"
+        }
+      ]
+    },
+    "before_open_next_trading_day": {
+      "date": "2026-08-25",
+      "count": 13,
+      "tickers": [
+        "BMO",
+        "BNS",
+        "DKS",
+        "BZ",
+        "VIPS",
+        "MZTI",
+        "CDLR",
+        "CTRN",
+        "EH",
+        "SHMD",
+        "SLQT",
+        "TOUR",
+        "SNT"
+      ],
+      "rows": [
+        {
+          "symbol": "BMO",
+          "name": "Bank Of Montreal",
+          "marketCap": "$121,887,293,613",
+          "epsForecast": "$2.72",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "BNS",
+          "name": "Bank of Nova Scotia (The)",
+          "marketCap": "$106,026,014,205",
+          "epsForecast": "$1.53",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "DKS",
+          "name": "Dick's Sporting Goods Inc",
+          "marketCap": "$16,051,384,986",
+          "epsForecast": "$3.78",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "BZ",
+          "name": "KANZHUN LIMITED",
+          "marketCap": "$7,303,073,993",
+          "epsForecast": "$0.25",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "VIPS",
+          "name": "Vipshop Holdings Limited",
+          "marketCap": "$6,867,868,722",
+          "epsForecast": "$0.42",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "MZTI",
+          "name": "The Marzetti Company",
+          "marketCap": "$3,095,669,580",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "NSSC",
-          "name": "NAPCO Security Technologies, Inc.",
-          "marketCap": "$1,349,421,518",
-          "epsForecast": "$0.41",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "XYF",
-          "name": "X Financial",
-          "marketCap": "$301,305,620",
+          "symbol": "CDLR",
+          "name": "Cadeler A/S",
+          "marketCap": "$2,113,642,050",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "NCTY",
-          "name": "The9 Limited",
-          "marketCap": "$66,591,008",
+          "symbol": "CTRN",
+          "name": "Citi Trends, Inc.",
+          "marketCap": "$584,338,837",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "EH",
+          "name": "EHang Holdings Limited",
+          "marketCap": "$395,916,719",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "GGR",
-          "name": "Gogoro Inc.",
-          "marketCap": "$33,240,404",
+          "symbol": "SHMD",
+          "name": "SCHMID Group N.V.",
+          "marketCap": "$315,900,242",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "SLQT",
+          "name": "SelectQuote, Inc.",
+          "marketCap": "$147,303,296",
+          "epsForecast": "($0.15)",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "TOUR",
+          "name": "Tuniu Corporation",
+          "marketCap": "$52,906,497",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "SNT",
+          "name": "Senstar Technologies Corporation",
+          "marketCap": "$39,897,127",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         }
       ]
     }
   },
-  "after_close": [],
-  "before_open": [
+  "after_close": [
     {
-      "lastYearRptDt": "8/25/2025",
-      "lastYearEPS": "$2.90",
-      "time": "time-pre-market",
-      "symbol": "PDD",
-      "name": "PDD Holdings Inc.",
-      "marketCap": "$127,422,451,278",
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-after-hours",
+      "symbol": "PICS",
+      "name": "PicS N.V.",
+      "marketCap": "$1,302,354,807",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$2.69",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "8/19/2025",
-      "lastYearEPS": "($0.07)",
-      "time": "time-pre-market",
-      "symbol": "XPEV",
-      "name": "XPeng Inc.",
-      "marketCap": "$11,469,951,600",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
+      "epsForecast": "$0.45",
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "8/25/2025",
-      "lastYearEPS": "$0.33",
-      "time": "time-pre-market",
-      "symbol": "NSSC",
-      "name": "NAPCO Security Technologies, Inc.",
-      "marketCap": "$1,349,421,518",
+      "lastYearRptDt": "8/26/2025",
+      "lastYearEPS": "$0.02",
+      "time": "time-after-hours",
+      "symbol": "TUYA",
+      "name": "Tuya Inc.",
+      "marketCap": "$1,073,250,682",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.41",
+      "epsForecast": "$0.02",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "8/14/2025",
+      "lastYearEPS": "($0.20)",
+      "time": "time-after-hours",
+      "symbol": "GRRR",
+      "name": "Gorilla Technology Group Inc.",
+      "marketCap": "$423,301,479",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.27",
+      "noOfEsts": "2"
+    }
+  ],
+  "before_open": [
+    {
+      "lastYearRptDt": "8/26/2025",
+      "lastYearEPS": "$2.33",
+      "time": "time-pre-market",
+      "symbol": "BMO",
+      "name": "Bank Of Montreal",
+      "marketCap": "$121,887,293,613",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$2.72",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "8/26/2025",
+      "lastYearEPS": "$1.37",
+      "time": "time-pre-market",
+      "symbol": "BNS",
+      "name": "Bank of Nova Scotia (The)",
+      "marketCap": "$106,026,014,205",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$1.53",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "8/28/2025",
+      "lastYearEPS": "$4.38",
+      "time": "time-pre-market",
+      "symbol": "DKS",
+      "name": "Dick's Sporting Goods Inc",
+      "marketCap": "$16,051,384,986",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$3.78",
+      "noOfEsts": "9"
+    },
+    {
+      "lastYearRptDt": "8/20/2025",
+      "lastYearEPS": "$0.22",
+      "time": "time-pre-market",
+      "symbol": "BZ",
+      "name": "KANZHUN LIMITED",
+      "marketCap": "$7,303,073,993",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.25",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "8/14/2025",
+      "lastYearEPS": "$0.41",
+      "time": "time-pre-market",
+      "symbol": "VIPS",
+      "name": "Vipshop Holdings Limited",
+      "marketCap": "$6,867,868,722",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.42",
       "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "$1.85",
+      "lastYearEPS": "$1.33",
       "time": "time-pre-market",
-      "symbol": "XYF",
-      "name": "X Financial",
-      "marketCap": "$301,305,620",
+      "symbol": "MZTI",
+      "name": "The Marzetti Company",
+      "marketCap": "$3,095,669,580",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$2.12",
+      "time": "time-pre-market",
+      "symbol": "CDLR",
+      "name": "Cadeler A/S",
+      "marketCap": "$2,113,642,050",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.82)",
+      "time": "time-pre-market",
+      "symbol": "CTRN",
+      "name": "Citi Trends, Inc.",
+      "marketCap": "$584,338,837",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "8/26/2025",
+      "lastYearEPS": "($0.13)",
+      "time": "time-pre-market",
+      "symbol": "EH",
+      "name": "EHang Holdings Limited",
+      "marketCap": "$395,916,719",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -117,23 +288,45 @@
       "lastYearRptDt": "N/A",
       "lastYearEPS": "N/A",
       "time": "time-pre-market",
-      "symbol": "NCTY",
-      "name": "The9 Limited",
-      "marketCap": "$66,591,008",
+      "symbol": "SHMD",
+      "name": "SCHMID Group N.V.",
+      "marketCap": "$315,900,242",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "8/21/2025",
+      "lastYearEPS": "($0.17)",
+      "time": "time-pre-market",
+      "symbol": "SLQT",
+      "name": "SelectQuote, Inc.",
+      "marketCap": "$147,303,296",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "($0.15)",
       "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "($1.80)",
+      "lastYearEPS": "$0.30",
       "time": "time-pre-market",
-      "symbol": "GGR",
-      "name": "Gogoro Inc.",
-      "marketCap": "$33,240,404",
+      "symbol": "TOUR",
+      "name": "Tuniu Corporation",
+      "marketCap": "$52,906,497",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.05",
+      "time": "time-pre-market",
+      "symbol": "SNT",
+      "name": "Senstar Technologies Corporation",
+      "marketCap": "$39,897,127",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     }
   ]
 }
