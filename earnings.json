@@ -1,148 +1,284 @@
 {
-  "generated_at_utc": "2026-08-24T02:07:34+00:00",
+  "generated_at_utc": "2026-08-25T02:01:33+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-08-24",
-  "next_trading_day": "2026-08-25",
+  "reference_date": "2026-08-25",
+  "next_trading_day": "2026-08-26",
   "summary": {
     "after_close_today": {
-      "date": "2026-08-24",
-      "count": 3,
+      "date": "2026-08-25",
+      "count": 14,
       "tickers": [
-        "PICS",
-        "TUYA",
-        "GRRR"
+        "INTU",
+        "HEI",
+        "HEI.A",
+        "ZM",
+        "SMTC",
+        "BOX",
+        "JOYY",
+        "NCNO",
+        "QFIN",
+        "FSCO",
+        "NOAH",
+        "STRT",
+        "ELMD",
+        "QMLS"
       ],
       "rows": [
         {
-          "symbol": "PICS",
-          "name": "PicS N.V.",
-          "marketCap": "$1,302,354,807",
-          "epsForecast": "$0.45",
+          "symbol": "INTU",
+          "name": "Intuit Inc.",
+          "marketCap": "$100,388,079,000",
+          "epsForecast": "$2.12",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "HEI",
+          "name": "Heico Corporation",
+          "marketCap": "$49,612,475,848",
+          "epsForecast": "$1.51",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "HEI.A",
+          "name": "Heico Corporation",
+          "marketCap": "$49,612,475,848",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "ZM",
+          "name": "Zoom Communications, Inc.",
+          "marketCap": "$31,501,937,180",
+          "epsForecast": "$1.01",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "SMTC",
+          "name": "Semtech Corporation",
+          "marketCap": "$11,559,128,437",
+          "epsForecast": "$0.41",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "BOX",
+          "name": "Box, Inc.",
+          "marketCap": "$4,556,383,741",
+          "epsForecast": "$0.09",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "JOYY",
+          "name": "JOYY Inc.",
+          "marketCap": "$3,807,255,831",
+          "epsForecast": "$0.85",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "TUYA",
-          "name": "Tuya Inc.",
-          "marketCap": "$1,073,250,682",
-          "epsForecast": "$0.02",
+          "symbol": "NCNO",
+          "name": "nCino, Inc.",
+          "marketCap": "$2,258,981,829",
+          "epsForecast": "$0.11",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "QFIN",
+          "name": "Qfin Holdings, Inc. ",
+          "marketCap": "$1,409,278,057",
+          "epsForecast": "$0.96",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "GRRR",
-          "name": "Gorilla Technology Group Inc.",
-          "marketCap": "$423,301,479",
-          "epsForecast": "$0.27",
+          "symbol": "FSCO",
+          "name": "FS Credit Opportunities Corp.",
+          "marketCap": "$1,027,483,562",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "NOAH",
+          "name": "Noah Holdings Ltd.",
+          "marketCap": "$590,054,582",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "STRT",
+          "name": "Strattec Security Corporation",
+          "marketCap": "$341,783,970",
+          "epsForecast": "$1.36",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "ELMD",
+          "name": "Electromed, Inc.",
+          "marketCap": "$326,648,525",
+          "epsForecast": "$0.32",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "QMLS",
+          "name": "QumulusAI, Inc.",
+          "marketCap": "$192,606,076",
+          "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         }
       ]
     },
     "before_open_next_trading_day": {
-      "date": "2026-08-25",
-      "count": 13,
+      "date": "2026-08-26",
+      "count": 19,
       "tickers": [
-        "BMO",
-        "BNS",
-        "DKS",
-        "BZ",
-        "VIPS",
-        "MZTI",
-        "CDLR",
-        "CTRN",
-        "EH",
-        "SHMD",
-        "SLQT",
-        "TOUR",
-        "SNT"
+        "WSM",
+        "SJM",
+        "LI",
+        "DY",
+        "DCI",
+        "ANF",
+        "BBWI",
+        "TRMD",
+        "KSS",
+        "PLAB",
+        "SFL",
+        "TIGR",
+        "HDL",
+        "JKS",
+        "MOV",
+        "DSC",
+        "ZH",
+        "LANV",
+        "LITB"
       ],
       "rows": [
         {
-          "symbol": "BMO",
-          "name": "Bank Of Montreal",
-          "marketCap": "$121,887,293,613",
-          "epsForecast": "$2.72",
+          "symbol": "WSM",
+          "name": "Williams-Sonoma, Inc.",
+          "marketCap": "$27,974,239,841",
+          "epsForecast": "$2.05",
           "fiscalQuarterEnding": "Jul/2026"
         },
         {
-          "symbol": "BNS",
-          "name": "Bank of Nova Scotia (The)",
-          "marketCap": "$106,026,014,205",
-          "epsForecast": "$1.53",
+          "symbol": "SJM",
+          "name": "The J.M. Smucker Company ",
+          "marketCap": "$13,287,407,381",
+          "epsForecast": "$2.21",
           "fiscalQuarterEnding": "Jul/2026"
         },
         {
-          "symbol": "DKS",
-          "name": "Dick's Sporting Goods Inc",
-          "marketCap": "$16,051,384,986",
-          "epsForecast": "$3.78",
+          "symbol": "LI",
+          "name": "Li Auto Inc.",
+          "marketCap": "$11,864,571,343",
+          "epsForecast": "($0.01)",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "DY",
+          "name": "Dycom Industries, Inc.",
+          "marketCap": "$11,800,860,242",
+          "epsForecast": "$4.36",
           "fiscalQuarterEnding": "Jul/2026"
         },
         {
-          "symbol": "BZ",
-          "name": "KANZHUN LIMITED",
-          "marketCap": "$7,303,073,993",
-          "epsForecast": "$0.25",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "VIPS",
-          "name": "Vipshop Holdings Limited",
-          "marketCap": "$6,867,868,722",
-          "epsForecast": "$0.42",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "MZTI",
-          "name": "The Marzetti Company",
-          "marketCap": "$3,095,669,580",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "CDLR",
-          "name": "Cadeler A/S",
-          "marketCap": "$2,113,642,050",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "CTRN",
-          "name": "Citi Trends, Inc.",
-          "marketCap": "$584,338,837",
-          "epsForecast": "",
+          "symbol": "DCI",
+          "name": "Donaldson Company, Inc.",
+          "marketCap": "$10,808,705,972",
+          "epsForecast": "$1.12",
           "fiscalQuarterEnding": "Jul/2026"
         },
         {
-          "symbol": "EH",
-          "name": "EHang Holdings Limited",
-          "marketCap": "$395,916,719",
+          "symbol": "ANF",
+          "name": "Abercrombie & Fitch Company",
+          "marketCap": "$4,843,500,707",
+          "epsForecast": "$1.95",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "BBWI",
+          "name": "Bath & Body Works, Inc.",
+          "marketCap": "$3,920,377,243",
+          "epsForecast": "$0.24",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "TRMD",
+          "name": "TORM plc",
+          "marketCap": "$3,222,380,083",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "SHMD",
-          "name": "SCHMID Group N.V.",
-          "marketCap": "$315,900,242",
+          "symbol": "KSS",
+          "name": "Kohl's Corporation",
+          "marketCap": "$1,995,839,877",
+          "epsForecast": "$0.55",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "PLAB",
+          "name": "Photronics, Inc.",
+          "marketCap": "$1,798,982,426",
+          "epsForecast": "$0.40",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "SFL",
+          "name": "SFL Corporation Ltd",
+          "marketCap": "$1,647,780,594",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "SLQT",
-          "name": "SelectQuote, Inc.",
-          "marketCap": "$147,303,296",
-          "epsForecast": "($0.15)",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "TOUR",
-          "name": "Tuniu Corporation",
-          "marketCap": "$52,906,497",
+          "symbol": "TIGR",
+          "name": "UP Fintech Holding Limited",
+          "marketCap": "$952,474,523",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "SNT",
-          "name": "Senstar Technologies Corporation",
-          "marketCap": "$39,897,127",
+          "symbol": "HDL",
+          "name": "SUPER HI INTERNATIONAL HOLDING LTD.",
+          "marketCap": "$910,418,600",
+          "epsForecast": "$0.03",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "JKS",
+          "name": "JinkoSolar Holding Company Limited",
+          "marketCap": "$833,733,393",
+          "epsForecast": "($0.75)",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "MOV",
+          "name": "Movado Group Inc.",
+          "marketCap": "$773,729,981",
+          "epsForecast": "$0.36",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "DSC",
+          "name": "DSC Holdings Ltd.",
+          "marketCap": "$427,118,357",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "ZH",
+          "name": "Zhihu Inc.",
+          "marketCap": "$285,886,940",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "LANV",
+          "name": "Lanvin Group Holdings Limited",
+          "marketCap": "$131,875,710",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "LITB",
+          "name": "LightInTheBox Holding Co., Ltd.",
+          "marketCap": "$60,166,075",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         }
@@ -151,182 +287,369 @@
   },
   "after_close": [
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "lastYearRptDt": "8/21/2025",
+      "lastYearEPS": "$1.70",
       "time": "time-after-hours",
-      "symbol": "PICS",
-      "name": "PicS N.V.",
-      "marketCap": "$1,302,354,807",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.45",
-      "noOfEsts": "N/A"
+      "symbol": "INTU",
+      "name": "Intuit Inc.",
+      "marketCap": "$100,388,079,000",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$2.12",
+      "noOfEsts": "9"
     },
     {
-      "lastYearRptDt": "8/26/2025",
-      "lastYearEPS": "$0.02",
+      "lastYearRptDt": "8/25/2025",
+      "lastYearEPS": "$1.26",
       "time": "time-after-hours",
-      "symbol": "TUYA",
-      "name": "Tuya Inc.",
-      "marketCap": "$1,073,250,682",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.02",
+      "symbol": "HEI",
+      "name": "Heico Corporation",
+      "marketCap": "$49,612,475,848",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$1.51",
+      "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$1.26",
+      "time": "time-after-hours",
+      "symbol": "HEI.A",
+      "name": "Heico Corporation",
+      "marketCap": "$49,612,475,848",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "",
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "8/14/2025",
-      "lastYearEPS": "($0.20)",
+      "lastYearRptDt": "8/21/2025",
+      "lastYearEPS": "$0.99",
       "time": "time-after-hours",
-      "symbol": "GRRR",
-      "name": "Gorilla Technology Group Inc.",
-      "marketCap": "$423,301,479",
+      "symbol": "ZM",
+      "name": "Zoom Communications, Inc.",
+      "marketCap": "$31,501,937,180",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$1.01",
+      "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "8/25/2025",
+      "lastYearEPS": "$0.22",
+      "time": "time-after-hours",
+      "symbol": "SMTC",
+      "name": "Semtech Corporation",
+      "marketCap": "$11,559,128,437",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$0.41",
+      "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "8/26/2025",
+      "lastYearEPS": "$0.05",
+      "time": "time-after-hours",
+      "symbol": "BOX",
+      "name": "Box, Inc.",
+      "marketCap": "$4,556,383,741",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$0.09",
+      "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "8/26/2025",
+      "lastYearEPS": "$1.36",
+      "time": "time-after-hours",
+      "symbol": "JOYY",
+      "name": "JOYY Inc.",
+      "marketCap": "$3,807,255,831",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.27",
+      "epsForecast": "$0.85",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "8/26/2025",
+      "lastYearEPS": "$0.07",
+      "time": "time-after-hours",
+      "symbol": "NCNO",
+      "name": "nCino, Inc.",
+      "marketCap": "$2,258,981,829",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$0.11",
+      "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "8/14/2025",
+      "lastYearEPS": "$1.78",
+      "time": "time-after-hours",
+      "symbol": "QFIN",
+      "name": "Qfin Holdings, Inc. ",
+      "marketCap": "$1,409,278,057",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.96",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-after-hours",
+      "symbol": "FSCO",
+      "name": "FS Credit Opportunities Corp.",
+      "marketCap": "$1,027,483,562",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "8/27/2025",
+      "lastYearEPS": "$0.37",
+      "time": "time-after-hours",
+      "symbol": "NOAH",
+      "name": "Noah Holdings Ltd.",
+      "marketCap": "$590,054,582",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "8/14/2025",
+      "lastYearEPS": "$2.06",
+      "time": "time-after-hours",
+      "symbol": "STRT",
+      "name": "Strattec Security Corporation",
+      "marketCap": "$341,783,970",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$1.36",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "8/26/2025",
+      "lastYearEPS": "$0.25",
+      "time": "time-after-hours",
+      "symbol": "ELMD",
+      "name": "Electromed, Inc.",
+      "marketCap": "$326,648,525",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.32",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-after-hours",
+      "symbol": "QMLS",
+      "name": "QumulusAI, Inc.",
+      "marketCap": "$192,606,076",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
     }
   ],
   "before_open": [
     {
-      "lastYearRptDt": "8/26/2025",
-      "lastYearEPS": "$2.33",
+      "lastYearRptDt": "8/27/2025",
+      "lastYearEPS": "$2",
       "time": "time-pre-market",
-      "symbol": "BMO",
-      "name": "Bank Of Montreal",
-      "marketCap": "$121,887,293,613",
+      "symbol": "WSM",
+      "name": "Williams-Sonoma, Inc.",
+      "marketCap": "$27,974,239,841",
       "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "$2.72",
-      "noOfEsts": "3"
+      "epsForecast": "$2.05",
+      "noOfEsts": "8"
     },
     {
-      "lastYearRptDt": "8/26/2025",
-      "lastYearEPS": "$1.37",
+      "lastYearRptDt": "8/27/2025",
+      "lastYearEPS": "$1.90",
       "time": "time-pre-market",
-      "symbol": "BNS",
-      "name": "Bank of Nova Scotia (The)",
-      "marketCap": "$106,026,014,205",
+      "symbol": "SJM",
+      "name": "The J.M. Smucker Company ",
+      "marketCap": "$13,287,407,381",
       "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "$1.53",
-      "noOfEsts": "3"
+      "epsForecast": "$2.21",
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "8/28/2025",
-      "lastYearEPS": "$4.38",
+      "lastYearEPS": "$0.14",
       "time": "time-pre-market",
-      "symbol": "DKS",
-      "name": "Dick's Sporting Goods Inc",
-      "marketCap": "$16,051,384,986",
-      "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "$3.78",
-      "noOfEsts": "9"
+      "symbol": "LI",
+      "name": "Li Auto Inc.",
+      "marketCap": "$11,864,571,343",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "($0.01)",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "8/20/2025",
-      "lastYearEPS": "$0.22",
+      "lastYearEPS": "$3.33",
       "time": "time-pre-market",
-      "symbol": "BZ",
-      "name": "KANZHUN LIMITED",
-      "marketCap": "$7,303,073,993",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.25",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "8/14/2025",
-      "lastYearEPS": "$0.41",
-      "time": "time-pre-market",
-      "symbol": "VIPS",
-      "name": "Vipshop Holdings Limited",
-      "marketCap": "$6,867,868,722",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.42",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$1.33",
-      "time": "time-pre-market",
-      "symbol": "MZTI",
-      "name": "The Marzetti Company",
-      "marketCap": "$3,095,669,580",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$2.12",
-      "time": "time-pre-market",
-      "symbol": "CDLR",
-      "name": "Cadeler A/S",
-      "marketCap": "$2,113,642,050",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.82)",
-      "time": "time-pre-market",
-      "symbol": "CTRN",
-      "name": "Citi Trends, Inc.",
-      "marketCap": "$584,338,837",
+      "symbol": "DY",
+      "name": "Dycom Industries, Inc.",
+      "marketCap": "$11,800,860,242",
       "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
+      "epsForecast": "$4.36",
+      "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "8/26/2025",
-      "lastYearEPS": "($0.13)",
+      "lastYearRptDt": "8/27/2025",
+      "lastYearEPS": "$1.03",
       "time": "time-pre-market",
-      "symbol": "EH",
-      "name": "EHang Holdings Limited",
-      "marketCap": "$395,916,719",
+      "symbol": "DCI",
+      "name": "Donaldson Company, Inc.",
+      "marketCap": "$10,808,705,972",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$1.12",
+      "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "8/27/2025",
+      "lastYearEPS": "$2.32",
+      "time": "time-pre-market",
+      "symbol": "ANF",
+      "name": "Abercrombie & Fitch Company",
+      "marketCap": "$4,843,500,707",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$1.95",
+      "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "8/28/2025",
+      "lastYearEPS": "$0.37",
+      "time": "time-pre-market",
+      "symbol": "BBWI",
+      "name": "Bath & Body Works, Inc.",
+      "marketCap": "$3,920,377,243",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$0.24",
+      "noOfEsts": "8"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.58",
+      "time": "time-pre-market",
+      "symbol": "TRMD",
+      "name": "TORM plc",
+      "marketCap": "$3,222,380,083",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "8/27/2025",
+      "lastYearEPS": "$0.56",
+      "time": "time-pre-market",
+      "symbol": "KSS",
+      "name": "Kohl's Corporation",
+      "marketCap": "$1,995,839,877",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$0.55",
+      "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "8/27/2025",
+      "lastYearEPS": "$0.51",
+      "time": "time-pre-market",
+      "symbol": "PLAB",
+      "name": "Photronics, Inc.",
+      "marketCap": "$1,798,982,426",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$0.40",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "N/A",
       "time": "time-pre-market",
-      "symbol": "SHMD",
-      "name": "SCHMID Group N.V.",
-      "marketCap": "$315,900,242",
+      "symbol": "SFL",
+      "name": "SFL Corporation Ltd",
+      "marketCap": "$1,647,780,594",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "8/21/2025",
-      "lastYearEPS": "($0.17)",
+      "lastYearRptDt": "8/27/2025",
+      "lastYearEPS": "$0.22",
       "time": "time-pre-market",
-      "symbol": "SLQT",
-      "name": "SelectQuote, Inc.",
-      "marketCap": "$147,303,296",
+      "symbol": "TIGR",
+      "name": "UP Fintech Holding Limited",
+      "marketCap": "$952,474,523",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.15)",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "8/26/2025",
+      "lastYearEPS": "$0.30",
+      "time": "time-pre-market",
+      "symbol": "HDL",
+      "name": "SUPER HI INTERNATIONAL HOLDING LTD.",
+      "marketCap": "$910,418,600",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.03",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "11/17/2025",
+      "lastYearEPS": "($2.30)",
+      "time": "time-pre-market",
+      "symbol": "JKS",
+      "name": "JinkoSolar Holding Company Limited",
+      "marketCap": "$833,733,393",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "($0.75)",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "8/28/2025",
+      "lastYearEPS": "$0.23",
+      "time": "time-pre-market",
+      "symbol": "MOV",
+      "name": "Movado Group Inc.",
+      "marketCap": "$773,729,981",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$0.36",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-pre-market",
+      "symbol": "DSC",
+      "name": "DSC Holdings Ltd.",
+      "marketCap": "$427,118,357",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
       "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.30",
+      "lastYearEPS": "$0.12",
       "time": "time-pre-market",
-      "symbol": "TOUR",
-      "name": "Tuniu Corporation",
-      "marketCap": "$52,906,497",
+      "symbol": "ZH",
+      "name": "Zhihu Inc.",
+      "marketCap": "$285,886,940",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.05",
+      "lastYearEPS": "N/A",
       "time": "time-pre-market",
-      "symbol": "SNT",
-      "name": "Senstar Technologies Corporation",
-      "marketCap": "$39,897,127",
+      "symbol": "LANV",
+      "name": "Lanvin Group Holdings Limited",
+      "marketCap": "$131,875,710",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.11",
+      "time": "time-pre-market",
+      "symbol": "LITB",
+      "name": "LightInTheBox Holding Co., Ltd.",
+      "marketCap": "$60,166,075",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
     }
   ]
 }
