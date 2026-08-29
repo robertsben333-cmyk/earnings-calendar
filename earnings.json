@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-08-28T11:39:28+00:00",
+  "generated_at_utc": "2026-08-29T07:16:12+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-08-28",
+  "reference_date": "2026-08-29",
   "next_trading_day": "2026-08-31",
   "summary": {
     "after_close_today": {
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "count": 0,
       "tickers": [],
       "rows": []
@@ -23,28 +23,28 @@
         {
           "symbol": "SAIC",
           "name": "Science Applications International Corporation",
-          "marketCap": "$5,393,676,568",
+          "marketCap": "$5,452,018,700",
           "epsForecast": "$2.25",
           "fiscalQuarterEnding": "Jul/2026"
         },
         {
           "symbol": "SY",
           "name": "So-Young International Inc.",
-          "marketCap": "$240,725,210",
+          "marketCap": "$232,701,040",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
           "symbol": "LX",
           "name": "LexinFintech Holdings Ltd.",
-          "marketCap": "$194,450,163",
+          "marketCap": "$190,330,464",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
           "symbol": "BLRX",
           "name": "BioLineRx Ltd.",
-          "marketCap": "$11,794,397",
+          "marketCap": "$12,056,494",
           "epsForecast": "$0",
           "fiscalQuarterEnding": "Jun/2026"
         }
@@ -59,7 +59,7 @@
       "time": "time-pre-market",
       "symbol": "SAIC",
       "name": "Science Applications International Corporation",
-      "marketCap": "$5,393,676,568",
+      "marketCap": "$5,452,018,700",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "$2.25",
       "noOfEsts": "4"
@@ -70,7 +70,7 @@
       "time": "time-pre-market",
       "symbol": "SY",
       "name": "So-Young International Inc.",
-      "marketCap": "$240,725,210",
+      "marketCap": "$232,701,040",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -81,7 +81,7 @@
       "time": "time-pre-market",
       "symbol": "LX",
       "name": "LexinFintech Holdings Ltd.",
-      "marketCap": "$194,450,163",
+      "marketCap": "$190,330,464",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -92,7 +92,7 @@
       "time": "time-pre-market",
       "symbol": "BLRX",
       "name": "BioLineRx Ltd.",
-      "marketCap": "$11,794,397",
+      "marketCap": "$12,056,494",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0",
       "noOfEsts": "1"
