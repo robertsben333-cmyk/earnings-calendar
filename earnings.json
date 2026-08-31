@@ -1,101 +1,218 @@
 {
-  "generated_at_utc": "2026-08-30T05:40:02+00:00",
+  "generated_at_utc": "2026-08-31T05:55:16+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-08-30",
-  "next_trading_day": "2026-08-31",
+  "reference_date": "2026-08-31",
+  "next_trading_day": "2026-09-01",
   "summary": {
     "after_close_today": {
-      "date": "2026-08-30",
-      "count": 0,
-      "tickers": [],
-      "rows": []
-    },
-    "before_open_next_trading_day": {
       "date": "2026-08-31",
-      "count": 4,
+      "count": 2,
       "tickers": [
-        "SAIC",
-        "SY",
-        "LX",
-        "BLRX"
+        "CANG",
+        "PXS"
       ],
       "rows": [
         {
-          "symbol": "SAIC",
-          "name": "Science Applications International Corporation",
-          "marketCap": "$5,452,018,700",
-          "epsForecast": "$2.25",
+          "symbol": "CANG",
+          "name": "Cango Inc.",
+          "marketCap": "$106,246,896",
+          "epsForecast": "($0.90)",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "PXS",
+          "name": "Pyxis Tankers Inc.",
+          "marketCap": "$55,485,752",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Jun/2026"
+        }
+      ]
+    },
+    "before_open_next_trading_day": {
+      "date": "2026-09-01",
+      "count": 8,
+      "tickers": [
+        "MDT",
+        "NIO",
+        "MMED",
+        "RZLV",
+        "YEXT",
+        "HMR",
+        "ZEPP",
+        "RGS"
+      ],
+      "rows": [
+        {
+          "symbol": "MDT",
+          "name": "Medtronic plc",
+          "marketCap": "$115,159,876,000",
+          "epsForecast": "$1.38",
           "fiscalQuarterEnding": "Jul/2026"
         },
         {
-          "symbol": "SY",
-          "name": "So-Young International Inc.",
-          "marketCap": "$232,701,040",
+          "symbol": "NIO",
+          "name": "NIO Inc.",
+          "marketCap": "$10,924,707,800",
+          "epsForecast": "($0.07)",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "MMED",
+          "name": "MiniMed Group, Inc.",
+          "marketCap": "$5,489,137,200",
+          "epsForecast": "$0.09",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "RZLV",
+          "name": "Rezolve AI PLC",
+          "marketCap": "$1,177,151,740",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "LX",
-          "name": "LexinFintech Holdings Ltd.",
-          "marketCap": "$190,330,464",
+          "symbol": "YEXT",
+          "name": "Yext, Inc.",
+          "marketCap": "$677,677,250",
+          "epsForecast": "$0.10",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "HMR",
+          "name": "Heidmar Maritime Holdings Corp.",
+          "marketCap": "$80,819,040",
+          "epsForecast": "$0.10",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "ZEPP",
+          "name": "Zepp Health Corporation",
+          "marketCap": "$76,404,552",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "BLRX",
-          "name": "BioLineRx Ltd.",
-          "marketCap": "$12,056,494",
-          "epsForecast": "$0",
+          "symbol": "RGS",
+          "name": "Regis Corporation",
+          "marketCap": "$67,467,008",
+          "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         }
       ]
     }
   },
-  "after_close": [],
-  "before_open": [
+  "after_close": [
     {
       "lastYearRptDt": "9/04/2025",
-      "lastYearEPS": "$3.63",
-      "time": "time-pre-market",
-      "symbol": "SAIC",
-      "name": "Science Applications International Corporation",
-      "marketCap": "$5,452,018,700",
-      "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "$2.25",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.05)",
-      "time": "time-pre-market",
-      "symbol": "SY",
-      "name": "So-Young International Inc.",
-      "marketCap": "$232,701,040",
+      "lastYearEPS": "($0.10)",
+      "time": "time-after-hours",
+      "symbol": "CANG",
+      "name": "Cango Inc.",
+      "marketCap": "$106,246,896",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.40",
-      "time": "time-pre-market",
-      "symbol": "LX",
-      "name": "LexinFintech Holdings Ltd.",
-      "marketCap": "$190,330,464",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "8/14/2025",
-      "lastYearEPS": "$1",
-      "time": "time-pre-market",
-      "symbol": "BLRX",
-      "name": "BioLineRx Ltd.",
-      "marketCap": "$12,056,494",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0",
+      "epsForecast": "($0.90)",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.19)",
+      "time": "time-after-hours",
+      "symbol": "PXS",
+      "name": "Pyxis Tankers Inc.",
+      "marketCap": "$55,485,752",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    }
+  ],
+  "before_open": [
+    {
+      "lastYearRptDt": "8/19/2025",
+      "lastYearEPS": "$1.26",
+      "time": "time-pre-market",
+      "symbol": "MDT",
+      "name": "Medtronic plc",
+      "marketCap": "$115,159,876,000",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$1.38",
+      "noOfEsts": "8"
+    },
+    {
+      "lastYearRptDt": "9/02/2025",
+      "lastYearEPS": "($0.32)",
+      "time": "time-pre-market",
+      "symbol": "NIO",
+      "name": "NIO Inc.",
+      "marketCap": "$10,924,707,800",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "($0.07)",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-pre-market",
+      "symbol": "MMED",
+      "name": "MiniMed Group, Inc.",
+      "marketCap": "$5,489,137,200",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$0.09",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-pre-market",
+      "symbol": "RZLV",
+      "name": "Rezolve AI PLC",
+      "marketCap": "$1,177,151,740",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "9/08/2025",
+      "lastYearEPS": "$0.03",
+      "time": "time-pre-market",
+      "symbol": "YEXT",
+      "name": "Yext, Inc.",
+      "marketCap": "$677,677,250",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$0.10",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "8/11/2025",
+      "lastYearEPS": "$0.01",
+      "time": "time-pre-market",
+      "symbol": "HMR",
+      "name": "Heidmar Maritime Holdings Corp.",
+      "marketCap": "$80,819,040",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.10",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.42)",
+      "time": "time-pre-market",
+      "symbol": "ZEPP",
+      "name": "Zepp Health Corporation",
+      "marketCap": "$76,404,552",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.74",
+      "time": "time-pre-market",
+      "symbol": "RGS",
+      "name": "Regis Corporation",
+      "marketCap": "$67,467,008",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     }
   ]
 }
