@@ -1,100 +1,148 @@
 {
-  "generated_at_utc": "2026-08-31T05:55:16+00:00",
+  "generated_at_utc": "2026-09-01T05:28:36+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-08-31",
-  "next_trading_day": "2026-09-01",
+  "reference_date": "2026-09-01",
+  "next_trading_day": "2026-09-02",
   "summary": {
     "after_close_today": {
-      "date": "2026-08-31",
-      "count": 2,
+      "date": "2026-09-01",
+      "count": 6,
       "tickers": [
-        "CANG",
-        "PXS"
+        "PANW",
+        "DELL",
+        "CRDO",
+        "MDB",
+        "GTLB",
+        "SPWH"
       ],
       "rows": [
         {
-          "symbol": "CANG",
-          "name": "Cango Inc.",
-          "marketCap": "$106,246,896",
-          "epsForecast": "($0.90)",
-          "fiscalQuarterEnding": "Jun/2026"
+          "symbol": "PANW",
+          "name": "Palo Alto Networks, Inc.",
+          "marketCap": "$302,845,854,000",
+          "epsForecast": "$0.51",
+          "fiscalQuarterEnding": "Jul/2026"
         },
         {
-          "symbol": "PXS",
-          "name": "Pyxis Tankers Inc.",
-          "marketCap": "$55,485,752",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jun/2026"
+          "symbol": "DELL",
+          "name": "Dell Technologies Inc.",
+          "marketCap": "$295,692,796,000",
+          "epsForecast": "$4.72",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "CRDO",
+          "name": "Credo Technology Group Holding Ltd",
+          "marketCap": "$43,741,794,000",
+          "epsForecast": "$0.91",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "MDB",
+          "name": "MongoDB, Inc.",
+          "marketCap": "$35,922,506,000",
+          "epsForecast": "$0.08",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "GTLB",
+          "name": "GitLab Inc.",
+          "marketCap": "$7,578,543,100",
+          "epsForecast": "($0.07)",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "SPWH",
+          "name": "Sportsman's Warehouse Holdings, Inc.",
+          "marketCap": "$45,262,960",
+          "epsForecast": "($0.11)",
+          "fiscalQuarterEnding": "Jul/2026"
         }
       ]
     },
     "before_open_next_trading_day": {
-      "date": "2026-09-01",
-      "count": 8,
+      "date": "2026-09-02",
+      "count": 10,
       "tickers": [
-        "MDT",
-        "NIO",
-        "MMED",
-        "RZLV",
-        "YEXT",
-        "HMR",
-        "ZEPP",
-        "RGS"
+        "BF.A",
+        "BF.B",
+        "OLLI",
+        "CXM",
+        "FCEL",
+        "GIII",
+        "REX",
+        "DAKT",
+        "GASS",
+        "YSG"
       ],
       "rows": [
         {
-          "symbol": "MDT",
-          "name": "Medtronic plc",
-          "marketCap": "$115,159,876,000",
-          "epsForecast": "$1.38",
+          "symbol": "BF.A",
+          "name": "Brown Forman Corporation",
+          "marketCap": "$12,733,483,000",
+          "epsForecast": "",
           "fiscalQuarterEnding": "Jul/2026"
         },
         {
-          "symbol": "NIO",
-          "name": "NIO Inc.",
-          "marketCap": "$10,924,707,800",
-          "epsForecast": "($0.07)",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "MMED",
-          "name": "MiniMed Group, Inc.",
-          "marketCap": "$5,489,137,200",
-          "epsForecast": "$0.09",
+          "symbol": "BF.B",
+          "name": "Brown Forman Corporation",
+          "marketCap": "$12,733,483,000",
+          "epsForecast": "$0.38",
           "fiscalQuarterEnding": "Jul/2026"
         },
         {
-          "symbol": "RZLV",
-          "name": "Rezolve AI PLC",
-          "marketCap": "$1,177,151,740",
+          "symbol": "OLLI",
+          "name": "Ollie's Bargain Outlet Holdings, Inc.",
+          "marketCap": "$4,378,027,500",
+          "epsForecast": "$1.14",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "CXM",
+          "name": "Sprinklr, Inc.",
+          "marketCap": "$1,911,306,750",
+          "epsForecast": "$0.03",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "FCEL",
+          "name": "FuelCell Energy, Inc.",
+          "marketCap": "$1,419,986,560",
+          "epsForecast": "($0.35)",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "GIII",
+          "name": "G-III Apparel Group, LTD.",
+          "marketCap": "$1,411,696,510",
+          "epsForecast": "$0.25",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "REX",
+          "name": "REX American Resources Corporation",
+          "marketCap": "$1,361,974,660",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "DAKT",
+          "name": "Daktronics, Inc.",
+          "marketCap": "$932,302,460",
+          "epsForecast": "$0.35",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "GASS",
+          "name": "StealthGas, Inc.",
+          "marketCap": "$352,892,160",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "YEXT",
-          "name": "Yext, Inc.",
-          "marketCap": "$677,677,250",
-          "epsForecast": "$0.10",
-          "fiscalQuarterEnding": "Jul/2026"
-        },
-        {
-          "symbol": "HMR",
-          "name": "Heidmar Maritime Holdings Corp.",
-          "marketCap": "$80,819,040",
-          "epsForecast": "$0.10",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "ZEPP",
-          "name": "Zepp Health Corporation",
-          "marketCap": "$76,404,552",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "RGS",
-          "name": "Regis Corporation",
-          "marketCap": "$67,467,008",
+          "symbol": "YSG",
+          "name": "Yatsen Holding Limited",
+          "marketCap": "$285,350,816",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         }
@@ -103,113 +151,179 @@
   },
   "after_close": [
     {
-      "lastYearRptDt": "9/04/2025",
-      "lastYearEPS": "($0.10)",
+      "lastYearRptDt": "8/18/2025",
+      "lastYearEPS": "$0.42",
       "time": "time-after-hours",
-      "symbol": "CANG",
-      "name": "Cango Inc.",
-      "marketCap": "$106,246,896",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.90)",
-      "noOfEsts": "1"
+      "symbol": "PANW",
+      "name": "Palo Alto Networks, Inc.",
+      "marketCap": "$302,845,854,000",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$0.51",
+      "noOfEsts": "14"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.19)",
+      "lastYearRptDt": "8/28/2025",
+      "lastYearEPS": "$2.10",
       "time": "time-after-hours",
-      "symbol": "PXS",
-      "name": "Pyxis Tankers Inc.",
-      "marketCap": "$55,485,752",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
+      "symbol": "DELL",
+      "name": "Dell Technologies Inc.",
+      "marketCap": "$295,692,796,000",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$4.72",
+      "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "9/03/2025",
+      "lastYearEPS": "$0.34",
+      "time": "time-after-hours",
+      "symbol": "CRDO",
+      "name": "Credo Technology Group Holding Ltd",
+      "marketCap": "$43,741,794,000",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$0.91",
+      "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "8/26/2025",
+      "lastYearEPS": "($0.38)",
+      "time": "time-after-hours",
+      "symbol": "MDB",
+      "name": "MongoDB, Inc.",
+      "marketCap": "$35,922,506,000",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$0.08",
+      "noOfEsts": "9"
+    },
+    {
+      "lastYearRptDt": "9/03/2025",
+      "lastYearEPS": "($0.03)",
+      "time": "time-after-hours",
+      "symbol": "GTLB",
+      "name": "GitLab Inc.",
+      "marketCap": "$7,578,543,100",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "($0.07)",
+      "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "9/04/2025",
+      "lastYearEPS": "($0.12)",
+      "time": "time-after-hours",
+      "symbol": "SPWH",
+      "name": "Sportsman's Warehouse Holdings, Inc.",
+      "marketCap": "$45,262,960",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "($0.11)",
+      "noOfEsts": "3"
     }
   ],
   "before_open": [
     {
-      "lastYearRptDt": "8/19/2025",
-      "lastYearEPS": "$1.26",
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.36",
       "time": "time-pre-market",
-      "symbol": "MDT",
-      "name": "Medtronic plc",
-      "marketCap": "$115,159,876,000",
+      "symbol": "BF.A",
+      "name": "Brown Forman Corporation",
+      "marketCap": "$12,733,483,000",
       "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "$1.38",
-      "noOfEsts": "8"
+      "epsForecast": "",
+      "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "9/02/2025",
-      "lastYearEPS": "($0.32)",
+      "lastYearRptDt": "8/28/2025",
+      "lastYearEPS": "$0.36",
       "time": "time-pre-market",
-      "symbol": "NIO",
-      "name": "NIO Inc.",
-      "marketCap": "$10,924,707,800",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.07)",
+      "symbol": "BF.B",
+      "name": "Brown Forman Corporation",
+      "marketCap": "$12,733,483,000",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$0.38",
+      "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "8/28/2025",
+      "lastYearEPS": "$0.99",
+      "time": "time-pre-market",
+      "symbol": "OLLI",
+      "name": "Ollie's Bargain Outlet Holdings, Inc.",
+      "marketCap": "$4,378,027,500",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$1.14",
+      "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "9/03/2025",
+      "lastYearEPS": "$0.05",
+      "time": "time-pre-market",
+      "symbol": "CXM",
+      "name": "Sprinklr, Inc.",
+      "marketCap": "$1,911,306,750",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$0.03",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "9/09/2025",
+      "lastYearEPS": "($0.95)",
+      "time": "time-pre-market",
+      "symbol": "FCEL",
+      "name": "FuelCell Energy, Inc.",
+      "marketCap": "$1,419,986,560",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "($0.35)",
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "lastYearRptDt": "9/04/2025",
+      "lastYearEPS": "$0.25",
       "time": "time-pre-market",
-      "symbol": "MMED",
-      "name": "MiniMed Group, Inc.",
-      "marketCap": "$5,489,137,200",
+      "symbol": "GIII",
+      "name": "G-III Apparel Group, LTD.",
+      "marketCap": "$1,411,696,510",
       "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "$0.09",
-      "noOfEsts": "1"
+      "epsForecast": "$0.25",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "lastYearEPS": "$0.22",
       "time": "time-pre-market",
-      "symbol": "RZLV",
-      "name": "Rezolve AI PLC",
-      "marketCap": "$1,177,151,740",
+      "symbol": "REX",
+      "name": "REX American Resources Corporation",
+      "marketCap": "$1,361,974,660",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "9/10/2025",
+      "lastYearEPS": "$0.33",
+      "time": "time-pre-market",
+      "symbol": "DAKT",
+      "name": "Daktronics, Inc.",
+      "marketCap": "$932,302,460",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$0.35",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.55",
+      "time": "time-pre-market",
+      "symbol": "GASS",
+      "name": "StealthGas, Inc.",
+      "marketCap": "$352,892,160",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "9/08/2025",
-      "lastYearEPS": "$0.03",
-      "time": "time-pre-market",
-      "symbol": "YEXT",
-      "name": "Yext, Inc.",
-      "marketCap": "$677,677,250",
-      "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "$0.10",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "8/11/2025",
-      "lastYearEPS": "$0.01",
-      "time": "time-pre-market",
-      "symbol": "HMR",
-      "name": "Heidmar Maritime Holdings Corp.",
-      "marketCap": "$80,819,040",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.10",
-      "noOfEsts": "1"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.42)",
+      "lastYearEPS": "($0.03)",
       "time": "time-pre-market",
-      "symbol": "ZEPP",
-      "name": "Zepp Health Corporation",
-      "marketCap": "$76,404,552",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.74",
-      "time": "time-pre-market",
-      "symbol": "RGS",
-      "name": "Regis Corporation",
-      "marketCap": "$67,467,008",
+      "symbol": "YSG",
+      "name": "Yatsen Holding Limited",
+      "marketCap": "$285,350,816",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
