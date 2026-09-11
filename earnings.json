@@ -1,350 +1,100 @@
 {
-  "generated_at_utc": "2026-09-10T05:03:31+00:00",
+  "generated_at_utc": "2026-09-11T05:00:22+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-09-10",
-  "next_trading_day": "2026-09-11",
+  "reference_date": "2026-09-11",
+  "next_trading_day": "2026-09-14",
   "summary": {
     "after_close_today": {
-      "date": "2026-09-10",
-      "count": 12,
-      "tickers": [
-        "ORCL",
-        "ADBE",
-        "CPRT",
-        "DSGX",
-        "RH",
-        "REF",
-        "FEIM",
-        "LPTH",
-        "IBEX",
-        "ZUMZ",
-        "AENT",
-        "CSBR"
-      ],
-      "rows": [
-        {
-          "symbol": "ORCL",
-          "name": "Oracle Corporation",
-          "marketCap": "$468,134,134,000",
-          "epsForecast": "$1.40",
-          "fiscalQuarterEnding": "Aug/2026"
-        },
-        {
-          "symbol": "ADBE",
-          "name": "Adobe Inc.",
-          "marketCap": "$102,260,851,000",
-          "epsForecast": "$4.86",
-          "fiscalQuarterEnding": "Aug/2026"
-        },
-        {
-          "symbol": "CPRT",
-          "name": "Copart, Inc.",
-          "marketCap": "$30,181,453,800",
-          "epsForecast": "$0.39",
-          "fiscalQuarterEnding": "Jul/2026"
-        },
-        {
-          "symbol": "DSGX",
-          "name": "The Descartes Systems Group Inc.",
-          "marketCap": "$6,459,912,700",
-          "epsForecast": "$0.57",
-          "fiscalQuarterEnding": "Jul/2026"
-        },
-        {
-          "symbol": "RH",
-          "name": "RH",
-          "marketCap": "$2,692,443,140",
-          "epsForecast": "$0.42",
-          "fiscalQuarterEnding": "Jul/2026"
-        },
-        {
-          "symbol": "REF",
-          "name": "Reformation Inc.",
-          "marketCap": "$863,228,100",
-          "epsForecast": "$0.20",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "FEIM",
-          "name": "Frequency Electronics, Inc.",
-          "marketCap": "$729,669,180",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jul/2026"
-        },
-        {
-          "symbol": "LPTH",
-          "name": "LightPath Technologies, Inc.",
-          "marketCap": "$674,986,110",
-          "epsForecast": "($0.02)",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "IBEX",
-          "name": "IBEX Limited",
-          "marketCap": "$494,058,368",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "ZUMZ",
-          "name": "Zumiez Inc.",
-          "marketCap": "$298,638,208",
-          "epsForecast": "($0.14)",
-          "fiscalQuarterEnding": "Jul/2026"
-        },
-        {
-          "symbol": "AENT",
-          "name": "Alliance Entertainment Holding Corporation",
-          "marketCap": "$277,838,976",
-          "epsForecast": "$0.02",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "CSBR",
-          "name": "Champions Oncology, Inc.",
-          "marketCap": "$70,288,784",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jul/2026"
-        }
-      ]
+      "date": "2026-09-11",
+      "count": 0,
+      "tickers": [],
+      "rows": []
     },
     "before_open_next_trading_day": {
-      "date": "2026-09-11",
-      "count": 5,
+      "date": "2026-09-14",
+      "count": 4,
       "tickers": [
-        "KR",
-        "HOFT",
-        "CMCM",
-        "RENT",
-        "MNY"
+        "CSHR",
+        "CODA",
+        "RFIL",
+        "HAIN"
       ],
       "rows": [
         {
-          "symbol": "KR",
-          "name": "Kroger Company (The)",
-          "marketCap": "$35,043,426,000",
-          "epsForecast": "$1.05",
-          "fiscalQuarterEnding": "Jul/2026"
-        },
-        {
-          "symbol": "HOFT",
-          "name": "Hooker Furnishings Corporation",
-          "marketCap": "$138,567,280",
-          "epsForecast": "($0.02)",
-          "fiscalQuarterEnding": "Jul/2026"
-        },
-        {
-          "symbol": "CMCM",
-          "name": "Cheetah Mobile Inc.",
-          "marketCap": "$108,803,672",
+          "symbol": "CSHR",
+          "name": "CoinShares PLC",
+          "marketCap": "$697,117,310",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "RENT",
-          "name": "Rent the Runway, Inc.",
-          "marketCap": "$107,476,576",
+          "symbol": "CODA",
+          "name": "Coda Octopus Group, Inc.",
+          "marketCap": "$112,920,352",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jul/2026"
         },
         {
-          "symbol": "MNY",
-          "name": "MoneyHero Limited",
-          "marketCap": "$38,656,900",
-          "epsForecast": "($0.02)",
+          "symbol": "RFIL",
+          "name": "RF Industries, Ltd.",
+          "marketCap": "$110,682,904",
+          "epsForecast": "$0.18",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "HAIN",
+          "name": "The Hain Celestial Group, Inc.",
+          "marketCap": "$57,924,684",
+          "epsForecast": "($0.03)",
           "fiscalQuarterEnding": "Jun/2026"
         }
       ]
     }
   },
-  "after_close": [
+  "after_close": [],
+  "before_open": [
     {
-      "lastYearRptDt": "9/09/2025",
-      "lastYearEPS": "$1.20",
-      "time": "time-after-hours",
-      "symbol": "ORCL",
-      "name": "Oracle Corporation",
-      "marketCap": "$468,134,134,000",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$1.40",
-      "noOfEsts": "10"
-    },
-    {
-      "lastYearRptDt": "9/11/2025",
-      "lastYearEPS": "$4.29",
-      "time": "time-after-hours",
-      "symbol": "ADBE",
-      "name": "Adobe Inc.",
-      "marketCap": "$102,260,851,000",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$4.86",
-      "noOfEsts": "12"
-    },
-    {
-      "lastYearRptDt": "9/04/2025",
-      "lastYearEPS": "$0.41",
-      "time": "time-after-hours",
-      "symbol": "CPRT",
-      "name": "Copart, Inc.",
-      "marketCap": "$30,181,453,800",
-      "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "$0.39",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "9/03/2025",
-      "lastYearEPS": "$0.43",
-      "time": "time-after-hours",
-      "symbol": "DSGX",
-      "name": "The Descartes Systems Group Inc.",
-      "marketCap": "$6,459,912,700",
-      "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "$0.57",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "9/11/2025",
-      "lastYearEPS": "$2.93",
-      "time": "time-after-hours",
-      "symbol": "RH",
-      "name": "RH",
-      "marketCap": "$2,692,443,140",
-      "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "$0.42",
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.06",
+      "time": "time-pre-market",
+      "symbol": "CSHR",
+      "name": "CoinShares PLC",
+      "marketCap": "$697,117,310",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
       "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-after-hours",
-      "symbol": "REF",
-      "name": "Reformation Inc.",
-      "marketCap": "$863,228,100",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.20",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.07",
-      "time": "time-after-hours",
-      "symbol": "FEIM",
-      "name": "Frequency Electronics, Inc.",
-      "marketCap": "$729,669,180",
-      "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "9/25/2025",
-      "lastYearEPS": "($0.07)",
-      "time": "time-after-hours",
-      "symbol": "LPTH",
-      "name": "LightPath Technologies, Inc.",
-      "marketCap": "$674,986,110",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.02)",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.76",
-      "time": "time-after-hours",
-      "symbol": "IBEX",
-      "name": "IBEX Limited",
-      "marketCap": "$494,058,368",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "9/04/2025",
-      "lastYearEPS": "($0.06)",
-      "time": "time-after-hours",
-      "symbol": "ZUMZ",
-      "name": "Zumiez Inc.",
-      "marketCap": "$298,638,208",
-      "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "($0.14)",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "9/10/2025",
       "lastYearEPS": "$0.11",
-      "time": "time-after-hours",
-      "symbol": "AENT",
-      "name": "Alliance Entertainment Holding Corporation",
-      "marketCap": "$277,838,976",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.02",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.03)",
-      "time": "time-after-hours",
-      "symbol": "CSBR",
-      "name": "Champions Oncology, Inc.",
-      "marketCap": "$70,288,784",
+      "time": "time-pre-market",
+      "symbol": "CODA",
+      "name": "Coda Octopus Group, Inc.",
+      "marketCap": "$112,920,352",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
-    }
-  ],
-  "before_open": [
-    {
-      "lastYearRptDt": "9/11/2025",
-      "lastYearEPS": "$1.04",
-      "time": "time-pre-market",
-      "symbol": "KR",
-      "name": "Kroger Company (The)",
-      "marketCap": "$35,043,426,000",
-      "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "$1.05",
-      "noOfEsts": "8"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "9/11/2025",
-      "lastYearEPS": "($0.31)",
+      "lastYearEPS": "$0.09",
       "time": "time-pre-market",
-      "symbol": "HOFT",
-      "name": "Hooker Furnishings Corporation",
-      "marketCap": "$138,567,280",
+      "symbol": "RFIL",
+      "name": "RF Industries, Ltd.",
+      "marketCap": "$110,682,904",
       "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "($0.02)",
+      "epsForecast": "$0.18",
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.08)",
+      "lastYearRptDt": "9/15/2025",
+      "lastYearEPS": "($0.02)",
       "time": "time-pre-market",
-      "symbol": "CMCM",
-      "name": "Cheetah Mobile Inc.",
-      "marketCap": "$108,803,672",
+      "symbol": "HAIN",
+      "name": "The Hain Celestial Group, Inc.",
+      "marketCap": "$57,924,684",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($6.55)",
-      "time": "time-pre-market",
-      "symbol": "RENT",
-      "name": "Rent the Runway, Inc.",
-      "marketCap": "$107,476,576",
-      "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "9/19/2025",
-      "lastYearEPS": "N/A",
-      "time": "time-pre-market",
-      "symbol": "MNY",
-      "name": "MoneyHero Limited",
-      "marketCap": "$38,656,900",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.02)",
+      "epsForecast": "($0.03)",
       "noOfEsts": "1"
     }
   ]
