@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-09-11T05:00:22+00:00",
+  "generated_at_utc": "2026-09-12T04:52:15+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-09-11",
+  "reference_date": "2026-09-12",
   "next_trading_day": "2026-09-14",
   "summary": {
     "after_close_today": {
-      "date": "2026-09-11",
+      "date": "2026-09-12",
       "count": 0,
       "tickers": [],
       "rows": []
@@ -23,28 +23,28 @@
         {
           "symbol": "CSHR",
           "name": "CoinShares PLC",
-          "marketCap": "$697,117,310",
+          "marketCap": "$691,846,080",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
           "symbol": "CODA",
           "name": "Coda Octopus Group, Inc.",
-          "marketCap": "$112,920,352",
+          "marketCap": "$110,777,008",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jul/2026"
         },
         {
           "symbol": "RFIL",
           "name": "RF Industries, Ltd.",
-          "marketCap": "$110,682,904",
+          "marketCap": "$110,574,392",
           "epsForecast": "$0.18",
           "fiscalQuarterEnding": "Jul/2026"
         },
         {
           "symbol": "HAIN",
           "name": "The Hain Celestial Group, Inc.",
-          "marketCap": "$57,924,684",
+          "marketCap": "$57,717,104",
           "epsForecast": "($0.03)",
           "fiscalQuarterEnding": "Jun/2026"
         }
@@ -59,7 +59,7 @@
       "time": "time-pre-market",
       "symbol": "CSHR",
       "name": "CoinShares PLC",
-      "marketCap": "$697,117,310",
+      "marketCap": "$691,846,080",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "5"
@@ -70,7 +70,7 @@
       "time": "time-pre-market",
       "symbol": "CODA",
       "name": "Coda Octopus Group, Inc.",
-      "marketCap": "$112,920,352",
+      "marketCap": "$110,777,008",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "",
       "noOfEsts": "5"
@@ -81,7 +81,7 @@
       "time": "time-pre-market",
       "symbol": "RFIL",
       "name": "RF Industries, Ltd.",
-      "marketCap": "$110,682,904",
+      "marketCap": "$110,574,392",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "$0.18",
       "noOfEsts": "2"
@@ -92,7 +92,7 @@
       "time": "time-pre-market",
       "symbol": "HAIN",
       "name": "The Hain Celestial Group, Inc.",
-      "marketCap": "$57,924,684",
+      "marketCap": "$57,717,104",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "($0.03)",
       "noOfEsts": "1"
