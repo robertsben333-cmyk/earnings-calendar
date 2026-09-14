@@ -1,100 +1,198 @@
 {
-  "generated_at_utc": "2026-09-13T05:11:36+00:00",
+  "generated_at_utc": "2026-09-14T05:17:56+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-09-13",
-  "next_trading_day": "2026-09-14",
+  "reference_date": "2026-09-14",
+  "next_trading_day": "2026-09-15",
   "summary": {
     "after_close_today": {
-      "date": "2026-09-13",
-      "count": 0,
-      "tickers": [],
-      "rows": []
-    },
-    "before_open_next_trading_day": {
       "date": "2026-09-14",
-      "count": 4,
+      "count": 6,
       "tickers": [
-        "CSHR",
-        "CODA",
-        "RFIL",
-        "HAIN"
+        "KMTS",
+        "RLGT",
+        "PLAY",
+        "HITI",
+        "HYFT",
+        "BIOX"
       ],
       "rows": [
         {
-          "symbol": "CSHR",
-          "name": "CoinShares PLC",
-          "marketCap": "$691,846,080",
+          "symbol": "KMTS",
+          "name": "Kestra Medical Technologies, Ltd.",
+          "marketCap": "$1,381,275,520",
+          "epsForecast": "($0.61)",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "RLGT",
+          "name": "Radiant Logistics, Inc.",
+          "marketCap": "$384,487,968",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "CODA",
-          "name": "Coda Octopus Group, Inc.",
-          "marketCap": "$110,777,008",
+          "symbol": "PLAY",
+          "name": "Dave & Buster's Entertainment, Inc.",
+          "marketCap": "$284,223,616",
+          "epsForecast": "$0.19",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "HITI",
+          "name": "High Tide Inc.",
+          "marketCap": "$224,763,680",
+          "epsForecast": "$0.01",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "HYFT",
+          "name": "MindWalk Holdings Corp.",
+          "marketCap": "$61,659,664",
+          "epsForecast": "($0.05)",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "BIOX",
+          "name": "Bioceres Crop Solutions Corp.",
+          "marketCap": "$26,713,932",
           "epsForecast": "",
+          "fiscalQuarterEnding": "Jun/2026"
+        }
+      ]
+    },
+    "before_open_next_trading_day": {
+      "date": "2026-09-15",
+      "count": 3,
+      "tickers": [
+        "FPS",
+        "VRA",
+        "COE"
+      ],
+      "rows": [
+        {
+          "symbol": "FPS",
+          "name": "Forgent Power Solutions, Inc.",
+          "marketCap": "$8,889,323,500",
+          "epsForecast": "$0.22",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "VRA",
+          "name": "Vera Bradley, Inc.",
+          "marketCap": "$86,736,672",
+          "epsForecast": "($0.08)",
           "fiscalQuarterEnding": "Jul/2026"
         },
         {
-          "symbol": "RFIL",
-          "name": "RF Industries, Ltd.",
-          "marketCap": "$110,574,392",
-          "epsForecast": "$0.18",
-          "fiscalQuarterEnding": "Jul/2026"
-        },
-        {
-          "symbol": "HAIN",
-          "name": "The Hain Celestial Group, Inc.",
-          "marketCap": "$57,717,104",
-          "epsForecast": "($0.03)",
+          "symbol": "COE",
+          "name": "51Talk Online Education Group",
+          "marketCap": "$63,677,540",
+          "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         }
       ]
     }
   },
-  "after_close": [],
-  "before_open": [
+  "after_close": [
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.06",
-      "time": "time-pre-market",
-      "symbol": "CSHR",
-      "name": "CoinShares PLC",
-      "marketCap": "$691,846,080",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
+      "lastYearRptDt": "9/11/2025",
+      "lastYearEPS": "($0.46)",
+      "time": "time-after-hours",
+      "symbol": "KMTS",
+      "name": "Kestra Medical Technologies, Ltd.",
+      "marketCap": "$1,381,275,520",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "($0.61)",
       "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "$0.11",
-      "time": "time-pre-market",
-      "symbol": "CODA",
-      "name": "Coda Octopus Group, Inc.",
-      "marketCap": "$110,777,008",
-      "fiscalQuarterEnding": "Jul/2026",
+      "time": "time-after-hours",
+      "symbol": "RLGT",
+      "name": "Radiant Logistics, Inc.",
+      "marketCap": "$384,487,968",
+      "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "9/11/2025",
-      "lastYearEPS": "$0.09",
-      "time": "time-pre-market",
-      "symbol": "RFIL",
-      "name": "RF Industries, Ltd.",
-      "marketCap": "$110,574,392",
+      "lastYearRptDt": "9/15/2025",
+      "lastYearEPS": "$0.40",
+      "time": "time-after-hours",
+      "symbol": "PLAY",
+      "name": "Dave & Buster's Entertainment, Inc.",
+      "marketCap": "$284,223,616",
       "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "$0.18",
-      "noOfEsts": "2"
+      "epsForecast": "$0.19",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "9/15/2025",
+      "lastYearEPS": "$0.01",
+      "time": "time-after-hours",
+      "symbol": "HITI",
+      "name": "High Tide Inc.",
+      "marketCap": "$224,763,680",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$0.01",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "9/15/2025",
+      "lastYearEPS": "($0.07)",
+      "time": "time-after-hours",
+      "symbol": "HYFT",
+      "name": "MindWalk Holdings Corp.",
+      "marketCap": "$61,659,664",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "($0.05)",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "9/09/2025",
+      "lastYearEPS": "($0.70)",
+      "time": "time-after-hours",
+      "symbol": "BIOX",
+      "name": "Bioceres Crop Solutions Corp.",
+      "marketCap": "$26,713,932",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    }
+  ],
+  "before_open": [
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-pre-market",
+      "symbol": "FPS",
+      "name": "Forgent Power Solutions, Inc.",
+      "marketCap": "$8,889,323,500",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.22",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "9/11/2025",
       "lastYearEPS": "($0.02)",
       "time": "time-pre-market",
-      "symbol": "HAIN",
-      "name": "The Hain Celestial Group, Inc.",
-      "marketCap": "$57,717,104",
+      "symbol": "VRA",
+      "name": "Vera Bradley, Inc.",
+      "marketCap": "$86,736,672",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "($0.08)",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.52)",
+      "time": "time-pre-market",
+      "symbol": "COE",
+      "name": "51Talk Online Education Group",
+      "marketCap": "$63,677,540",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.03)",
+      "epsForecast": "",
       "noOfEsts": "1"
     }
   ]
