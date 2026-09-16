@@ -1,52 +1,52 @@
 {
-  "generated_at_utc": "2026-09-15T05:09:18+00:00",
+  "generated_at_utc": "2026-09-16T05:05:08+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-09-15",
-  "next_trading_day": "2026-09-16",
+  "reference_date": "2026-09-16",
+  "next_trading_day": "2026-09-17",
   "summary": {
     "after_close_today": {
-      "date": "2026-09-15",
-      "count": 2,
+      "date": "2026-09-16",
+      "count": 3,
       "tickers": [
-        "TCOM",
-        "EPM"
+        "LEN",
+        "LEN.B",
+        "ALMU"
       ],
       "rows": [
         {
-          "symbol": "TCOM",
-          "name": "Trip.com Group Limited",
-          "marketCap": "$24,571,097,100",
-          "epsForecast": "$0.84",
-          "fiscalQuarterEnding": "Jun/2026"
+          "symbol": "LEN",
+          "name": "Lennar Corporation",
+          "marketCap": "$19,269,201,900",
+          "epsForecast": "$1.29",
+          "fiscalQuarterEnding": "Aug/2026"
         },
         {
-          "symbol": "EPM",
-          "name": "Evolution Petroleum Corporation, Inc.",
-          "marketCap": "$133,733,416",
-          "epsForecast": "$0.01",
+          "symbol": "LEN.B",
+          "name": "Lennar Corporation",
+          "marketCap": "$19,269,201,900",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Aug/2026"
+        },
+        {
+          "symbol": "ALMU",
+          "name": "Aeluma, Inc.",
+          "marketCap": "$229,548,896",
+          "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         }
       ]
     },
     "before_open_next_trading_day": {
-      "date": "2026-09-16",
-      "count": 2,
+      "date": "2026-09-17",
+      "count": 1,
       "tickers": [
-        "LUXE",
-        "ISPR"
+        "IPHA"
       ],
       "rows": [
         {
-          "symbol": "LUXE",
-          "name": "LuxExperience B.V.",
-          "marketCap": "$1,007,805,760",
-          "epsForecast": "($0.17)",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "ISPR",
-          "name": "Ispire Technology Inc.",
-          "marketCap": "$85,525,104",
+          "symbol": "IPHA",
+          "name": "Innate Pharma S.A.",
+          "marketCap": "$206,645,648",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         }
@@ -55,50 +55,50 @@
   },
   "after_close": [
     {
-      "lastYearRptDt": "8/27/2025",
-      "lastYearEPS": "$0.90",
+      "lastYearRptDt": "9/18/2025",
+      "lastYearEPS": "$2",
       "time": "time-after-hours",
-      "symbol": "TCOM",
-      "name": "Trip.com Group Limited",
-      "marketCap": "$24,571,097,100",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.84",
+      "symbol": "LEN",
+      "name": "Lennar Corporation",
+      "marketCap": "$19,269,201,900",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "$1.29",
+      "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$2",
+      "time": "time-after-hours",
+      "symbol": "LEN.B",
+      "name": "Lennar Corporation",
+      "marketCap": "$19,269,201,900",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "",
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "9/16/2025",
-      "lastYearEPS": "$0.03",
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.01)",
       "time": "time-after-hours",
-      "symbol": "EPM",
-      "name": "Evolution Petroleum Corporation, Inc.",
-      "marketCap": "$133,733,416",
+      "symbol": "ALMU",
+      "name": "Aeluma, Inc.",
+      "marketCap": "$229,548,896",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.01",
-      "noOfEsts": "3"
+      "epsForecast": "",
+      "noOfEsts": "2"
     }
   ],
   "before_open": [
     {
-      "lastYearRptDt": "9/25/2025",
-      "lastYearEPS": "$5.30",
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
       "time": "time-pre-market",
-      "symbol": "LUXE",
-      "name": "LuxExperience B.V.",
-      "marketCap": "$1,007,805,760",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.17)",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "9/15/2025",
-      "lastYearEPS": "($0.26)",
-      "time": "time-pre-market",
-      "symbol": "ISPR",
-      "name": "Ispire Technology Inc.",
-      "marketCap": "$85,525,104",
+      "symbol": "IPHA",
+      "name": "Innate Pharma S.A.",
+      "marketCap": "$206,645,648",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     }
   ]
 }
