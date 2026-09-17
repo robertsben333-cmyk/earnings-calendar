@@ -1,104 +1,44 @@
 {
-  "generated_at_utc": "2026-09-16T05:05:08+00:00",
+  "generated_at_utc": "2026-09-17T05:07:46+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-09-16",
-  "next_trading_day": "2026-09-17",
+  "reference_date": "2026-09-17",
+  "next_trading_day": "2026-09-18",
   "summary": {
     "after_close_today": {
-      "date": "2026-09-16",
-      "count": 3,
+      "date": "2026-09-17",
+      "count": 1,
       "tickers": [
-        "LEN",
-        "LEN.B",
-        "ALMU"
+        "UPXI"
       ],
       "rows": [
         {
-          "symbol": "LEN",
-          "name": "Lennar Corporation",
-          "marketCap": "$19,269,201,900",
-          "epsForecast": "$1.29",
-          "fiscalQuarterEnding": "Aug/2026"
-        },
-        {
-          "symbol": "LEN.B",
-          "name": "Lennar Corporation",
-          "marketCap": "$19,269,201,900",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Aug/2026"
-        },
-        {
-          "symbol": "ALMU",
-          "name": "Aeluma, Inc.",
-          "marketCap": "$229,548,896",
+          "symbol": "UPXI",
+          "name": "Upexi, Inc.",
+          "marketCap": "$76,023,192",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         }
       ]
     },
     "before_open_next_trading_day": {
-      "date": "2026-09-17",
-      "count": 1,
-      "tickers": [
-        "IPHA"
-      ],
-      "rows": [
-        {
-          "symbol": "IPHA",
-          "name": "Innate Pharma S.A.",
-          "marketCap": "$206,645,648",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jun/2026"
-        }
-      ]
+      "date": "2026-09-18",
+      "count": 0,
+      "tickers": [],
+      "rows": []
     }
   },
   "after_close": [
     {
-      "lastYearRptDt": "9/18/2025",
-      "lastYearEPS": "$2",
-      "time": "time-after-hours",
-      "symbol": "LEN",
-      "name": "Lennar Corporation",
-      "marketCap": "$19,269,201,900",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$1.29",
-      "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$2",
-      "time": "time-after-hours",
-      "symbol": "LEN.B",
-      "name": "Lennar Corporation",
-      "marketCap": "$19,269,201,900",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.01)",
-      "time": "time-after-hours",
-      "symbol": "ALMU",
-      "name": "Aeluma, Inc.",
-      "marketCap": "$229,548,896",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "2"
-    }
-  ],
-  "before_open": [
-    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "N/A",
-      "time": "time-pre-market",
-      "symbol": "IPHA",
-      "name": "Innate Pharma S.A.",
-      "marketCap": "$206,645,648",
+      "time": "time-after-hours",
+      "symbol": "UPXI",
+      "name": "Upexi, Inc.",
+      "marketCap": "$76,023,192",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
     }
-  ]
+  ],
+  "before_open": []
 }
