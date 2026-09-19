@@ -1,44 +1,22 @@
 {
-  "generated_at_utc": "2026-09-17T05:07:46+00:00",
+  "generated_at_utc": "2026-09-19T04:52:52+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-09-17",
-  "next_trading_day": "2026-09-18",
+  "reference_date": "2026-09-19",
+  "next_trading_day": "2026-09-21",
   "summary": {
     "after_close_today": {
-      "date": "2026-09-17",
-      "count": 1,
-      "tickers": [
-        "UPXI"
-      ],
-      "rows": [
-        {
-          "symbol": "UPXI",
-          "name": "Upexi, Inc.",
-          "marketCap": "$76,023,192",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jun/2026"
-        }
-      ]
+      "date": "2026-09-19",
+      "count": 0,
+      "tickers": [],
+      "rows": []
     },
     "before_open_next_trading_day": {
-      "date": "2026-09-18",
+      "date": "2026-09-21",
       "count": 0,
       "tickers": [],
       "rows": []
     }
   },
-  "after_close": [
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-after-hours",
-      "symbol": "UPXI",
-      "name": "Upexi, Inc.",
-      "marketCap": "$76,023,192",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    }
-  ],
+  "after_close": [],
   "before_open": []
 }
