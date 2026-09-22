@@ -1,103 +1,179 @@
 {
-  "generated_at_utc": "2026-09-21T05:17:14+00:00",
+  "generated_at_utc": "2026-09-22T05:15:22+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-09-21",
-  "next_trading_day": "2026-09-22",
+  "reference_date": "2026-09-22",
+  "next_trading_day": "2026-09-23",
   "summary": {
     "after_close_today": {
-      "date": "2026-09-21",
-      "count": 1,
+      "date": "2026-09-22",
+      "count": 3,
       "tickers": [
-        "ABVX"
+        "KBH",
+        "WOR",
+        "AYTU"
       ],
       "rows": [
         {
-          "symbol": "ABVX",
-          "name": "Abivax SA",
-          "marketCap": "$9,211,254,800",
-          "epsForecast": "($1.08)",
+          "symbol": "KBH",
+          "name": "KB Home",
+          "marketCap": "$2,888,914,430",
+          "epsForecast": "$0.88",
+          "fiscalQuarterEnding": "Aug/2026"
+        },
+        {
+          "symbol": "WOR",
+          "name": "Worthington Enterprises, Inc.",
+          "marketCap": "$2,807,418,880",
+          "epsForecast": "$0.74",
+          "fiscalQuarterEnding": "Aug/2026"
+        },
+        {
+          "symbol": "AYTU",
+          "name": "Aytu BioPharma, Inc. ",
+          "marketCap": "$22,754,400",
+          "epsForecast": "($0.22)",
           "fiscalQuarterEnding": "Jun/2026"
         }
       ]
     },
     "before_open_next_trading_day": {
-      "date": "2026-09-22",
-      "count": 3,
+      "date": "2026-09-23",
+      "count": 5,
       "tickers": [
-        "AZO",
-        "THO",
-        "MLKN"
+        "CTAS",
+        "PAYX",
+        "GIS",
+        "MANU",
+        "CBRL"
       ],
       "rows": [
         {
-          "symbol": "AZO",
-          "name": "AutoZone, Inc.",
-          "marketCap": "$46,434,370,000",
-          "epsForecast": "$54.97",
+          "symbol": "CTAS",
+          "name": "Cintas Corporation",
+          "marketCap": "$78,960,493,000",
+          "epsForecast": "$1.35",
           "fiscalQuarterEnding": "Aug/2026"
         },
         {
-          "symbol": "THO",
-          "name": "Thor Industries, Inc.",
-          "marketCap": "$3,583,629,570",
-          "epsForecast": "$0.95",
+          "symbol": "PAYX",
+          "name": "Paychex, Inc.",
+          "marketCap": "$41,343,574,000",
+          "epsForecast": "$1.33",
+          "fiscalQuarterEnding": "Aug/2026"
+        },
+        {
+          "symbol": "GIS",
+          "name": "General Mills, Inc.",
+          "marketCap": "$19,417,743,400",
+          "epsForecast": "$0.72",
+          "fiscalQuarterEnding": "Aug/2026"
+        },
+        {
+          "symbol": "MANU",
+          "name": "Manchester United Ltd.",
+          "marketCap": "$3,395,124,220",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "CBRL",
+          "name": "Cracker Barrel Old Country Store, Inc.",
+          "marketCap": "$1,007,156,800",
+          "epsForecast": "$0.20",
           "fiscalQuarterEnding": "Jul/2026"
-        },
-        {
-          "symbol": "MLKN",
-          "name": "MillerKnoll, Inc.",
-          "marketCap": "$1,453,704,320",
-          "epsForecast": "$0.35",
-          "fiscalQuarterEnding": "Aug/2026"
         }
       ]
     }
   },
   "after_close": [
     {
-      "lastYearRptDt": "9/08/2025",
-      "lastYearEPS": "($0.86)",
-      "time": "time-after-hours",
-      "symbol": "ABVX",
-      "name": "Abivax SA",
-      "marketCap": "$9,211,254,800",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($1.08)",
-      "noOfEsts": "2"
-    }
-  ],
-  "before_open": [
-    {
-      "lastYearRptDt": "9/23/2025",
-      "lastYearEPS": "$48.71",
-      "time": "time-pre-market",
-      "symbol": "AZO",
-      "name": "AutoZone, Inc.",
-      "marketCap": "$46,434,370,000",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$54.97",
-      "noOfEsts": "11"
-    },
-    {
       "lastYearRptDt": "9/24/2025",
       "lastYearEPS": "N/A",
-      "time": "time-pre-market",
-      "symbol": "THO",
-      "name": "Thor Industries, Inc.",
-      "marketCap": "$3,583,629,570",
-      "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "$0.95",
+      "time": "time-after-hours",
+      "symbol": "KBH",
+      "name": "KB Home",
+      "marketCap": "$2,888,914,430",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "$0.88",
       "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "9/23/2025",
-      "lastYearEPS": "$0.45",
-      "time": "time-pre-market",
-      "symbol": "MLKN",
-      "name": "MillerKnoll, Inc.",
-      "marketCap": "$1,453,704,320",
+      "lastYearEPS": "$0.74",
+      "time": "time-after-hours",
+      "symbol": "WOR",
+      "name": "Worthington Enterprises, Inc.",
+      "marketCap": "$2,807,418,880",
       "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$0.35",
+      "epsForecast": "$0.74",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "9/23/2025",
+      "lastYearEPS": "($0.26)",
+      "time": "time-after-hours",
+      "symbol": "AYTU",
+      "name": "Aytu BioPharma, Inc. ",
+      "marketCap": "$22,754,400",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "($0.22)",
+      "noOfEsts": "1"
+    }
+  ],
+  "before_open": [
+    {
+      "lastYearRptDt": "9/24/2025",
+      "lastYearEPS": "N/A",
+      "time": "time-pre-market",
+      "symbol": "CTAS",
+      "name": "Cintas Corporation",
+      "marketCap": "$78,960,493,000",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "$1.35",
+      "noOfEsts": "8"
+    },
+    {
+      "lastYearRptDt": "9/30/2025",
+      "lastYearEPS": "$1.22",
+      "time": "time-pre-market",
+      "symbol": "PAYX",
+      "name": "Paychex, Inc.",
+      "marketCap": "$41,343,574,000",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "$1.33",
+      "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "9/17/2025",
+      "lastYearEPS": "$0.86",
+      "time": "time-pre-market",
+      "symbol": "GIS",
+      "name": "General Mills, Inc.",
+      "marketCap": "$19,417,743,400",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "$0.72",
+      "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.04)",
+      "time": "time-pre-market",
+      "symbol": "MANU",
+      "name": "Manchester United Ltd.",
+      "marketCap": "$3,395,124,220",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "9/17/2025",
+      "lastYearEPS": "$0.74",
+      "time": "time-pre-market",
+      "symbol": "CBRL",
+      "name": "Cracker Barrel Old Country Store, Inc.",
+      "marketCap": "$1,007,156,800",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$0.20",
       "noOfEsts": "3"
     }
   ]
