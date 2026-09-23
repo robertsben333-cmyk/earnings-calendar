@@ -1,86 +1,86 @@
 {
-  "generated_at_utc": "2026-09-22T05:15:22+00:00",
+  "generated_at_utc": "2026-09-23T05:00:04+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-09-22",
-  "next_trading_day": "2026-09-23",
+  "reference_date": "2026-09-23",
+  "next_trading_day": "2026-09-24",
   "summary": {
     "after_close_today": {
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "count": 3,
       "tickers": [
-        "KBH",
-        "WOR",
-        "AYTU"
+        "FUL",
+        "SFIX",
+        "NEOV"
       ],
       "rows": [
         {
-          "symbol": "KBH",
-          "name": "KB Home",
-          "marketCap": "$2,888,914,430",
-          "epsForecast": "$0.88",
+          "symbol": "FUL",
+          "name": "H. B. Fuller Company",
+          "marketCap": "$2,669,469,180",
+          "epsForecast": "$1.45",
           "fiscalQuarterEnding": "Aug/2026"
         },
         {
-          "symbol": "WOR",
-          "name": "Worthington Enterprises, Inc.",
-          "marketCap": "$2,807,418,880",
-          "epsForecast": "$0.74",
-          "fiscalQuarterEnding": "Aug/2026"
+          "symbol": "SFIX",
+          "name": "Stitch Fix, Inc.",
+          "marketCap": "$380,263,680",
+          "epsForecast": "($0.06)",
+          "fiscalQuarterEnding": "Jul/2026"
         },
         {
-          "symbol": "AYTU",
-          "name": "Aytu BioPharma, Inc. ",
-          "marketCap": "$22,754,400",
-          "epsForecast": "($0.22)",
+          "symbol": "NEOV",
+          "name": "NeoVolta Inc.",
+          "marketCap": "$200,135,040",
+          "epsForecast": "($0.10)",
           "fiscalQuarterEnding": "Jun/2026"
         }
       ]
     },
     "before_open_next_trading_day": {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "count": 5,
       "tickers": [
-        "CTAS",
-        "PAYX",
-        "GIS",
-        "MANU",
-        "CBRL"
+        "DRI",
+        "SNX",
+        "BB",
+        "UXIN",
+        "MITQ"
       ],
       "rows": [
         {
-          "symbol": "CTAS",
-          "name": "Cintas Corporation",
-          "marketCap": "$78,960,493,000",
-          "epsForecast": "$1.35",
+          "symbol": "DRI",
+          "name": "Darden Restaurants, Inc.",
+          "marketCap": "$24,105,816,100",
+          "epsForecast": "$2.06",
           "fiscalQuarterEnding": "Aug/2026"
         },
         {
-          "symbol": "PAYX",
-          "name": "Paychex, Inc.",
-          "marketCap": "$41,343,574,000",
-          "epsForecast": "$1.33",
+          "symbol": "SNX",
+          "name": "TD SYNNEX Corporation",
+          "marketCap": "$22,355,666,900",
+          "epsForecast": "$4.46",
           "fiscalQuarterEnding": "Aug/2026"
         },
         {
-          "symbol": "GIS",
-          "name": "General Mills, Inc.",
-          "marketCap": "$19,417,743,400",
-          "epsForecast": "$0.72",
+          "symbol": "BB",
+          "name": "BlackBerry Limited",
+          "marketCap": "$5,004,338,700",
+          "epsForecast": "$0.03",
           "fiscalQuarterEnding": "Aug/2026"
         },
         {
-          "symbol": "MANU",
-          "name": "Manchester United Ltd.",
-          "marketCap": "$3,395,124,220",
+          "symbol": "UXIN",
+          "name": "Uxin Limited",
+          "marketCap": "$237,578,688",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "CBRL",
-          "name": "Cracker Barrel Old Country Store, Inc.",
-          "marketCap": "$1,007,156,800",
-          "epsForecast": "$0.20",
-          "fiscalQuarterEnding": "Jul/2026"
+          "symbol": "MITQ",
+          "name": "Moving iMage Technologies, Inc.",
+          "marketCap": "$6,262,875",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Jun/2026"
         }
       ]
     }
@@ -90,91 +90,91 @@
       "lastYearRptDt": "9/24/2025",
       "lastYearEPS": "N/A",
       "time": "time-after-hours",
-      "symbol": "KBH",
-      "name": "KB Home",
-      "marketCap": "$2,888,914,430",
+      "symbol": "FUL",
+      "name": "H. B. Fuller Company",
+      "marketCap": "$2,669,469,180",
       "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$0.88",
-      "noOfEsts": "6"
+      "epsForecast": "$1.45",
+      "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "9/23/2025",
-      "lastYearEPS": "$0.74",
+      "lastYearRptDt": "9/24/2025",
+      "lastYearEPS": "N/A",
       "time": "time-after-hours",
-      "symbol": "WOR",
-      "name": "Worthington Enterprises, Inc.",
-      "marketCap": "$2,807,418,880",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$0.74",
-      "noOfEsts": "2"
+      "symbol": "SFIX",
+      "name": "Stitch Fix, Inc.",
+      "marketCap": "$380,263,680",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "($0.06)",
+      "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "9/23/2025",
-      "lastYearEPS": "($0.26)",
+      "lastYearRptDt": "9/29/2025",
+      "lastYearEPS": "($0.05)",
       "time": "time-after-hours",
-      "symbol": "AYTU",
-      "name": "Aytu BioPharma, Inc. ",
-      "marketCap": "$22,754,400",
+      "symbol": "NEOV",
+      "name": "NeoVolta Inc.",
+      "marketCap": "$200,135,040",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.22)",
-      "noOfEsts": "1"
+      "epsForecast": "($0.10)",
+      "noOfEsts": "2"
     }
   ],
   "before_open": [
     {
-      "lastYearRptDt": "9/24/2025",
-      "lastYearEPS": "N/A",
+      "lastYearRptDt": "9/18/2025",
+      "lastYearEPS": "$1.97",
       "time": "time-pre-market",
-      "symbol": "CTAS",
-      "name": "Cintas Corporation",
-      "marketCap": "$78,960,493,000",
+      "symbol": "DRI",
+      "name": "Darden Restaurants, Inc.",
+      "marketCap": "$24,105,816,100",
       "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$1.35",
-      "noOfEsts": "8"
+      "epsForecast": "$2.06",
+      "noOfEsts": "11"
     },
     {
-      "lastYearRptDt": "9/30/2025",
-      "lastYearEPS": "$1.22",
+      "lastYearRptDt": "9/25/2025",
+      "lastYearEPS": "$3.47",
       "time": "time-pre-market",
-      "symbol": "PAYX",
-      "name": "Paychex, Inc.",
-      "marketCap": "$41,343,574,000",
+      "symbol": "SNX",
+      "name": "TD SYNNEX Corporation",
+      "marketCap": "$22,355,666,900",
       "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$1.33",
-      "noOfEsts": "6"
+      "epsForecast": "$4.46",
+      "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "9/17/2025",
-      "lastYearEPS": "$0.86",
+      "lastYearRptDt": "9/25/2025",
+      "lastYearEPS": "$0.03",
       "time": "time-pre-market",
-      "symbol": "GIS",
-      "name": "General Mills, Inc.",
-      "marketCap": "$19,417,743,400",
+      "symbol": "BB",
+      "name": "BlackBerry Limited",
+      "marketCap": "$5,004,338,700",
       "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$0.72",
-      "noOfEsts": "6"
+      "epsForecast": "$0.03",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.04)",
+      "lastYearEPS": "($0.05)",
       "time": "time-pre-market",
-      "symbol": "MANU",
-      "name": "Manchester United Ltd.",
-      "marketCap": "$3,395,124,220",
+      "symbol": "UXIN",
+      "name": "Uxin Limited",
+      "marketCap": "$237,578,688",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "9/17/2025",
-      "lastYearEPS": "$0.74",
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.02)",
       "time": "time-pre-market",
-      "symbol": "CBRL",
-      "name": "Cracker Barrel Old Country Store, Inc.",
-      "marketCap": "$1,007,156,800",
-      "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "$0.20",
-      "noOfEsts": "3"
+      "symbol": "MITQ",
+      "name": "Moving iMage Technologies, Inc.",
+      "marketCap": "$6,262,875",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
     }
   ]
 }
