@@ -1,85 +1,53 @@
 {
-  "generated_at_utc": "2026-09-23T05:00:04+00:00",
+  "generated_at_utc": "2026-09-24T05:11:10+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-09-23",
-  "next_trading_day": "2026-09-24",
+  "reference_date": "2026-09-24",
+  "next_trading_day": "2026-09-25",
   "summary": {
     "after_close_today": {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "count": 3,
       "tickers": [
-        "FUL",
-        "SFIX",
-        "NEOV"
+        "COST",
+        "SCHL",
+        "LGCY"
       ],
       "rows": [
         {
-          "symbol": "FUL",
-          "name": "H. B. Fuller Company",
-          "marketCap": "$2,669,469,180",
-          "epsForecast": "$1.45",
+          "symbol": "COST",
+          "name": "Costco Wholesale Corporation",
+          "marketCap": "$398,869,266,000",
+          "epsForecast": "$6.48",
           "fiscalQuarterEnding": "Aug/2026"
         },
         {
-          "symbol": "SFIX",
-          "name": "Stitch Fix, Inc.",
-          "marketCap": "$380,263,680",
-          "epsForecast": "($0.06)",
-          "fiscalQuarterEnding": "Jul/2026"
+          "symbol": "SCHL",
+          "name": "Scholastic Corporation",
+          "marketCap": "$668,318,270",
+          "epsForecast": "($3.42)",
+          "fiscalQuarterEnding": "Aug/2026"
         },
         {
-          "symbol": "NEOV",
-          "name": "NeoVolta Inc.",
-          "marketCap": "$200,135,040",
-          "epsForecast": "($0.10)",
+          "symbol": "LGCY",
+          "name": "Legacy Education Inc.",
+          "marketCap": "$126,520,384",
+          "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         }
       ]
     },
     "before_open_next_trading_day": {
-      "date": "2026-09-24",
-      "count": 5,
+      "date": "2026-09-25",
+      "count": 1,
       "tickers": [
-        "DRI",
-        "SNX",
-        "BB",
-        "UXIN",
-        "MITQ"
+        "TBN"
       ],
       "rows": [
         {
-          "symbol": "DRI",
-          "name": "Darden Restaurants, Inc.",
-          "marketCap": "$24,105,816,100",
-          "epsForecast": "$2.06",
-          "fiscalQuarterEnding": "Aug/2026"
-        },
-        {
-          "symbol": "SNX",
-          "name": "TD SYNNEX Corporation",
-          "marketCap": "$22,355,666,900",
-          "epsForecast": "$4.46",
-          "fiscalQuarterEnding": "Aug/2026"
-        },
-        {
-          "symbol": "BB",
-          "name": "BlackBerry Limited",
-          "marketCap": "$5,004,338,700",
-          "epsForecast": "$0.03",
-          "fiscalQuarterEnding": "Aug/2026"
-        },
-        {
-          "symbol": "UXIN",
-          "name": "Uxin Limited",
-          "marketCap": "$237,578,688",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "MITQ",
-          "name": "Moving iMage Technologies, Inc.",
-          "marketCap": "$6,262,875",
-          "epsForecast": "",
+          "symbol": "TBN",
+          "name": "Tamboran Resources Corporation",
+          "marketCap": "$1,234,614,140",
+          "epsForecast": "($0.25)",
           "fiscalQuarterEnding": "Jun/2026"
         }
       ]
@@ -87,93 +55,49 @@
   },
   "after_close": [
     {
-      "lastYearRptDt": "9/24/2025",
-      "lastYearEPS": "N/A",
+      "lastYearRptDt": "9/25/2025",
+      "lastYearEPS": "$5.87",
       "time": "time-after-hours",
-      "symbol": "FUL",
-      "name": "H. B. Fuller Company",
-      "marketCap": "$2,669,469,180",
+      "symbol": "COST",
+      "name": "Costco Wholesale Corporation",
+      "marketCap": "$398,869,266,000",
       "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$1.45",
-      "noOfEsts": "3"
+      "epsForecast": "$6.48",
+      "noOfEsts": "11"
     },
     {
-      "lastYearRptDt": "9/24/2025",
-      "lastYearEPS": "N/A",
+      "lastYearRptDt": "9/18/2025",
+      "lastYearEPS": "($2.52)",
       "time": "time-after-hours",
-      "symbol": "SFIX",
-      "name": "Stitch Fix, Inc.",
-      "marketCap": "$380,263,680",
-      "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "($0.06)",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "9/29/2025",
-      "lastYearEPS": "($0.05)",
-      "time": "time-after-hours",
-      "symbol": "NEOV",
-      "name": "NeoVolta Inc.",
-      "marketCap": "$200,135,040",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.10)",
+      "symbol": "SCHL",
+      "name": "Scholastic Corporation",
+      "marketCap": "$668,318,270",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "($3.42)",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "9/25/2025",
+      "lastYearEPS": "$0.09",
+      "time": "time-after-hours",
+      "symbol": "LGCY",
+      "name": "Legacy Education Inc.",
+      "marketCap": "$126,520,384",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     }
   ],
   "before_open": [
     {
-      "lastYearRptDt": "9/18/2025",
-      "lastYearEPS": "$1.97",
-      "time": "time-pre-market",
-      "symbol": "DRI",
-      "name": "Darden Restaurants, Inc.",
-      "marketCap": "$24,105,816,100",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$2.06",
-      "noOfEsts": "11"
-    },
-    {
       "lastYearRptDt": "9/25/2025",
-      "lastYearEPS": "$3.47",
+      "lastYearEPS": "($0.59)",
       "time": "time-pre-market",
-      "symbol": "SNX",
-      "name": "TD SYNNEX Corporation",
-      "marketCap": "$22,355,666,900",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$4.46",
-      "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "9/25/2025",
-      "lastYearEPS": "$0.03",
-      "time": "time-pre-market",
-      "symbol": "BB",
-      "name": "BlackBerry Limited",
-      "marketCap": "$5,004,338,700",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$0.03",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.05)",
-      "time": "time-pre-market",
-      "symbol": "UXIN",
-      "name": "Uxin Limited",
-      "marketCap": "$237,578,688",
+      "symbol": "TBN",
+      "name": "Tamboran Resources Corporation",
+      "marketCap": "$1,234,614,140",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.02)",
-      "time": "time-pre-market",
-      "symbol": "MITQ",
-      "name": "Moving iMage Technologies, Inc.",
-      "marketCap": "$6,262,875",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
+      "epsForecast": "($0.25)",
       "noOfEsts": "2"
     }
   ]
