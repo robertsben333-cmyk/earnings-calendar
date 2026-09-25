@@ -1,53 +1,45 @@
 {
-  "generated_at_utc": "2026-09-24T05:11:10+00:00",
+  "generated_at_utc": "2026-09-25T05:13:18+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-09-24",
-  "next_trading_day": "2026-09-25",
+  "reference_date": "2026-09-25",
+  "next_trading_day": "2026-09-28",
   "summary": {
     "after_close_today": {
-      "date": "2026-09-24",
-      "count": 3,
+      "date": "2026-09-25",
+      "count": 1,
       "tickers": [
-        "COST",
-        "SCHL",
-        "LGCY"
+        "IVA"
       ],
       "rows": [
         {
-          "symbol": "COST",
-          "name": "Costco Wholesale Corporation",
-          "marketCap": "$398,869,266,000",
-          "epsForecast": "$6.48",
-          "fiscalQuarterEnding": "Aug/2026"
-        },
-        {
-          "symbol": "SCHL",
-          "name": "Scholastic Corporation",
-          "marketCap": "$668,318,270",
-          "epsForecast": "($3.42)",
-          "fiscalQuarterEnding": "Aug/2026"
-        },
-        {
-          "symbol": "LGCY",
-          "name": "Legacy Education Inc.",
-          "marketCap": "$126,520,384",
-          "epsForecast": "",
+          "symbol": "IVA",
+          "name": "Inventiva S.A.",
+          "marketCap": "$815,166,720",
+          "epsForecast": "($0.20)",
           "fiscalQuarterEnding": "Jun/2026"
         }
       ]
     },
     "before_open_next_trading_day": {
-      "date": "2026-09-25",
-      "count": 1,
+      "date": "2026-09-28",
+      "count": 2,
       "tickers": [
-        "TBN"
+        "NTWK",
+        "GNS"
       ],
       "rows": [
         {
-          "symbol": "TBN",
-          "name": "Tamboran Resources Corporation",
-          "marketCap": "$1,234,614,140",
-          "epsForecast": "($0.25)",
+          "symbol": "NTWK",
+          "name": "NetSol Technologies Inc.",
+          "marketCap": "$52,968,808",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Jun/2026"
+        },
+        {
+          "symbol": "GNS",
+          "name": "Genius Group Limited",
+          "marketCap": "$29,751,864",
+          "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         }
       ]
@@ -55,50 +47,39 @@
   },
   "after_close": [
     {
-      "lastYearRptDt": "9/25/2025",
-      "lastYearEPS": "$5.87",
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
       "time": "time-after-hours",
-      "symbol": "COST",
-      "name": "Costco Wholesale Corporation",
-      "marketCap": "$398,869,266,000",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$6.48",
-      "noOfEsts": "11"
-    },
-    {
-      "lastYearRptDt": "9/18/2025",
-      "lastYearEPS": "($2.52)",
-      "time": "time-after-hours",
-      "symbol": "SCHL",
-      "name": "Scholastic Corporation",
-      "marketCap": "$668,318,270",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "($3.42)",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "9/25/2025",
-      "lastYearEPS": "$0.09",
-      "time": "time-after-hours",
-      "symbol": "LGCY",
-      "name": "Legacy Education Inc.",
-      "marketCap": "$126,520,384",
+      "symbol": "IVA",
+      "name": "Inventiva S.A.",
+      "marketCap": "$815,166,720",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
+      "epsForecast": "($0.20)",
       "noOfEsts": "N/A"
     }
   ],
   "before_open": [
     {
-      "lastYearRptDt": "9/25/2025",
-      "lastYearEPS": "($0.59)",
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.22",
       "time": "time-pre-market",
-      "symbol": "TBN",
-      "name": "Tamboran Resources Corporation",
-      "marketCap": "$1,234,614,140",
+      "symbol": "NTWK",
+      "name": "NetSol Technologies Inc.",
+      "marketCap": "$52,968,808",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.25)",
-      "noOfEsts": "2"
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-pre-market",
+      "symbol": "GNS",
+      "name": "Genius Group Limited",
+      "marketCap": "$29,751,864",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     }
   ]
 }
