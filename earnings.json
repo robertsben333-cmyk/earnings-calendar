@@ -1,119 +1,198 @@
 {
-  "generated_at_utc": "2026-09-27T05:35:19+00:00",
+  "generated_at_utc": "2026-09-28T05:43:03+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-09-27",
-  "next_trading_day": "2026-09-28",
+  "reference_date": "2026-09-28",
+  "next_trading_day": "2026-09-29",
   "summary": {
     "after_close_today": {
-      "date": "2026-09-27",
-      "count": 0,
-      "tickers": [],
-      "rows": []
-    },
-    "before_open_next_trading_day": {
       "date": "2026-09-28",
-      "count": 5,
+      "count": 6,
       "tickers": [
-        "KNDI",
-        "NTWK",
-        "GNS",
-        "MITQ",
-        "ADXN"
+        "JEF",
+        "MTN",
+        "IDT",
+        "TRAK",
+        "SANG",
+        "POCI"
       ],
       "rows": [
         {
-          "symbol": "KNDI",
-          "name": "Kandi Technologies Group, Inc.",
-          "marketCap": "$58,321,244",
+          "symbol": "JEF",
+          "name": "Jefferies Financial Group Inc.",
+          "marketCap": "$8,958,661,600",
+          "epsForecast": "$1.04",
+          "fiscalQuarterEnding": "Aug/2026"
+        },
+        {
+          "symbol": "MTN",
+          "name": "Vail Resorts, Inc.",
+          "marketCap": "$4,911,012,400",
+          "epsForecast": "($5.37)",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "IDT",
+          "name": "IDT Corporation",
+          "marketCap": "$1,684,845,310",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Jul/2026"
+        },
+        {
+          "symbol": "TRAK",
+          "name": "ReposiTrak, Inc.",
+          "marketCap": "$150,295,376",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "NTWK",
-          "name": "NetSol Technologies Inc.",
-          "marketCap": "$56,412,968",
+          "symbol": "SANG",
+          "name": "Sangoma Technologies Corporation",
+          "marketCap": "$119,146,896",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         },
         {
-          "symbol": "GNS",
-          "name": "Genius Group Limited",
-          "marketCap": "$29,751,864",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "MITQ",
-          "name": "Moving iMage Technologies, Inc.",
-          "marketCap": "$6,431,874",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "ADXN",
-          "name": "Addex Therapeutics Ltd",
-          "marketCap": "$5,894,847",
+          "symbol": "POCI",
+          "name": "Precision Optics Corporation, Inc.",
+          "marketCap": "$52,261,748",
           "epsForecast": "",
           "fiscalQuarterEnding": "Jun/2026"
         }
       ]
+    },
+    "before_open_next_trading_day": {
+      "date": "2026-09-29",
+      "count": 3,
+      "tickers": [
+        "CCL",
+        "KMX",
+        "UEC"
+      ],
+      "rows": [
+        {
+          "symbol": "CCL",
+          "name": "Carnival Corporation Ltd.",
+          "marketCap": "$29,844,654,100",
+          "epsForecast": "$1.36",
+          "fiscalQuarterEnding": "Aug/2026"
+        },
+        {
+          "symbol": "KMX",
+          "name": "CarMax Inc",
+          "marketCap": "$7,998,109,200",
+          "epsForecast": "$0.67",
+          "fiscalQuarterEnding": "Aug/2026"
+        },
+        {
+          "symbol": "UEC",
+          "name": "Uranium Energy Corp.",
+          "marketCap": "$4,686,441,500",
+          "epsForecast": "($0.04)",
+          "fiscalQuarterEnding": "Jul/2026"
+        }
+      ]
     }
   },
-  "after_close": [],
+  "after_close": [
+    {
+      "lastYearRptDt": "9/29/2025",
+      "lastYearEPS": "$1.05",
+      "time": "time-after-hours",
+      "symbol": "JEF",
+      "name": "Jefferies Financial Group Inc.",
+      "marketCap": "$8,958,661,600",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "$1.04",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "9/29/2025",
+      "lastYearEPS": "($5.08)",
+      "time": "time-after-hours",
+      "symbol": "MTN",
+      "name": "Vail Resorts, Inc.",
+      "marketCap": "$4,911,012,400",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "($5.37)",
+      "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.76",
+      "time": "time-after-hours",
+      "symbol": "IDT",
+      "name": "IDT Corporation",
+      "marketCap": "$1,684,845,310",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.09",
+      "time": "time-after-hours",
+      "symbol": "TRAK",
+      "name": "ReposiTrak, Inc.",
+      "marketCap": "$150,295,376",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "9/17/2025",
+      "lastYearEPS": "$0.02",
+      "time": "time-after-hours",
+      "symbol": "SANG",
+      "name": "Sangoma Technologies Corporation",
+      "marketCap": "$119,146,896",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.18)",
+      "time": "time-after-hours",
+      "symbol": "POCI",
+      "name": "Precision Optics Corporation, Inc.",
+      "marketCap": "$52,261,748",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    }
+  ],
   "before_open": [
     {
-      "lastYearRptDt": "N/A",
+      "lastYearRptDt": "9/29/2025",
+      "lastYearEPS": "$1.43",
+      "time": "time-pre-market",
+      "symbol": "CCL",
+      "name": "Carnival Corporation Ltd.",
+      "marketCap": "$29,844,654,100",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "$1.36",
+      "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "9/25/2025",
+      "lastYearEPS": "$0.64",
+      "time": "time-pre-market",
+      "symbol": "KMX",
+      "name": "CarMax Inc",
+      "marketCap": "$7,998,109,200",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "$0.67",
+      "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "9/24/2025",
       "lastYearEPS": "N/A",
       "time": "time-pre-market",
-      "symbol": "KNDI",
-      "name": "Kandi Technologies Group, Inc.",
-      "marketCap": "$58,321,244",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.22",
-      "time": "time-pre-market",
-      "symbol": "NTWK",
-      "name": "NetSol Technologies Inc.",
-      "marketCap": "$56,412,968",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-pre-market",
-      "symbol": "GNS",
-      "name": "Genius Group Limited",
-      "marketCap": "$29,751,864",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.02)",
-      "time": "time-pre-market",
-      "symbol": "MITQ",
-      "name": "Moving iMage Technologies, Inc.",
-      "marketCap": "$6,431,874",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($2.91)",
-      "time": "time-pre-market",
-      "symbol": "ADXN",
-      "name": "Addex Therapeutics Ltd",
-      "marketCap": "$5,894,847",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
+      "symbol": "UEC",
+      "name": "Uranium Energy Corp.",
+      "marketCap": "$4,686,441,500",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "($0.04)",
       "noOfEsts": "1"
     }
   ]
