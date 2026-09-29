@@ -1,199 +1,161 @@
 {
-  "generated_at_utc": "2026-09-28T05:43:03+00:00",
+  "generated_at_utc": "2026-09-29T05:59:52+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-09-28",
-  "next_trading_day": "2026-09-29",
+  "reference_date": "2026-09-29",
+  "next_trading_day": "2026-09-30",
   "summary": {
     "after_close_today": {
-      "date": "2026-09-28",
-      "count": 6,
+      "date": "2026-09-29",
+      "count": 2,
       "tickers": [
-        "JEF",
-        "MTN",
-        "IDT",
-        "TRAK",
-        "SANG",
-        "POCI"
+        "AIR",
+        "CNXC"
       ],
       "rows": [
         {
-          "symbol": "JEF",
-          "name": "Jefferies Financial Group Inc.",
-          "marketCap": "$8,958,661,600",
-          "epsForecast": "$1.04",
+          "symbol": "AIR",
+          "name": "AAR Corp.",
+          "marketCap": "$4,674,454,000",
+          "epsForecast": "",
           "fiscalQuarterEnding": "Aug/2026"
         },
         {
-          "symbol": "MTN",
-          "name": "Vail Resorts, Inc.",
-          "marketCap": "$4,911,012,400",
-          "epsForecast": "($5.37)",
-          "fiscalQuarterEnding": "Jul/2026"
-        },
-        {
-          "symbol": "IDT",
-          "name": "IDT Corporation",
-          "marketCap": "$1,684,845,310",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jul/2026"
-        },
-        {
-          "symbol": "TRAK",
-          "name": "ReposiTrak, Inc.",
-          "marketCap": "$150,295,376",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "SANG",
-          "name": "Sangoma Technologies Corporation",
-          "marketCap": "$119,146,896",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jun/2026"
-        },
-        {
-          "symbol": "POCI",
-          "name": "Precision Optics Corporation, Inc.",
-          "marketCap": "$52,261,748",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jun/2026"
+          "symbol": "CNXC",
+          "name": "Concentrix Corporation",
+          "marketCap": "$1,652,376,960",
+          "epsForecast": "$2.40",
+          "fiscalQuarterEnding": "Aug/2026"
         }
       ]
     },
     "before_open_next_trading_day": {
-      "date": "2026-09-29",
-      "count": 3,
+      "date": "2026-09-30",
+      "count": 5,
       "tickers": [
-        "CCL",
-        "KMX",
-        "UEC"
+        "JBL",
+        "FDS",
+        "CAG",
+        "CALM",
+        "YRD"
       ],
       "rows": [
         {
-          "symbol": "CCL",
-          "name": "Carnival Corporation Ltd.",
-          "marketCap": "$29,844,654,100",
-          "epsForecast": "$1.36",
+          "symbol": "JBL",
+          "name": "Jabil Inc.",
+          "marketCap": "$33,190,262,800",
+          "epsForecast": "$3.86",
           "fiscalQuarterEnding": "Aug/2026"
         },
         {
-          "symbol": "KMX",
-          "name": "CarMax Inc",
-          "marketCap": "$7,998,109,200",
-          "epsForecast": "$0.67",
+          "symbol": "FDS",
+          "name": "FactSet Research Systems Inc.",
+          "marketCap": "$9,712,238,600",
+          "epsForecast": "$4.32",
           "fiscalQuarterEnding": "Aug/2026"
         },
         {
-          "symbol": "UEC",
-          "name": "Uranium Energy Corp.",
-          "marketCap": "$4,686,441,500",
-          "epsForecast": "($0.04)",
-          "fiscalQuarterEnding": "Jul/2026"
+          "symbol": "CAG",
+          "name": "ConAgra Brands, Inc.",
+          "marketCap": "$6,874,568,200",
+          "epsForecast": "$0.31",
+          "fiscalQuarterEnding": "Aug/2026"
+        },
+        {
+          "symbol": "CALM",
+          "name": "Cal-Maine Foods, Inc.",
+          "marketCap": "$3,163,538,690",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Aug/2026"
+        },
+        {
+          "symbol": "YRD",
+          "name": "Yiren Digital Ltd.",
+          "marketCap": "$86,674,816",
+          "epsForecast": "",
+          "fiscalQuarterEnding": "Jun/2026"
         }
       ]
     }
   },
   "after_close": [
     {
-      "lastYearRptDt": "9/29/2025",
-      "lastYearEPS": "$1.05",
+      "lastYearRptDt": "9/23/2025",
+      "lastYearEPS": "$1.08",
       "time": "time-after-hours",
-      "symbol": "JEF",
-      "name": "Jefferies Financial Group Inc.",
-      "marketCap": "$8,958,661,600",
+      "symbol": "AIR",
+      "name": "AAR Corp.",
+      "marketCap": "$4,674,454,000",
       "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$1.04",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "9/29/2025",
-      "lastYearEPS": "($5.08)",
-      "time": "time-after-hours",
-      "symbol": "MTN",
-      "name": "Vail Resorts, Inc.",
-      "marketCap": "$4,911,012,400",
-      "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "($5.37)",
-      "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.76",
-      "time": "time-after-hours",
-      "symbol": "IDT",
-      "name": "IDT Corporation",
-      "marketCap": "$1,684,845,310",
-      "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.09",
-      "time": "time-after-hours",
-      "symbol": "TRAK",
-      "name": "ReposiTrak, Inc.",
-      "marketCap": "$150,295,376",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "9/17/2025",
-      "lastYearEPS": "$0.02",
-      "time": "time-after-hours",
-      "symbol": "SANG",
-      "name": "Sangoma Technologies Corporation",
-      "marketCap": "$119,146,896",
-      "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.18)",
+      "lastYearRptDt": "9/25/2025",
+      "lastYearEPS": "$2.46",
       "time": "time-after-hours",
-      "symbol": "POCI",
-      "name": "Precision Optics Corporation, Inc.",
-      "marketCap": "$52,261,748",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
+      "symbol": "CNXC",
+      "name": "Concentrix Corporation",
+      "marketCap": "$1,652,376,960",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "$2.40",
       "noOfEsts": "1"
     }
   ],
   "before_open": [
     {
-      "lastYearRptDt": "9/29/2025",
-      "lastYearEPS": "$1.43",
-      "time": "time-pre-market",
-      "symbol": "CCL",
-      "name": "Carnival Corporation Ltd.",
-      "marketCap": "$29,844,654,100",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$1.36",
-      "noOfEsts": "7"
-    },
-    {
       "lastYearRptDt": "9/25/2025",
-      "lastYearEPS": "$0.64",
+      "lastYearEPS": "$3.12",
       "time": "time-pre-market",
-      "symbol": "KMX",
-      "name": "CarMax Inc",
-      "marketCap": "$7,998,109,200",
+      "symbol": "JBL",
+      "name": "Jabil Inc.",
+      "marketCap": "$33,190,262,800",
       "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$0.67",
+      "epsForecast": "$3.86",
+      "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "9/18/2025",
+      "lastYearEPS": "$4.05",
+      "time": "time-pre-market",
+      "symbol": "FDS",
+      "name": "FactSet Research Systems Inc.",
+      "marketCap": "$9,712,238,600",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "$4.32",
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "9/24/2025",
-      "lastYearEPS": "N/A",
+      "lastYearRptDt": "10/01/2025",
+      "lastYearEPS": "$0.39",
       "time": "time-pre-market",
-      "symbol": "UEC",
-      "name": "Uranium Energy Corp.",
-      "marketCap": "$4,686,441,500",
-      "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "($0.04)",
-      "noOfEsts": "1"
+      "symbol": "CAG",
+      "name": "ConAgra Brands, Inc.",
+      "marketCap": "$6,874,568,200",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "$0.31",
+      "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$4.12",
+      "time": "time-pre-market",
+      "symbol": "CALM",
+      "name": "Cal-Maine Foods, Inc.",
+      "marketCap": "$3,163,538,690",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.57",
+      "time": "time-pre-market",
+      "symbol": "YRD",
+      "name": "Yiren Digital Ltd.",
+      "marketCap": "$86,674,816",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
     }
   ]
 }
