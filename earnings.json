@@ -1,78 +1,78 @@
 {
-  "generated_at_utc": "2026-09-29T05:59:52+00:00",
+  "generated_at_utc": "2026-09-30T05:49:22+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-09-29",
-  "next_trading_day": "2026-09-30",
+  "reference_date": "2026-09-30",
+  "next_trading_day": "2026-10-01",
   "summary": {
     "after_close_today": {
-      "date": "2026-09-29",
-      "count": 2,
+      "date": "2026-09-30",
+      "count": 3,
       "tickers": [
-        "AIR",
-        "CNXC"
+        "MU",
+        "PRGS",
+        "BSET"
       ],
       "rows": [
         {
-          "symbol": "AIR",
-          "name": "AAR Corp.",
-          "marketCap": "$4,674,454,000",
-          "epsForecast": "",
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
+          "marketCap": "$1,190,357,760,000",
+          "epsForecast": "$31.35",
           "fiscalQuarterEnding": "Aug/2026"
         },
         {
-          "symbol": "CNXC",
-          "name": "Concentrix Corporation",
-          "marketCap": "$1,652,376,960",
-          "epsForecast": "$2.40",
+          "symbol": "PRGS",
+          "name": "Progress Software Corporation",
+          "marketCap": "$1,616,320,000",
+          "epsForecast": "$1.16",
+          "fiscalQuarterEnding": "Aug/2026"
+        },
+        {
+          "symbol": "BSET",
+          "name": "Bassett Furniture Industries, Incorporated",
+          "marketCap": "$157,407,328",
+          "epsForecast": "$0.13",
           "fiscalQuarterEnding": "Aug/2026"
         }
       ]
     },
     "before_open_next_trading_day": {
-      "date": "2026-09-30",
-      "count": 5,
+      "date": "2026-10-01",
+      "count": 4,
       "tickers": [
-        "JBL",
-        "FDS",
-        "CAG",
-        "CALM",
-        "YRD"
+        "ACN",
+        "MKC",
+        "MKC.V",
+        "AYI"
       ],
       "rows": [
         {
-          "symbol": "JBL",
-          "name": "Jabil Inc.",
-          "marketCap": "$33,190,262,800",
-          "epsForecast": "$3.86",
+          "symbol": "ACN",
+          "name": "Accenture plc",
+          "marketCap": "$116,460,503,000",
+          "epsForecast": "$3.19",
           "fiscalQuarterEnding": "Aug/2026"
         },
         {
-          "symbol": "FDS",
-          "name": "FactSet Research Systems Inc.",
-          "marketCap": "$9,712,238,600",
-          "epsForecast": "$4.32",
+          "symbol": "MKC",
+          "name": "McCormick & Company, Incorporated",
+          "marketCap": "$13,028,546,600",
+          "epsForecast": "$0.75",
           "fiscalQuarterEnding": "Aug/2026"
         },
         {
-          "symbol": "CAG",
-          "name": "ConAgra Brands, Inc.",
-          "marketCap": "$6,874,568,200",
-          "epsForecast": "$0.31",
-          "fiscalQuarterEnding": "Aug/2026"
-        },
-        {
-          "symbol": "CALM",
-          "name": "Cal-Maine Foods, Inc.",
-          "marketCap": "$3,163,538,690",
+          "symbol": "MKC.V",
+          "name": "McCormick & Company, Incorporated",
+          "marketCap": "$13,028,546,600",
           "epsForecast": "",
           "fiscalQuarterEnding": "Aug/2026"
         },
         {
-          "symbol": "YRD",
-          "name": "Yiren Digital Ltd.",
-          "marketCap": "$86,674,816",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jun/2026"
+          "symbol": "AYI",
+          "name": "Acuity Inc.",
+          "marketCap": "$9,157,582,800",
+          "epsForecast": "$5.32",
+          "fiscalQuarterEnding": "Aug/2026"
         }
       ]
     }
@@ -80,82 +80,82 @@
   "after_close": [
     {
       "lastYearRptDt": "9/23/2025",
-      "lastYearEPS": "$1.08",
+      "lastYearEPS": "$2.86",
       "time": "time-after-hours",
-      "symbol": "AIR",
-      "name": "AAR Corp.",
-      "marketCap": "$4,674,454,000",
+      "symbol": "MU",
+      "name": "Micron Technology, Inc.",
+      "marketCap": "$1,190,357,760,000",
       "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
+      "epsForecast": "$31.35",
+      "noOfEsts": "10"
     },
     {
-      "lastYearRptDt": "9/25/2025",
-      "lastYearEPS": "$2.46",
+      "lastYearRptDt": "9/29/2025",
+      "lastYearEPS": "$1.19",
       "time": "time-after-hours",
-      "symbol": "CNXC",
-      "name": "Concentrix Corporation",
-      "marketCap": "$1,652,376,960",
+      "symbol": "PRGS",
+      "name": "Progress Software Corporation",
+      "marketCap": "$1,616,320,000",
       "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$2.40",
-      "noOfEsts": "1"
+      "epsForecast": "$1.16",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "10/08/2025",
+      "lastYearEPS": "$0.09",
+      "time": "time-after-hours",
+      "symbol": "BSET",
+      "name": "Bassett Furniture Industries, Incorporated",
+      "marketCap": "$157,407,328",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "$0.13",
+      "noOfEsts": "2"
     }
   ],
   "before_open": [
     {
       "lastYearRptDt": "9/25/2025",
-      "lastYearEPS": "$3.12",
+      "lastYearEPS": "$3.03",
       "time": "time-pre-market",
-      "symbol": "JBL",
-      "name": "Jabil Inc.",
-      "marketCap": "$33,190,262,800",
+      "symbol": "ACN",
+      "name": "Accenture plc",
+      "marketCap": "$116,460,503,000",
       "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$3.86",
-      "noOfEsts": "4"
+      "epsForecast": "$3.19",
+      "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "9/18/2025",
-      "lastYearEPS": "$4.05",
+      "lastYearRptDt": "10/07/2025",
+      "lastYearEPS": "$0.85",
       "time": "time-pre-market",
-      "symbol": "FDS",
-      "name": "FactSet Research Systems Inc.",
-      "marketCap": "$9,712,238,600",
+      "symbol": "MKC",
+      "name": "McCormick & Company, Incorporated",
+      "marketCap": "$13,028,546,600",
       "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$4.32",
+      "epsForecast": "$0.75",
+      "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.85",
+      "time": "time-pre-market",
+      "symbol": "MKC.V",
+      "name": "McCormick & Company, Incorporated",
+      "marketCap": "$13,028,546,600",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "",
       "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "10/01/2025",
-      "lastYearEPS": "$0.39",
+      "lastYearEPS": "$4.94",
       "time": "time-pre-market",
-      "symbol": "CAG",
-      "name": "ConAgra Brands, Inc.",
-      "marketCap": "$6,874,568,200",
+      "symbol": "AYI",
+      "name": "Acuity Inc.",
+      "marketCap": "$9,157,582,800",
       "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$0.31",
-      "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$4.12",
-      "time": "time-pre-market",
-      "symbol": "CALM",
-      "name": "Cal-Maine Foods, Inc.",
-      "marketCap": "$3,163,538,690",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.57",
-      "time": "time-pre-market",
-      "symbol": "YRD",
-      "name": "Yiren Digital Ltd.",
-      "marketCap": "$86,674,816",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "2"
+      "epsForecast": "$5.32",
+      "noOfEsts": "4"
     }
   ]
 }
