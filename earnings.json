@@ -1,161 +1,44 @@
 {
-  "generated_at_utc": "2026-09-30T05:49:22+00:00",
+  "generated_at_utc": "2026-10-01T06:22:40+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-09-30",
-  "next_trading_day": "2026-10-01",
+  "reference_date": "2026-10-01",
+  "next_trading_day": "2026-10-02",
   "summary": {
     "after_close_today": {
-      "date": "2026-09-30",
-      "count": 3,
+      "date": "2026-10-01",
+      "count": 1,
       "tickers": [
-        "MU",
-        "PRGS",
-        "BSET"
+        "NKE"
       ],
       "rows": [
         {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
-          "marketCap": "$1,190,357,760,000",
-          "epsForecast": "$31.35",
-          "fiscalQuarterEnding": "Aug/2026"
-        },
-        {
-          "symbol": "PRGS",
-          "name": "Progress Software Corporation",
-          "marketCap": "$1,616,320,000",
-          "epsForecast": "$1.16",
-          "fiscalQuarterEnding": "Aug/2026"
-        },
-        {
-          "symbol": "BSET",
-          "name": "Bassett Furniture Industries, Incorporated",
-          "marketCap": "$157,407,328",
-          "epsForecast": "$0.13",
+          "symbol": "NKE",
+          "name": "Nike, Inc.",
+          "marketCap": "$53,168,595,000",
+          "epsForecast": "$0.43",
           "fiscalQuarterEnding": "Aug/2026"
         }
       ]
     },
     "before_open_next_trading_day": {
-      "date": "2026-10-01",
-      "count": 4,
-      "tickers": [
-        "ACN",
-        "MKC",
-        "MKC.V",
-        "AYI"
-      ],
-      "rows": [
-        {
-          "symbol": "ACN",
-          "name": "Accenture plc",
-          "marketCap": "$116,460,503,000",
-          "epsForecast": "$3.19",
-          "fiscalQuarterEnding": "Aug/2026"
-        },
-        {
-          "symbol": "MKC",
-          "name": "McCormick & Company, Incorporated",
-          "marketCap": "$13,028,546,600",
-          "epsForecast": "$0.75",
-          "fiscalQuarterEnding": "Aug/2026"
-        },
-        {
-          "symbol": "MKC.V",
-          "name": "McCormick & Company, Incorporated",
-          "marketCap": "$13,028,546,600",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Aug/2026"
-        },
-        {
-          "symbol": "AYI",
-          "name": "Acuity Inc.",
-          "marketCap": "$9,157,582,800",
-          "epsForecast": "$5.32",
-          "fiscalQuarterEnding": "Aug/2026"
-        }
-      ]
+      "date": "2026-10-02",
+      "count": 0,
+      "tickers": [],
+      "rows": []
     }
   },
   "after_close": [
     {
-      "lastYearRptDt": "9/23/2025",
-      "lastYearEPS": "$2.86",
+      "lastYearRptDt": "9/30/2025",
+      "lastYearEPS": "$0.49",
       "time": "time-after-hours",
-      "symbol": "MU",
-      "name": "Micron Technology, Inc.",
-      "marketCap": "$1,190,357,760,000",
+      "symbol": "NKE",
+      "name": "Nike, Inc.",
+      "marketCap": "$53,168,595,000",
       "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$31.35",
-      "noOfEsts": "10"
-    },
-    {
-      "lastYearRptDt": "9/29/2025",
-      "lastYearEPS": "$1.19",
-      "time": "time-after-hours",
-      "symbol": "PRGS",
-      "name": "Progress Software Corporation",
-      "marketCap": "$1,616,320,000",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$1.16",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "10/08/2025",
-      "lastYearEPS": "$0.09",
-      "time": "time-after-hours",
-      "symbol": "BSET",
-      "name": "Bassett Furniture Industries, Incorporated",
-      "marketCap": "$157,407,328",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$0.13",
-      "noOfEsts": "2"
+      "epsForecast": "$0.43",
+      "noOfEsts": "12"
     }
   ],
-  "before_open": [
-    {
-      "lastYearRptDt": "9/25/2025",
-      "lastYearEPS": "$3.03",
-      "time": "time-pre-market",
-      "symbol": "ACN",
-      "name": "Accenture plc",
-      "marketCap": "$116,460,503,000",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$3.19",
-      "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "10/07/2025",
-      "lastYearEPS": "$0.85",
-      "time": "time-pre-market",
-      "symbol": "MKC",
-      "name": "McCormick & Company, Incorporated",
-      "marketCap": "$13,028,546,600",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$0.75",
-      "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.85",
-      "time": "time-pre-market",
-      "symbol": "MKC.V",
-      "name": "McCormick & Company, Incorporated",
-      "marketCap": "$13,028,546,600",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "",
-      "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "10/01/2025",
-      "lastYearEPS": "$4.94",
-      "time": "time-pre-market",
-      "symbol": "AYI",
-      "name": "Acuity Inc.",
-      "marketCap": "$9,157,582,800",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$5.32",
-      "noOfEsts": "4"
-    }
-  ]
+  "before_open": []
 }
