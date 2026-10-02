@@ -1,44 +1,22 @@
 {
-  "generated_at_utc": "2026-10-01T06:22:40+00:00",
+  "generated_at_utc": "2026-10-02T05:59:58+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-10-01",
-  "next_trading_day": "2026-10-02",
+  "reference_date": "2026-10-02",
+  "next_trading_day": "2026-10-05",
   "summary": {
     "after_close_today": {
-      "date": "2026-10-01",
-      "count": 1,
-      "tickers": [
-        "NKE"
-      ],
-      "rows": [
-        {
-          "symbol": "NKE",
-          "name": "Nike, Inc.",
-          "marketCap": "$53,168,595,000",
-          "epsForecast": "$0.43",
-          "fiscalQuarterEnding": "Aug/2026"
-        }
-      ]
+      "date": "2026-10-02",
+      "count": 0,
+      "tickers": [],
+      "rows": []
     },
     "before_open_next_trading_day": {
-      "date": "2026-10-02",
+      "date": "2026-10-05",
       "count": 0,
       "tickers": [],
       "rows": []
     }
   },
-  "after_close": [
-    {
-      "lastYearRptDt": "9/30/2025",
-      "lastYearEPS": "$0.49",
-      "time": "time-after-hours",
-      "symbol": "NKE",
-      "name": "Nike, Inc.",
-      "marketCap": "$53,168,595,000",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$0.43",
-      "noOfEsts": "12"
-    }
-  ],
+  "after_close": [],
   "before_open": []
 }
