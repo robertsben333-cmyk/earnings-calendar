@@ -1,22 +1,82 @@
 {
-  "generated_at_utc": "2026-10-04T06:11:27+00:00",
+  "generated_at_utc": "2026-10-05T06:03:31+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-10-04",
-  "next_trading_day": "2026-10-05",
+  "reference_date": "2026-10-05",
+  "next_trading_day": "2026-10-06",
   "summary": {
     "after_close_today": {
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "count": 0,
       "tickers": [],
       "rows": []
     },
     "before_open_next_trading_day": {
-      "date": "2026-10-05",
-      "count": 0,
-      "tickers": [],
-      "rows": []
+      "date": "2026-10-06",
+      "count": 3,
+      "tickers": [
+        "RPM",
+        "LW",
+        "APOG"
+      ],
+      "rows": [
+        {
+          "symbol": "RPM",
+          "name": "RPM International Inc.",
+          "marketCap": "$12,674,502,700",
+          "epsForecast": "$1.95",
+          "fiscalQuarterEnding": "Aug/2026"
+        },
+        {
+          "symbol": "LW",
+          "name": "Lamb Weston Holdings, Inc.",
+          "marketCap": "$5,661,468,200",
+          "epsForecast": "$0.59",
+          "fiscalQuarterEnding": "Aug/2026"
+        },
+        {
+          "symbol": "APOG",
+          "name": "Apogee Enterprises, Inc.",
+          "marketCap": "$745,206,780",
+          "epsForecast": "$0.59",
+          "fiscalQuarterEnding": "Aug/2026"
+        }
+      ]
     }
   },
   "after_close": [],
-  "before_open": []
+  "before_open": [
+    {
+      "lastYearRptDt": "10/01/2025",
+      "lastYearEPS": "$1.88",
+      "time": "time-pre-market",
+      "symbol": "RPM",
+      "name": "RPM International Inc.",
+      "marketCap": "$12,674,502,700",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "$1.95",
+      "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "9/30/2025",
+      "lastYearEPS": "$0.74",
+      "time": "time-pre-market",
+      "symbol": "LW",
+      "name": "Lamb Weston Holdings, Inc.",
+      "marketCap": "$5,661,468,200",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "$0.59",
+      "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "10/09/2025",
+      "lastYearEPS": "$0.98",
+      "time": "time-pre-market",
+      "symbol": "APOG",
+      "name": "Apogee Enterprises, Inc.",
+      "marketCap": "$745,206,780",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "$0.59",
+      "noOfEsts": "2"
+    }
+  ]
 }
