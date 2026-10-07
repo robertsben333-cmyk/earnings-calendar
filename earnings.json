@@ -1,139 +1,218 @@
 {
-  "generated_at_utc": "2026-10-06T06:42:36+00:00",
+  "generated_at_utc": "2026-10-07T06:18:22+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-10-06",
-  "next_trading_day": "2026-10-07",
+  "reference_date": "2026-10-07",
+  "next_trading_day": "2026-10-08",
   "summary": {
     "after_close_today": {
-      "date": "2026-10-06",
-      "count": 6,
+      "date": "2026-10-07",
+      "count": 4,
       "tickers": [
-        "STZ",
-        "PENG",
-        "NEOG",
-        "WS",
-        "SAR",
-        "AXIL"
+        "LEVI",
+        "APLD",
+        "RELL",
+        "RGP"
       ],
       "rows": [
         {
-          "symbol": "STZ",
-          "name": "Constellation Brands Inc",
-          "marketCap": "$19,275,761,700",
-          "epsForecast": "$3.62",
+          "symbol": "LEVI",
+          "name": "Levi Strauss & Co.",
+          "marketCap": "$7,800,921,100",
+          "epsForecast": "$0.36",
           "fiscalQuarterEnding": "Aug/2026"
         },
         {
-          "symbol": "PENG",
-          "name": "Penguin Solutions, Inc.",
-          "marketCap": "$3,144,251,900",
-          "epsForecast": "$0.61",
+          "symbol": "APLD",
+          "name": "Applied Digital Corporation",
+          "marketCap": "$7,387,631,100",
+          "epsForecast": "($0.25)",
           "fiscalQuarterEnding": "Aug/2026"
         },
         {
-          "symbol": "NEOG",
-          "name": "Neogen Corporation",
-          "marketCap": "$2,649,987,840",
-          "epsForecast": "$0.04",
+          "symbol": "RELL",
+          "name": "Richardson Electronics, Ltd.",
+          "marketCap": "$279,150,016",
+          "epsForecast": "$0.09",
           "fiscalQuarterEnding": "Aug/2026"
         },
         {
-          "symbol": "WS",
-          "name": "Worthington Steel, Inc.",
-          "marketCap": "$1,883,496,450",
-          "epsForecast": "$1.16",
-          "fiscalQuarterEnding": "Aug/2026"
-        },
-        {
-          "symbol": "SAR",
-          "name": "Saratoga Investment Corp",
-          "marketCap": "$265,013,504",
-          "epsForecast": "$0.47",
-          "fiscalQuarterEnding": "Aug/2026"
-        },
-        {
-          "symbol": "AXIL",
-          "name": "AXIL Brands, Inc.",
-          "marketCap": "$42,095,944",
-          "epsForecast": "",
+          "symbol": "RGP",
+          "name": "Resources Connection, Inc.",
+          "marketCap": "$129,782,872",
+          "epsForecast": "($0.22)",
           "fiscalQuarterEnding": "Aug/2026"
         }
       ]
     },
     "before_open_next_trading_day": {
-      "date": "2026-10-07",
-      "count": 0,
-      "tickers": [],
-      "rows": []
+      "date": "2026-10-08",
+      "count": 6,
+      "tickers": [
+        "PEP",
+        "NG",
+        "ANGO",
+        "HELE",
+        "TLRY",
+        "BYRN"
+      ],
+      "rows": [
+        {
+          "symbol": "PEP",
+          "name": "Pepsico, Inc.",
+          "marketCap": "$171,498,619,000",
+          "epsForecast": "$2.29",
+          "fiscalQuarterEnding": "Sep/2026"
+        },
+        {
+          "symbol": "NG",
+          "name": "Novagold Resources Inc.",
+          "marketCap": "$2,893,346,300",
+          "epsForecast": "($0.08)",
+          "fiscalQuarterEnding": "Aug/2026"
+        },
+        {
+          "symbol": "ANGO",
+          "name": "AngioDynamics, Inc.",
+          "marketCap": "$642,305,340",
+          "epsForecast": "($0.10)",
+          "fiscalQuarterEnding": "Aug/2026"
+        },
+        {
+          "symbol": "HELE",
+          "name": "Helen of Troy Limited",
+          "marketCap": "$597,208,450",
+          "epsForecast": "$0.32",
+          "fiscalQuarterEnding": "Aug/2026"
+        },
+        {
+          "symbol": "TLRY",
+          "name": "Tilray Brands, Inc.",
+          "marketCap": "$548,406,720",
+          "epsForecast": "($0.18)",
+          "fiscalQuarterEnding": "Aug/2026"
+        },
+        {
+          "symbol": "BYRN",
+          "name": "Byrna Technologies, Inc.",
+          "marketCap": "$84,959,256",
+          "epsForecast": "($0.14)",
+          "fiscalQuarterEnding": "Aug/2026"
+        }
+      ]
     }
   },
   "after_close": [
     {
-      "lastYearRptDt": "10/06/2025",
-      "lastYearEPS": "$3.63",
+      "lastYearRptDt": "10/09/2025",
+      "lastYearEPS": "$0.34",
       "time": "time-after-hours",
-      "symbol": "STZ",
-      "name": "Constellation Brands Inc",
-      "marketCap": "$19,275,761,700",
+      "symbol": "LEVI",
+      "name": "Levi Strauss & Co.",
+      "marketCap": "$7,800,921,100",
       "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$3.62",
-      "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "10/07/2025",
-      "lastYearEPS": "$0.30",
-      "time": "time-after-hours",
-      "symbol": "PENG",
-      "name": "Penguin Solutions, Inc.",
-      "marketCap": "$3,144,251,900",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$0.61",
-      "noOfEsts": "1"
+      "epsForecast": "$0.36",
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "10/09/2025",
-      "lastYearEPS": "$0.02",
+      "lastYearEPS": "($0.11)",
       "time": "time-after-hours",
-      "symbol": "NEOG",
-      "name": "Neogen Corporation",
-      "marketCap": "$2,649,987,840",
+      "symbol": "APLD",
+      "name": "Applied Digital Corporation",
+      "marketCap": "$7,387,631,100",
       "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$0.04",
-      "noOfEsts": "3"
+      "epsForecast": "($0.25)",
+      "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "9/24/2025",
-      "lastYearEPS": "N/A",
+      "lastYearRptDt": "10/08/2025",
+      "lastYearEPS": "$0.13",
       "time": "time-after-hours",
-      "symbol": "WS",
-      "name": "Worthington Steel, Inc.",
-      "marketCap": "$1,883,496,450",
+      "symbol": "RELL",
+      "name": "Richardson Electronics, Ltd.",
+      "marketCap": "$279,150,016",
       "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$1.16",
-      "noOfEsts": "1"
+      "epsForecast": "$0.09",
+      "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/07/2025",
-      "lastYearEPS": "$0.58",
+      "lastYearRptDt": "10/08/2025",
+      "lastYearEPS": "($0.04)",
       "time": "time-after-hours",
-      "symbol": "SAR",
-      "name": "Saratoga Investment Corp",
-      "marketCap": "$265,013,504",
+      "symbol": "RGP",
+      "name": "Resources Connection, Inc.",
+      "marketCap": "$129,782,872",
       "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$0.47",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.04",
-      "time": "time-after-hours",
-      "symbol": "AXIL",
-      "name": "AXIL Brands, Inc.",
-      "marketCap": "$42,095,944",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "",
+      "epsForecast": "($0.22)",
       "noOfEsts": "2"
     }
   ],
-  "before_open": []
+  "before_open": [
+    {
+      "lastYearRptDt": "10/09/2025",
+      "lastYearEPS": "$2.29",
+      "time": "time-pre-market",
+      "symbol": "PEP",
+      "name": "Pepsico, Inc.",
+      "marketCap": "$171,498,619,000",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$2.29",
+      "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "10/01/2025",
+      "lastYearEPS": "($0.04)",
+      "time": "time-pre-market",
+      "symbol": "NG",
+      "name": "Novagold Resources Inc.",
+      "marketCap": "$2,893,346,300",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "($0.08)",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "10/02/2025",
+      "lastYearEPS": "($0.10)",
+      "time": "time-pre-market",
+      "symbol": "ANGO",
+      "name": "AngioDynamics, Inc.",
+      "marketCap": "$642,305,340",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "($0.10)",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "10/09/2025",
+      "lastYearEPS": "$0.20",
+      "time": "time-pre-market",
+      "symbol": "HELE",
+      "name": "Helen of Troy Limited",
+      "marketCap": "$597,208,450",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "$0.32",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "10/09/2025",
+      "lastYearEPS": "N/A",
+      "time": "time-pre-market",
+      "symbol": "TLRY",
+      "name": "Tilray Brands, Inc.",
+      "marketCap": "$548,406,720",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "($0.18)",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "10/09/2025",
+      "lastYearEPS": "$0.09",
+      "time": "time-pre-market",
+      "symbol": "BYRN",
+      "name": "Byrna Technologies, Inc.",
+      "marketCap": "$84,959,256",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "($0.14)",
+      "noOfEsts": "2"
+    }
+  ]
 }
