@@ -1,104 +1,22 @@
 {
-  "generated_at_utc": "2026-10-08T06:28:52+00:00",
+  "generated_at_utc": "2026-10-09T06:30:16+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-10-08",
-  "next_trading_day": "2026-10-09",
+  "reference_date": "2026-10-09",
+  "next_trading_day": "2026-10-12",
   "summary": {
     "after_close_today": {
-      "date": "2026-10-08",
-      "count": 2,
-      "tickers": [
-        "ODC",
-        "PKE"
-      ],
-      "rows": [
-        {
-          "symbol": "ODC",
-          "name": "Oil-Dri Corporation Of America",
-          "marketCap": "$1,276,856,960",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jul/2026"
-        },
-        {
-          "symbol": "PKE",
-          "name": "Park Aerospace Corp.",
-          "marketCap": "$653,841,410",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Aug/2026"
-        }
-      ]
+      "date": "2026-10-09",
+      "count": 0,
+      "tickers": [],
+      "rows": []
     },
     "before_open_next_trading_day": {
-      "date": "2026-10-09",
-      "count": 2,
-      "tickers": [
-        "DAL",
-        "HOVR"
-      ],
-      "rows": [
-        {
-          "symbol": "DAL",
-          "name": "Delta Air Lines, Inc.",
-          "marketCap": "$55,016,743,000",
-          "epsForecast": "$1.93",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "HOVR",
-          "name": "New Horizon Aircraft Ltd.",
-          "marketCap": "$107,398,304",
-          "epsForecast": "($0.08)",
-          "fiscalQuarterEnding": "Aug/2026"
-        }
-      ]
+      "date": "2026-10-12",
+      "count": 0,
+      "tickers": [],
+      "rows": []
     }
   },
-  "after_close": [
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.89",
-      "time": "time-after-hours",
-      "symbol": "ODC",
-      "name": "Oil-Dri Corporation Of America",
-      "marketCap": "$1,276,856,960",
-      "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.12",
-      "time": "time-after-hours",
-      "symbol": "PKE",
-      "name": "Park Aerospace Corp.",
-      "marketCap": "$653,841,410",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "",
-      "noOfEsts": "2"
-    }
-  ],
-  "before_open": [
-    {
-      "lastYearRptDt": "10/09/2025",
-      "lastYearEPS": "$1.71",
-      "time": "time-pre-market",
-      "symbol": "DAL",
-      "name": "Delta Air Lines, Inc.",
-      "marketCap": "$55,016,743,000",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.93",
-      "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "10/10/2025",
-      "lastYearEPS": "($0.11)",
-      "time": "time-pre-market",
-      "symbol": "HOVR",
-      "name": "New Horizon Aircraft Ltd.",
-      "marketCap": "$107,398,304",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "($0.08)",
-      "noOfEsts": "1"
-    }
-  ]
+  "after_close": [],
+  "before_open": []
 }
