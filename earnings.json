@@ -1,22 +1,196 @@
 {
-  "generated_at_utc": "2026-10-11T06:11:18+00:00",
+  "generated_at_utc": "2026-10-12T06:19:15+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-10-11",
-  "next_trading_day": "2026-10-12",
+  "reference_date": "2026-10-12",
+  "next_trading_day": "2026-10-13",
   "summary": {
     "after_close_today": {
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "count": 0,
       "tickers": [],
       "rows": []
     },
     "before_open_next_trading_day": {
-      "date": "2026-10-12",
-      "count": 0,
-      "tickers": [],
-      "rows": []
+      "date": "2026-10-13",
+      "count": 9,
+      "tickers": [
+        "JPM",
+        "JNJ",
+        "UNH",
+        "GS",
+        "WFC",
+        "C",
+        "DPZ",
+        "ACI",
+        "FBK"
+      ],
+      "rows": [
+        {
+          "symbol": "JPM",
+          "name": "J P Morgan Chase & Co",
+          "marketCap": "$880,976,070,000",
+          "epsForecast": "$5.94",
+          "fiscalQuarterEnding": "Sep/2026"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "Johnson & Johnson",
+          "marketCap": "$618,090,790,000",
+          "epsForecast": "$2.53",
+          "fiscalQuarterEnding": "Sep/2026"
+        },
+        {
+          "symbol": "UNH",
+          "name": "UnitedHealth Group Incorporated",
+          "marketCap": "$332,962,824,000",
+          "epsForecast": "$4.12",
+          "fiscalQuarterEnding": "Sep/2026"
+        },
+        {
+          "symbol": "GS",
+          "name": "The Goldman Sachs Group, Inc.",
+          "marketCap": "$256,984,973,000",
+          "epsForecast": "$12.90",
+          "fiscalQuarterEnding": "Sep/2026"
+        },
+        {
+          "symbol": "WFC",
+          "name": "Wells Fargo & Company",
+          "marketCap": "$248,058,659,000",
+          "epsForecast": "$1.85",
+          "fiscalQuarterEnding": "Sep/2026"
+        },
+        {
+          "symbol": "C",
+          "name": "Citigroup Inc.",
+          "marketCap": "$214,846,095,000",
+          "epsForecast": "$2.66",
+          "fiscalQuarterEnding": "Sep/2026"
+        },
+        {
+          "symbol": "DPZ",
+          "name": "Domino's Pizza Inc",
+          "marketCap": "$10,210,677,800",
+          "epsForecast": "$4.33",
+          "fiscalQuarterEnding": "Sep/2026"
+        },
+        {
+          "symbol": "ACI",
+          "name": "Albertsons Companies, Inc.",
+          "marketCap": "$5,988,918,800",
+          "epsForecast": "$0.31",
+          "fiscalQuarterEnding": "Aug/2026"
+        },
+        {
+          "symbol": "FBK",
+          "name": "FB Financial Corporation",
+          "marketCap": "$2,644,343,300",
+          "epsForecast": "$1.21",
+          "fiscalQuarterEnding": "Sep/2026"
+        }
+      ]
     }
   },
   "after_close": [],
-  "before_open": []
+  "before_open": [
+    {
+      "lastYearRptDt": "10/14/2025",
+      "lastYearEPS": "$5.07",
+      "time": "time-pre-market",
+      "symbol": "JPM",
+      "name": "J P Morgan Chase & Co",
+      "marketCap": "$880,976,070,000",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$5.94",
+      "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "10/14/2025",
+      "lastYearEPS": "$2.80",
+      "time": "time-pre-market",
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "marketCap": "$618,090,790,000",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$2.53",
+      "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "10/28/2025",
+      "lastYearEPS": "$2.92",
+      "time": "time-pre-market",
+      "symbol": "UNH",
+      "name": "UnitedHealth Group Incorporated",
+      "marketCap": "$332,962,824,000",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$4.12",
+      "noOfEsts": "8"
+    },
+    {
+      "lastYearRptDt": "10/14/2025",
+      "lastYearEPS": "$12.25",
+      "time": "time-pre-market",
+      "symbol": "GS",
+      "name": "The Goldman Sachs Group, Inc.",
+      "marketCap": "$256,984,973,000",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$12.90",
+      "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "10/14/2025",
+      "lastYearEPS": "$1.73",
+      "time": "time-pre-market",
+      "symbol": "WFC",
+      "name": "Wells Fargo & Company",
+      "marketCap": "$248,058,659,000",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$1.85",
+      "noOfEsts": "8"
+    },
+    {
+      "lastYearRptDt": "10/14/2025",
+      "lastYearEPS": "$2.24",
+      "time": "time-pre-market",
+      "symbol": "C",
+      "name": "Citigroup Inc.",
+      "marketCap": "$214,846,095,000",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$2.66",
+      "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "10/14/2025",
+      "lastYearEPS": "$4.08",
+      "time": "time-pre-market",
+      "symbol": "DPZ",
+      "name": "Domino's Pizza Inc",
+      "marketCap": "$10,210,677,800",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$4.33",
+      "noOfEsts": "9"
+    },
+    {
+      "lastYearRptDt": "10/14/2025",
+      "lastYearEPS": "$0.42",
+      "time": "time-pre-market",
+      "symbol": "ACI",
+      "name": "Albertsons Companies, Inc.",
+      "marketCap": "$5,988,918,800",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "$0.31",
+      "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "10/14/2025",
+      "lastYearEPS": "$1.07",
+      "time": "time-pre-market",
+      "symbol": "FBK",
+      "name": "FB Financial Corporation",
+      "marketCap": "$2,644,343,300",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$1.21",
+      "noOfEsts": "5"
+    }
+  ]
 }
