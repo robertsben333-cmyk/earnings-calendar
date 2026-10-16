@@ -1,275 +1,82 @@
 {
-  "generated_at_utc": "2026-10-15T04:59:58+00:00",
+  "generated_at_utc": "2026-10-16T04:49:53+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-10-15",
-  "next_trading_day": "2026-10-16",
+  "reference_date": "2026-10-16",
+  "next_trading_day": "2026-10-19",
   "summary": {
     "after_close_today": {
-      "date": "2026-10-15",
-      "count": 8,
-      "tickers": [
-        "IBKR",
-        "JBHT",
-        "AA",
-        "INDB",
-        "CNS",
-        "SFNC",
-        "CTW",
-        "LOOP"
-      ],
-      "rows": [
-        {
-          "symbol": "IBKR",
-          "name": "Interactive Brokers Group, Inc.",
-          "marketCap": "$39,639,810,000",
-          "epsForecast": "$0.66",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "JBHT",
-          "name": "J.B. Hunt Transport Services, Inc.",
-          "marketCap": "$21,510,277,100",
-          "epsForecast": "$1.81",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "AA",
-          "name": "Alcoa Corporation",
-          "marketCap": "$10,949,603,300",
-          "epsForecast": "$1.65",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "INDB",
-          "name": "Independent Bank Corp.",
-          "marketCap": "$3,636,051,970",
-          "epsForecast": "$1.84",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "CNS",
-          "name": "Cohen & Steers Inc",
-          "marketCap": "$3,540,886,780",
-          "epsForecast": "$0.88",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "SFNC",
-          "name": "Simmons First National Corporation",
-          "marketCap": "$3,202,425,600",
-          "epsForecast": "$0.53",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "CTW",
-          "name": "CTW",
-          "marketCap": "$129,168,000",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Jul/2026"
-        },
-        {
-          "symbol": "LOOP",
-          "name": "Loop Industries, Inc.",
-          "marketCap": "$17,218,574",
-          "epsForecast": "($0.05)",
-          "fiscalQuarterEnding": "Aug/2026"
-        }
-      ]
+      "date": "2026-10-16",
+      "count": 0,
+      "tickers": [],
+      "rows": []
     },
     "before_open_next_trading_day": {
-      "date": "2026-10-16",
-      "count": 5,
+      "date": "2026-10-19",
+      "count": 3,
       "tickers": [
-        "TRV",
-        "TFC",
-        "MTB",
-        "CFG",
-        "RF"
+        "FITB",
+        "CLF",
+        "DX"
       ],
       "rows": [
         {
-          "symbol": "TRV",
-          "name": "The Travelers Companies, Inc.",
-          "marketCap": "$77,523,165,000",
-          "epsForecast": "$7.03",
+          "symbol": "FITB",
+          "name": "Fifth Third Bancorp",
+          "marketCap": "$45,544,145,000",
+          "epsForecast": "$1.09",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
-          "symbol": "TFC",
-          "name": "Truist Financial Corporation",
-          "marketCap": "$56,976,646,000",
-          "epsForecast": "$1.17",
+          "symbol": "CLF",
+          "name": "Cleveland-Cliffs Inc.",
+          "marketCap": "$7,337,144,800",
+          "epsForecast": "$0.24",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
-          "symbol": "MTB",
-          "name": "M&T Bank Corporation",
-          "marketCap": "$31,755,692,000",
-          "epsForecast": "$4.98",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "CFG",
-          "name": "Citizens Financial Group, Inc.",
-          "marketCap": "$26,913,196,000",
-          "epsForecast": "$1.38",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "RF",
-          "name": "Regions Financial Corporation",
-          "marketCap": "$23,317,311,500",
-          "epsForecast": "$0.67",
+          "symbol": "DX",
+          "name": "Dynex Capital, Inc.",
+          "marketCap": "$2,692,611,070",
+          "epsForecast": "",
           "fiscalQuarterEnding": "Sep/2026"
         }
       ]
     }
   },
-  "after_close": [
+  "after_close": [],
+  "before_open": [
     {
-      "lastYearRptDt": "10/16/2025",
-      "lastYearEPS": "$0.57",
-      "time": "time-after-hours",
-      "symbol": "IBKR",
-      "name": "Interactive Brokers Group, Inc.",
-      "marketCap": "$39,639,810,000",
+      "lastYearRptDt": "10/17/2025",
+      "lastYearEPS": "$0.93",
+      "time": "time-pre-market",
+      "symbol": "FITB",
+      "name": "Fifth Third Bancorp",
+      "marketCap": "$45,544,145,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.66",
-      "noOfEsts": "2"
+      "epsForecast": "$1.09",
+      "noOfEsts": "8"
     },
     {
-      "lastYearRptDt": "10/15/2025",
-      "lastYearEPS": "$1.76",
-      "time": "time-after-hours",
-      "symbol": "JBHT",
-      "name": "J.B. Hunt Transport Services, Inc.",
-      "marketCap": "$21,510,277,100",
+      "lastYearRptDt": "10/20/2025",
+      "lastYearEPS": "($0.45)",
+      "time": "time-pre-market",
+      "symbol": "CLF",
+      "name": "Cleveland-Cliffs Inc.",
+      "marketCap": "$7,337,144,800",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.81",
-      "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "10/22/2025",
-      "lastYearEPS": "($0.02)",
-      "time": "time-after-hours",
-      "symbol": "AA",
-      "name": "Alcoa Corporation",
-      "marketCap": "$10,949,603,300",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.65",
-      "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "10/16/2025",
-      "lastYearEPS": "$1.55",
-      "time": "time-after-hours",
-      "symbol": "INDB",
-      "name": "Independent Bank Corp.",
-      "marketCap": "$3,636,051,970",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.84",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "10/16/2025",
-      "lastYearEPS": "$0.81",
-      "time": "time-after-hours",
-      "symbol": "CNS",
-      "name": "Cohen & Steers Inc",
-      "marketCap": "$3,540,886,780",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.88",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "10/16/2025",
-      "lastYearEPS": "$0.46",
-      "time": "time-after-hours",
-      "symbol": "SFNC",
-      "name": "Simmons First National Corporation",
-      "marketCap": "$3,202,425,600",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.53",
+      "epsForecast": "$0.24",
       "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-after-hours",
-      "symbol": "CTW",
-      "name": "CTW",
-      "marketCap": "$129,168,000",
-      "fiscalQuarterEnding": "Jul/2026",
+      "lastYearEPS": "$0.25",
+      "time": "time-pre-market",
+      "symbol": "DX",
+      "name": "Dynex Capital, Inc.",
+      "marketCap": "$2,692,611,070",
+      "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "10/15/2025",
-      "lastYearEPS": "($0.07)",
-      "time": "time-after-hours",
-      "symbol": "LOOP",
-      "name": "Loop Industries, Inc.",
-      "marketCap": "$17,218,574",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "($0.05)",
-      "noOfEsts": "1"
-    }
-  ],
-  "before_open": [
-    {
-      "lastYearRptDt": "10/16/2025",
-      "lastYearEPS": "$8.14",
-      "time": "time-pre-market",
-      "symbol": "TRV",
-      "name": "The Travelers Companies, Inc.",
-      "marketCap": "$77,523,165,000",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$7.03",
-      "noOfEsts": "12"
-    },
-    {
-      "lastYearRptDt": "10/17/2025",
-      "lastYearEPS": "$1.04",
-      "time": "time-pre-market",
-      "symbol": "TFC",
-      "name": "Truist Financial Corporation",
-      "marketCap": "$56,976,646,000",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.17",
-      "noOfEsts": "9"
-    },
-    {
-      "lastYearRptDt": "10/16/2025",
-      "lastYearEPS": "$4.87",
-      "time": "time-pre-market",
-      "symbol": "MTB",
-      "name": "M&T Bank Corporation",
-      "marketCap": "$31,755,692,000",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$4.98",
-      "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "10/15/2025",
-      "lastYearEPS": "$1.05",
-      "time": "time-pre-market",
-      "symbol": "CFG",
-      "name": "Citizens Financial Group, Inc.",
-      "marketCap": "$26,913,196,000",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.38",
-      "noOfEsts": "8"
-    },
-    {
-      "lastYearRptDt": "10/17/2025",
-      "lastYearEPS": "$0.63",
-      "time": "time-pre-market",
-      "symbol": "RF",
-      "name": "Regions Financial Corporation",
-      "marketCap": "$23,317,311,500",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.67",
-      "noOfEsts": "9"
+      "noOfEsts": "2"
     }
   ]
 }
