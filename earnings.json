@@ -1,24 +1,14 @@
 {
-  "generated_at_utc": "2026-10-23T05:11:33+00:00",
+  "generated_at_utc": "2026-10-24T04:54:06+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-10-23",
+  "reference_date": "2026-10-24",
   "next_trading_day": "2026-10-26",
   "summary": {
     "after_close_today": {
-      "date": "2026-10-23",
-      "count": 1,
-      "tickers": [
-        "RCBC"
-      ],
-      "rows": [
-        {
-          "symbol": "RCBC",
-          "name": "River City Bank",
-          "marketCap": "$785,669,630",
-          "epsForecast": "$1.29",
-          "fiscalQuarterEnding": "Sep/2026"
-        }
-      ]
+      "date": "2026-10-24",
+      "count": 0,
+      "tickers": [],
+      "rows": []
     },
     "before_open_next_trading_day": {
       "date": "2026-10-26",
@@ -41,103 +31,91 @@
         {
           "symbol": "VZ",
           "name": "Verizon Communications Inc.",
-          "marketCap": "$180,982,006,000",
+          "marketCap": "$187,795,833,000",
           "epsForecast": "$1.27",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "CX",
           "name": "Cemex S.A.B. de C.V.",
-          "marketCap": "$15,750,368,300",
+          "marketCap": "$15,325,912,100",
           "epsForecast": "$0.25",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "MMYT",
           "name": "MakeMyTrip Limited",
-          "marketCap": "$4,166,798,850",
+          "marketCap": "$4,264,619,780",
           "epsForecast": "$0.36",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "ARLP",
           "name": "Alliance Resource Partners, L.P.",
-          "marketCap": "$3,310,391,040",
+          "marketCap": "$3,325,829,890",
           "epsForecast": "$0.82",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "BOH",
           "name": "Bank of Hawaii Corporation",
-          "marketCap": "$2,719,710,210",
+          "marketCap": "$2,771,784,700",
           "epsForecast": "$1.52",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "LKFN",
           "name": "Lakeland Financial Corporation",
-          "marketCap": "$1,442,251,900",
+          "marketCap": "$1,476,058,500",
           "epsForecast": "$1.08",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "HBT",
           "name": "HBT Financial, Inc.",
-          "marketCap": "$1,283,706,110",
+          "marketCap": "$1,317,889,790",
           "epsForecast": "$0.78",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "DEA",
           "name": "Easterly Government Properties, Inc.",
-          "marketCap": "$1,045,807,740",
+          "marketCap": "$1,068,048,900",
           "epsForecast": "$0.79",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "BFST",
           "name": "Business First Bancshares, Inc.",
-          "marketCap": "$1,020,764,350",
+          "marketCap": "$1,039,643,260",
           "epsForecast": "$0.74",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "BMRC",
           "name": "Bank of Marin Bancorp",
-          "marketCap": "$431,414,752",
+          "marketCap": "$442,750,752",
           "epsForecast": "$0.57",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "ABOS",
           "name": "Acumen Pharmaceuticals, Inc.",
-          "marketCap": "$146,804,096",
+          "marketCap": "$148,973,600",
           "epsForecast": "($0.43)",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "MED",
           "name": "MEDIFAST INC",
-          "marketCap": "$135,286,512",
+          "marketCap": "$136,069,152",
           "epsForecast": "($0.40)",
           "fiscalQuarterEnding": "Sep/2026"
         }
       ]
     }
   },
-  "after_close": [
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-after-hours",
-      "symbol": "RCBC",
-      "name": "River City Bank",
-      "marketCap": "$785,669,630",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.29",
-      "noOfEsts": "3"
-    }
-  ],
+  "after_close": [],
   "before_open": [
     {
       "lastYearRptDt": "10/29/2025",
@@ -145,7 +123,7 @@
       "time": "time-pre-market",
       "symbol": "VZ",
       "name": "Verizon Communications Inc.",
-      "marketCap": "$180,982,006,000",
+      "marketCap": "$187,795,833,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.27",
       "noOfEsts": "7"
@@ -156,7 +134,7 @@
       "time": "time-pre-market",
       "symbol": "CX",
       "name": "Cemex S.A.B. de C.V.",
-      "marketCap": "$15,750,368,300",
+      "marketCap": "$15,325,912,100",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.25",
       "noOfEsts": "1"
@@ -167,7 +145,7 @@
       "time": "time-pre-market",
       "symbol": "MMYT",
       "name": "MakeMyTrip Limited",
-      "marketCap": "$4,166,798,850",
+      "marketCap": "$4,264,619,780",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.36",
       "noOfEsts": "1"
@@ -178,7 +156,7 @@
       "time": "time-pre-market",
       "symbol": "ARLP",
       "name": "Alliance Resource Partners, L.P.",
-      "marketCap": "$3,310,391,040",
+      "marketCap": "$3,325,829,890",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.82",
       "noOfEsts": "1"
@@ -189,7 +167,7 @@
       "time": "time-pre-market",
       "symbol": "BOH",
       "name": "Bank of Hawaii Corporation",
-      "marketCap": "$2,719,710,210",
+      "marketCap": "$2,771,784,700",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.52",
       "noOfEsts": "5"
@@ -200,7 +178,7 @@
       "time": "time-pre-market",
       "symbol": "LKFN",
       "name": "Lakeland Financial Corporation",
-      "marketCap": "$1,442,251,900",
+      "marketCap": "$1,476,058,500",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.08",
       "noOfEsts": "3"
@@ -211,7 +189,7 @@
       "time": "time-pre-market",
       "symbol": "HBT",
       "name": "HBT Financial, Inc.",
-      "marketCap": "$1,283,706,110",
+      "marketCap": "$1,317,889,790",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.78",
       "noOfEsts": "3"
@@ -222,7 +200,7 @@
       "time": "time-pre-market",
       "symbol": "DEA",
       "name": "Easterly Government Properties, Inc.",
-      "marketCap": "$1,045,807,740",
+      "marketCap": "$1,068,048,900",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.79",
       "noOfEsts": "1"
@@ -233,7 +211,7 @@
       "time": "time-pre-market",
       "symbol": "BFST",
       "name": "Business First Bancshares, Inc.",
-      "marketCap": "$1,020,764,350",
+      "marketCap": "$1,039,643,260",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.74",
       "noOfEsts": "3"
@@ -244,7 +222,7 @@
       "time": "time-pre-market",
       "symbol": "BMRC",
       "name": "Bank of Marin Bancorp",
-      "marketCap": "$431,414,752",
+      "marketCap": "$442,750,752",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.57",
       "noOfEsts": "5"
@@ -255,7 +233,7 @@
       "time": "time-pre-market",
       "symbol": "ABOS",
       "name": "Acumen Pharmaceuticals, Inc.",
-      "marketCap": "$146,804,096",
+      "marketCap": "$148,973,600",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($0.43)",
       "noOfEsts": "2"
@@ -266,7 +244,7 @@
       "time": "time-pre-market",
       "symbol": "MED",
       "name": "MEDIFAST INC",
-      "marketCap": "$135,286,512",
+      "marketCap": "$136,069,152",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($0.40)",
       "noOfEsts": "1"
