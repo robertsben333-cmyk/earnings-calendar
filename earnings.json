@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-10-24T04:54:06+00:00",
+  "generated_at_utc": "2026-10-25T05:05:35+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-10-24",
+  "reference_date": "2026-10-25",
   "next_trading_day": "2026-10-26",
   "summary": {
     "after_close_today": {
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "count": 0,
       "tickers": [],
       "rows": []
