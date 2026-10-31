@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-10-30T06:14:12+00:00",
+  "generated_at_utc": "2026-10-31T06:07:14+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-10-30",
+  "reference_date": "2026-10-31",
   "next_trading_day": "2026-11-02",
   "summary": {
     "after_close_today": {
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "count": 0,
       "tickers": [],
       "rows": []
@@ -44,175 +44,175 @@
         {
           "symbol": "MAR",
           "name": "Marriott International",
-          "marketCap": "$102,846,226,000",
+          "marketCap": "$104,215,249,000",
           "epsForecast": "$2.87",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "ETR",
           "name": "Entergy Corporation",
-          "marketCap": "$50,340,205,000",
+          "marketCap": "$51,315,466,000",
           "epsForecast": "$1.71",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "IDXX",
           "name": "IDEXX Laboratories, Inc.",
-          "marketCap": "$44,346,679,000",
+          "marketCap": "$45,376,348,000",
           "epsForecast": "$3.71",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "EL",
           "name": "Estee Lauder Companies, Inc. (The)",
-          "marketCap": "$39,605,502,000",
+          "marketCap": "$39,424,340,000",
           "epsForecast": "$0.52",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "PEG",
           "name": "Public Service Enterprise Group Incorporated",
-          "marketCap": "$36,120,498,000",
+          "marketCap": "$36,698,665,000",
           "epsForecast": "$1.21",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "RYAAY",
           "name": "Ryanair Holdings plc",
-          "marketCap": "$27,937,722,400",
+          "marketCap": "$27,982,444,500",
           "epsForecast": "$3.49",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "FOX",
           "name": "Fox Corporation",
-          "marketCap": "$23,761,307,600",
+          "marketCap": "$24,140,814,300",
           "epsForecast": "$2.12",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "FOXA",
           "name": "Fox Corporation",
-          "marketCap": "$23,761,307,600",
+          "marketCap": "$24,140,814,300",
           "epsForecast": "$1.99",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "L",
           "name": "Loews Corporation",
-          "marketCap": "$22,527,934,500",
+          "marketCap": "$22,832,531,500",
           "epsForecast": "",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "TSEM",
           "name": "Tower Semiconductor Ltd.",
-          "marketCap": "$21,873,758,200",
+          "marketCap": "$21,240,784,900",
           "epsForecast": "$0.98",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "CHKP",
           "name": "Check Point Software Technologies Ltd.",
-          "marketCap": "$15,848,059,900",
+          "marketCap": "$15,672,447,000",
           "epsForecast": "$1.99",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "TEM",
           "name": "Tempus AI, Inc.",
-          "marketCap": "$13,909,016,600",
+          "marketCap": "$14,132,331,500",
           "epsForecast": "($0.32)",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "CNA",
           "name": "CNA Financial Corporation",
-          "marketCap": "$12,959,078,400",
+          "marketCap": "$13,224,267,800",
           "epsForecast": "$1.16",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "KRYS",
           "name": "Krystal Biotech, Inc.",
-          "marketCap": "$9,513,658,400",
+          "marketCap": "$9,606,302,700",
           "epsForecast": "$1.84",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "AXSM",
           "name": "Axsome Therapeutics, Inc.",
-          "marketCap": "$7,517,171,200",
+          "marketCap": "$7,514,028,500",
           "epsForecast": "($0.68)",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "CHH",
           "name": "Choice Hotels International, Inc.",
-          "marketCap": "$4,970,641,900",
+          "marketCap": "$5,103,921,200",
           "epsForecast": "$2.27",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "CIFR",
           "name": "Cipher Digital Inc.",
-          "marketCap": "$4,042,331,390",
+          "marketCap": "$3,691,418,880",
           "epsForecast": "($0.31)",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "AKR",
           "name": "Acadia Realty Trust",
-          "marketCap": "$2,557,135,360",
+          "marketCap": "$2,618,935,040",
           "epsForecast": "$0.31",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "KOS",
           "name": "Kosmos Energy Ltd.",
-          "marketCap": "$1,643,545,860",
+          "marketCap": "$1,595,906,940",
           "epsForecast": "",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "NSSC",
           "name": "NAPCO Security Technologies, Inc.",
-          "marketCap": "$1,418,576,260",
+          "marketCap": "$1,430,022,140",
           "epsForecast": "",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "ALX",
           "name": "Alexander's, Inc.",
-          "marketCap": "$1,266,250,370",
+          "marketCap": "$1,272,021,630",
           "epsForecast": "$8.20",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "XFLT",
           "name": "XAI Floating Rate & Alternative Income Trust",
-          "marketCap": "$566,787,140",
+          "marketCap": "$568,915,260",
           "epsForecast": "",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "TATT",
           "name": "TAT Technologies Ltd.",
-          "marketCap": "$422,730,944",
+          "marketCap": "$434,935,104",
           "epsForecast": "$0.38",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "III",
           "name": "Information Services Group, Inc.",
-          "marketCap": "$293,385,568",
+          "marketCap": "$294,353,856",
           "epsForecast": "$0.07",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "LTBR",
           "name": "Lightbridge Corporation",
-          "marketCap": "$203,772,016",
+          "marketCap": "$202,273,696",
           "epsForecast": "",
           "fiscalQuarterEnding": "Sep/2026"
         }
@@ -227,7 +227,7 @@
       "time": "time-pre-market",
       "symbol": "MAR",
       "name": "Marriott International",
-      "marketCap": "$102,846,226,000",
+      "marketCap": "$104,215,249,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$2.87",
       "noOfEsts": "8"
@@ -238,7 +238,7 @@
       "time": "time-pre-market",
       "symbol": "ETR",
       "name": "Entergy Corporation",
-      "marketCap": "$50,340,205,000",
+      "marketCap": "$51,315,466,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.71",
       "noOfEsts": "6"
@@ -249,7 +249,7 @@
       "time": "time-pre-market",
       "symbol": "IDXX",
       "name": "IDEXX Laboratories, Inc.",
-      "marketCap": "$44,346,679,000",
+      "marketCap": "$45,376,348,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$3.71",
       "noOfEsts": "6"
@@ -260,7 +260,7 @@
       "time": "time-pre-market",
       "symbol": "EL",
       "name": "Estee Lauder Companies, Inc. (The)",
-      "marketCap": "$39,605,502,000",
+      "marketCap": "$39,424,340,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.52",
       "noOfEsts": "11"
@@ -271,7 +271,7 @@
       "time": "time-pre-market",
       "symbol": "PEG",
       "name": "Public Service Enterprise Group Incorporated",
-      "marketCap": "$36,120,498,000",
+      "marketCap": "$36,698,665,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.21",
       "noOfEsts": "5"
@@ -282,7 +282,7 @@
       "time": "time-pre-market",
       "symbol": "RYAAY",
       "name": "Ryanair Holdings plc",
-      "marketCap": "$27,937,722,400",
+      "marketCap": "$27,982,444,500",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$3.49",
       "noOfEsts": "3"
@@ -293,7 +293,7 @@
       "time": "time-pre-market",
       "symbol": "FOX",
       "name": "Fox Corporation",
-      "marketCap": "$23,761,307,600",
+      "marketCap": "$24,140,814,300",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$2.12",
       "noOfEsts": "3"
@@ -304,7 +304,7 @@
       "time": "time-pre-market",
       "symbol": "FOXA",
       "name": "Fox Corporation",
-      "marketCap": "$23,761,307,600",
+      "marketCap": "$24,140,814,300",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.99",
       "noOfEsts": "5"
@@ -315,7 +315,7 @@
       "time": "time-pre-market",
       "symbol": "L",
       "name": "Loews Corporation",
-      "marketCap": "$22,527,934,500",
+      "marketCap": "$22,832,531,500",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "7"
@@ -326,7 +326,7 @@
       "time": "time-pre-market",
       "symbol": "TSEM",
       "name": "Tower Semiconductor Ltd.",
-      "marketCap": "$21,873,758,200",
+      "marketCap": "$21,240,784,900",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.98",
       "noOfEsts": "6"
@@ -337,7 +337,7 @@
       "time": "time-pre-market",
       "symbol": "CHKP",
       "name": "Check Point Software Technologies Ltd.",
-      "marketCap": "$15,848,059,900",
+      "marketCap": "$15,672,447,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.99",
       "noOfEsts": "12"
@@ -348,7 +348,7 @@
       "time": "time-pre-market",
       "symbol": "TEM",
       "name": "Tempus AI, Inc.",
-      "marketCap": "$13,909,016,600",
+      "marketCap": "$14,132,331,500",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($0.32)",
       "noOfEsts": "4"
@@ -359,7 +359,7 @@
       "time": "time-pre-market",
       "symbol": "CNA",
       "name": "CNA Financial Corporation",
-      "marketCap": "$12,959,078,400",
+      "marketCap": "$13,224,267,800",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.16",
       "noOfEsts": "2"
@@ -370,7 +370,7 @@
       "time": "time-pre-market",
       "symbol": "KRYS",
       "name": "Krystal Biotech, Inc.",
-      "marketCap": "$9,513,658,400",
+      "marketCap": "$9,606,302,700",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.84",
       "noOfEsts": "4"
@@ -381,7 +381,7 @@
       "time": "time-pre-market",
       "symbol": "AXSM",
       "name": "Axsome Therapeutics, Inc.",
-      "marketCap": "$7,517,171,200",
+      "marketCap": "$7,514,028,500",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($0.68)",
       "noOfEsts": "8"
@@ -392,7 +392,7 @@
       "time": "time-pre-market",
       "symbol": "CHH",
       "name": "Choice Hotels International, Inc.",
-      "marketCap": "$4,970,641,900",
+      "marketCap": "$5,103,921,200",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$2.27",
       "noOfEsts": "6"
@@ -403,7 +403,7 @@
       "time": "time-pre-market",
       "symbol": "CIFR",
       "name": "Cipher Digital Inc.",
-      "marketCap": "$4,042,331,390",
+      "marketCap": "$3,691,418,880",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($0.31)",
       "noOfEsts": "3"
@@ -414,7 +414,7 @@
       "time": "time-pre-market",
       "symbol": "AKR",
       "name": "Acadia Realty Trust",
-      "marketCap": "$2,557,135,360",
+      "marketCap": "$2,618,935,040",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.31",
       "noOfEsts": "3"
@@ -425,7 +425,7 @@
       "time": "time-pre-market",
       "symbol": "KOS",
       "name": "Kosmos Energy Ltd.",
-      "marketCap": "$1,643,545,860",
+      "marketCap": "$1,595,906,940",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -436,7 +436,7 @@
       "time": "time-pre-market",
       "symbol": "NSSC",
       "name": "NAPCO Security Technologies, Inc.",
-      "marketCap": "$1,418,576,260",
+      "marketCap": "$1,430,022,140",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -447,7 +447,7 @@
       "time": "time-pre-market",
       "symbol": "ALX",
       "name": "Alexander's, Inc.",
-      "marketCap": "$1,266,250,370",
+      "marketCap": "$1,272,021,630",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$8.20",
       "noOfEsts": "1"
@@ -458,7 +458,7 @@
       "time": "time-pre-market",
       "symbol": "XFLT",
       "name": "XAI Floating Rate & Alternative Income Trust",
-      "marketCap": "$566,787,140",
+      "marketCap": "$568,915,260",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "7"
@@ -469,7 +469,7 @@
       "time": "time-pre-market",
       "symbol": "TATT",
       "name": "TAT Technologies Ltd.",
-      "marketCap": "$422,730,944",
+      "marketCap": "$434,935,104",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.38",
       "noOfEsts": "2"
@@ -480,7 +480,7 @@
       "time": "time-pre-market",
       "symbol": "III",
       "name": "Information Services Group, Inc.",
-      "marketCap": "$293,385,568",
+      "marketCap": "$294,353,856",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.07",
       "noOfEsts": "5"
@@ -491,7 +491,7 @@
       "time": "time-pre-market",
       "symbol": "LTBR",
       "name": "Lightbridge Corporation",
-      "marketCap": "$203,772,016",
+      "marketCap": "$202,273,696",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "7"
