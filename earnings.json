@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-11-07T06:23:28+00:00",
+  "generated_at_utc": "2026-11-08T06:31:32+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-11-07",
+  "reference_date": "2026-11-08",
   "next_trading_day": "2026-11-09",
   "summary": {
     "after_close_today": {
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "count": 0,
       "tickers": [],
       "rows": []
@@ -567,7 +567,7 @@
       "marketCap": "$45,587,132,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$3.28",
-      "noOfEsts": "2"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "11/12/2025",
@@ -776,7 +776,7 @@
       "marketCap": "$2,296,205,310",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($0.10)",
-      "noOfEsts": "2"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "11/04/2025",
@@ -996,7 +996,7 @@
       "marketCap": "$355,060,096",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "11/13/2025",
@@ -1051,7 +1051,7 @@
       "marketCap": "$239,325,296",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "11/03/2025",
@@ -1128,7 +1128,7 @@
       "marketCap": "$130,528,856",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "11/17/2025",
