@@ -1,212 +1,68 @@
 {
-  "generated_at_utc": "2026-11-19T07:45:48+00:00",
+  "generated_at_utc": "2026-11-20T07:38:14+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-11-19",
-  "next_trading_day": "2026-11-20",
+  "reference_date": "2026-11-20",
+  "next_trading_day": "2026-11-23",
   "summary": {
     "after_close_today": {
-      "date": "2026-11-19",
-      "count": 15,
+      "date": "2026-11-20",
+      "count": 1,
       "tickers": [
-        "INTU",
-        "ROST",
-        "KEYS",
-        "ESTC",
-        "ESE",
-        "GAP",
-        "POST",
-        "BULL",
-        "GLOB",
-        "NGVC",
-        "MATW",
-        "GRRR",
-        "EARN",
-        "GEOS",
-        "GRSD"
+        "DLNG"
       ],
       "rows": [
         {
-          "symbol": "INTU",
-          "name": "Intuit Inc.",
-          "marketCap": "$85,726,634,000",
-          "epsForecast": "$2.47",
-          "fiscalQuarterEnding": "Oct/2026"
-        },
-        {
-          "symbol": "ROST",
-          "name": "Ross Stores, Inc.",
-          "marketCap": "$70,423,437,000",
-          "epsForecast": "$1.85",
-          "fiscalQuarterEnding": "Oct/2026"
-        },
-        {
-          "symbol": "KEYS",
-          "name": "Keysight Technologies Inc.",
-          "marketCap": "$48,426,119,000",
-          "epsForecast": "$3.09",
-          "fiscalQuarterEnding": "Oct/2026"
-        },
-        {
-          "symbol": "ESTC",
-          "name": "Elastic N.V.",
-          "marketCap": "$8,519,746,000",
-          "epsForecast": "$0.14",
-          "fiscalQuarterEnding": "Oct/2026"
-        },
-        {
-          "symbol": "ESE",
-          "name": "ESCO Technologies Inc.",
-          "marketCap": "$7,114,065,900",
-          "epsForecast": "$2.59",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "GAP",
-          "name": "Gap, Inc. (The)",
-          "marketCap": "$6,797,077,000",
-          "epsForecast": "$0.76",
-          "fiscalQuarterEnding": "Oct/2026"
-        },
-        {
-          "symbol": "POST",
-          "name": "Post Holdings, Inc.",
-          "marketCap": "$3,530,171,140",
-          "epsForecast": "$1.66",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "BULL",
-          "name": "Webull Corporation",
-          "marketCap": "$2,557,376,260",
-          "epsForecast": "$0.05",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "GLOB",
-          "name": "Globant S.A.",
-          "marketCap": "$1,840,744,450",
-          "epsForecast": "$1.13",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "NGVC",
-          "name": "Natural Grocers by Vitamin Cottage, Inc.",
-          "marketCap": "$652,896,450",
+          "symbol": "DLNG",
+          "name": "Dynagas LNG Partners LP",
+          "marketCap": "$112,784,232",
           "epsForecast": "",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "MATW",
-          "name": "Matthews International Corporation",
-          "marketCap": "$579,160,450",
-          "epsForecast": "$0.27",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "GRRR",
-          "name": "Gorilla Technology Group Inc.",
-          "marketCap": "$178,984,512",
-          "epsForecast": "($0.24)",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "EARN",
-          "name": "Ellington Credit Company",
-          "marketCap": "$121,316,200",
-          "epsForecast": "$0.19",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "GEOS",
-          "name": "Geospace Technologies Corporation",
-          "marketCap": "$44,757,184",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "GRSD",
-          "name": "Grandstand Limited",
-          "marketCap": "$26,147,408",
-          "epsForecast": "$0.05",
           "fiscalQuarterEnding": "Sep/2026"
         }
       ]
     },
     "before_open_next_trading_day": {
-      "date": "2026-11-20",
-      "count": 9,
+      "date": "2026-11-23",
+      "count": 5,
       "tickers": [
-        "BSP",
-        "BJ",
-        "MOG.A",
-        "MOG.B",
-        "FRO",
-        "IESC",
-        "BKE",
-        "RLX",
-        "WRD"
+        "VNET",
+        "CRGO",
+        "THCH",
+        "BLRX",
+        "ADXN"
       ],
       "rows": [
         {
-          "symbol": "BSP",
-          "name": "Bending Spoons S.p.A.",
-          "marketCap": "$29,397,309,400",
-          "epsForecast": "$0.25",
+          "symbol": "VNET",
+          "name": "VNET Group, Inc.",
+          "marketCap": "$646,560,580",
+          "epsForecast": "$0.53",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
-          "symbol": "BJ",
-          "name": "BJ's Wholesale Club Holdings, Inc.",
-          "marketCap": "$14,075,246,600",
-          "epsForecast": "$1.24",
-          "fiscalQuarterEnding": "Oct/2026"
-        },
-        {
-          "symbol": "MOG.A",
-          "name": "Moog Inc.",
-          "marketCap": "$10,385,293,300",
-          "epsForecast": "$2.70",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "MOG.B",
-          "name": "Moog Inc.",
-          "marketCap": "$10,385,293,300",
+          "symbol": "CRGO",
+          "name": "Freightos Limited",
+          "marketCap": "$42,143,072",
           "epsForecast": "",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
-          "symbol": "FRO",
-          "name": "Frontline Plc",
-          "marketCap": "$10,089,269,200",
+          "symbol": "THCH",
+          "name": "TH International Limited",
+          "marketCap": "$34,244,216",
           "epsForecast": "",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
-          "symbol": "IESC",
-          "name": "IES Holdings, Inc.",
-          "marketCap": "$6,853,232,600",
-          "epsForecast": "",
+          "symbol": "BLRX",
+          "name": "BioLineRx Ltd.",
+          "marketCap": "$5,724,948",
+          "epsForecast": "($0.38)",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
-          "symbol": "BKE",
-          "name": "Buckle, Inc. (The)",
-          "marketCap": "$2,165,582,850",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Oct/2026"
-        },
-        {
-          "symbol": "RLX",
-          "name": "RLX Technology Inc.",
-          "marketCap": "$1,845,604,350",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "WRD",
-          "name": "WeRide Inc.",
-          "marketCap": "$1,324,263,040",
+          "symbol": "ADXN",
+          "name": "Addex Therapeutics Ltd",
+          "marketCap": "$5,213,362",
           "epsForecast": "",
           "fiscalQuarterEnding": "Sep/2026"
         }
@@ -215,270 +71,72 @@
   },
   "after_close": [
     {
-      "lastYearRptDt": "11/20/2025",
-      "lastYearEPS": "$1.88",
-      "time": "time-after-hours",
-      "symbol": "INTU",
-      "name": "Intuit Inc.",
-      "marketCap": "$85,726,634,000",
-      "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$2.47",
-      "noOfEsts": "9"
-    },
-    {
-      "lastYearRptDt": "11/20/2025",
-      "lastYearEPS": "$1.58",
-      "time": "time-after-hours",
-      "symbol": "ROST",
-      "name": "Ross Stores, Inc.",
-      "marketCap": "$70,423,437,000",
-      "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$1.85",
-      "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "11/24/2025",
-      "lastYearEPS": "$1.65",
-      "time": "time-after-hours",
-      "symbol": "KEYS",
-      "name": "Keysight Technologies Inc.",
-      "marketCap": "$48,426,119,000",
-      "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$3.09",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "11/20/2025",
-      "lastYearEPS": "($0.06)",
-      "time": "time-after-hours",
-      "symbol": "ESTC",
-      "name": "Elastic N.V.",
-      "marketCap": "$8,519,746,000",
-      "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$0.14",
-      "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "11/20/2025",
-      "lastYearEPS": "$2.32",
-      "time": "time-after-hours",
-      "symbol": "ESE",
-      "name": "ESCO Technologies Inc.",
-      "marketCap": "$7,114,065,900",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$2.59",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "11/20/2025",
-      "lastYearEPS": "$0.62",
-      "time": "time-after-hours",
-      "symbol": "GAP",
-      "name": "Gap, Inc. (The)",
-      "marketCap": "$6,797,077,000",
-      "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$0.76",
-      "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "11/20/2025",
-      "lastYearEPS": "$2.09",
-      "time": "time-after-hours",
-      "symbol": "POST",
-      "name": "Post Holdings, Inc.",
-      "marketCap": "$3,530,171,140",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.66",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "11/20/2025",
-      "lastYearEPS": "$0.06",
-      "time": "time-after-hours",
-      "symbol": "BULL",
-      "name": "Webull Corporation",
-      "marketCap": "$2,557,376,260",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.05",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "11/13/2025",
-      "lastYearEPS": "$1.22",
-      "time": "time-after-hours",
-      "symbol": "GLOB",
-      "name": "Globant S.A.",
-      "marketCap": "$1,840,744,450",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.13",
-      "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "11/20/2025",
-      "lastYearEPS": "$0.51",
-      "time": "time-after-hours",
-      "symbol": "NGVC",
-      "name": "Natural Grocers by Vitamin Cottage, Inc.",
-      "marketCap": "$652,896,450",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "11/20/2025",
-      "lastYearEPS": "$0.50",
-      "time": "time-after-hours",
-      "symbol": "MATW",
-      "name": "Matthews International Corporation",
-      "marketCap": "$579,160,450",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.27",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "11/17/2025",
-      "lastYearEPS": "$0.24",
-      "time": "time-after-hours",
-      "symbol": "GRRR",
-      "name": "Gorilla Technology Group Inc.",
-      "marketCap": "$178,984,512",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "($0.24)",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "11/19/2025",
-      "lastYearEPS": "$0.23",
-      "time": "time-after-hours",
-      "symbol": "EARN",
-      "name": "Ellington Credit Company",
-      "marketCap": "$121,316,200",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.19",
-      "noOfEsts": "1"
-    },
-    {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.71)",
+      "lastYearEPS": "$0.36",
       "time": "time-after-hours",
-      "symbol": "GEOS",
-      "name": "Geospace Technologies Corporation",
-      "marketCap": "$44,757,184",
+      "symbol": "DLNG",
+      "name": "Dynagas LNG Partners LP",
+      "marketCap": "$112,784,232",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "11/13/2025",
-      "lastYearEPS": "$0.26",
-      "time": "time-after-hours",
-      "symbol": "GRSD",
-      "name": "Grandstand Limited",
-      "marketCap": "$26,147,408",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.05",
       "noOfEsts": "1"
     }
   ],
   "before_open": [
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-pre-market",
-      "symbol": "BSP",
-      "name": "Bending Spoons S.p.A.",
-      "marketCap": "$29,397,309,400",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.25",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "11/21/2025",
-      "lastYearEPS": "$1.16",
-      "time": "time-pre-market",
-      "symbol": "BJ",
-      "name": "BJ's Wholesale Club Holdings, Inc.",
-      "marketCap": "$14,075,246,600",
-      "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$1.24",
-      "noOfEsts": "10"
-    },
-    {
-      "lastYearRptDt": "11/21/2025",
-      "lastYearEPS": "$2.56",
-      "time": "time-pre-market",
-      "symbol": "MOG.A",
-      "name": "Moog Inc.",
-      "marketCap": "$10,385,293,300",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$2.70",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$2.56",
-      "time": "time-pre-market",
-      "symbol": "MOG.B",
-      "name": "Moog Inc.",
-      "marketCap": "$10,385,293,300",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.19",
-      "time": "time-pre-market",
-      "symbol": "FRO",
-      "name": "Frontline Plc",
-      "marketCap": "$10,089,269,200",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$1.88",
-      "time": "time-pre-market",
-      "symbol": "IESC",
-      "name": "IES Holdings, Inc.",
-      "marketCap": "$6,853,232,600",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.96",
-      "time": "time-pre-market",
-      "symbol": "BKE",
-      "name": "Buckle, Inc. (The)",
-      "marketCap": "$2,165,582,850",
-      "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "N/A",
+      "lastYearRptDt": "11/20/2025",
       "lastYearEPS": "$0.02",
       "time": "time-pre-market",
-      "symbol": "RLX",
-      "name": "RLX Technology Inc.",
-      "marketCap": "$1,845,604,350",
+      "symbol": "VNET",
+      "name": "VNET Group, Inc.",
+      "marketCap": "$646,560,580",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.53",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.10)",
+      "time": "time-pre-market",
+      "symbol": "CRGO",
+      "name": "Freightos Limited",
+      "marketCap": "$42,143,072",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.23)",
+      "time": "time-pre-market",
+      "symbol": "THCH",
+      "name": "TH International Limited",
+      "marketCap": "$34,244,216",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "11/24/2025",
-      "lastYearEPS": "($0.15)",
+      "lastYearEPS": "($0.22)",
       "time": "time-pre-market",
-      "symbol": "WRD",
-      "name": "WeRide Inc.",
-      "marketCap": "$1,324,263,040",
+      "symbol": "BLRX",
+      "name": "BioLineRx Ltd.",
+      "marketCap": "$5,724,948",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "($0.38)",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($1.50)",
+      "time": "time-pre-market",
+      "symbol": "ADXN",
+      "name": "Addex Therapeutics Ltd",
+      "marketCap": "$5,213,362",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     }
   ]
 }
