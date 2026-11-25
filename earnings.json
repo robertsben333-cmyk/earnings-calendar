@@ -1,204 +1,36 @@
 {
-  "generated_at_utc": "2026-11-24T10:15:21+00:00",
+  "generated_at_utc": "2026-11-25T08:58:46+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-11-24",
-  "next_trading_day": "2026-11-25",
+  "reference_date": "2026-11-25",
+  "next_trading_day": "2026-11-27",
   "summary": {
     "after_close_today": {
-      "date": "2026-11-24",
-      "count": 11,
+      "date": "2026-11-25",
+      "count": 1,
       "tickers": [
-        "DELL",
-        "ADSK",
-        "WDAY",
-        "HPQ",
-        "NTNX",
-        "URBN",
-        "AMBA",
-        "BBAR",
-        "CLSK",
-        "QFIN",
-        "NOAH"
+        "FINV"
       ],
       "rows": [
         {
-          "symbol": "DELL",
-          "name": "Dell Technologies Inc.",
-          "marketCap": "$176,768,664,000",
-          "epsForecast": "$6.55",
-          "fiscalQuarterEnding": "Oct/2026"
-        },
-        {
-          "symbol": "ADSK",
-          "name": "Autodesk, Inc.",
-          "marketCap": "$51,096,322,000",
-          "epsForecast": "$2.27",
-          "fiscalQuarterEnding": "Oct/2026"
-        },
-        {
-          "symbol": "WDAY",
-          "name": "Workday, Inc.",
-          "marketCap": "$42,059,321,000",
-          "epsForecast": "$1.28",
-          "fiscalQuarterEnding": "Oct/2026"
-        },
-        {
-          "symbol": "HPQ",
-          "name": "HP Inc.",
-          "marketCap": "$25,214,074,900",
-          "epsForecast": "$0.74",
-          "fiscalQuarterEnding": "Oct/2026"
-        },
-        {
-          "symbol": "NTNX",
-          "name": "Nutanix, Inc.",
-          "marketCap": "$14,787,544,100",
-          "epsForecast": "$0.29",
-          "fiscalQuarterEnding": "Oct/2026"
-        },
-        {
-          "symbol": "URBN",
-          "name": "Urban Outfitters, Inc.",
-          "marketCap": "$7,245,137,900",
-          "epsForecast": "$1.53",
-          "fiscalQuarterEnding": "Oct/2026"
-        },
-        {
-          "symbol": "AMBA",
-          "name": "Ambarella, Inc.",
-          "marketCap": "$2,342,561,280",
-          "epsForecast": "($0.17)",
-          "fiscalQuarterEnding": "Oct/2026"
-        },
-        {
-          "symbol": "BBAR",
-          "name": "Banco BBVA Argentina S.A.",
-          "marketCap": "$1,793,198,210",
-          "epsForecast": "$0.41",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "CLSK",
-          "name": "CleanSpark, Inc.",
-          "marketCap": "$1,255,835,520",
-          "epsForecast": "($0.36)",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "QFIN",
-          "name": "Qfin Holdings, Inc. ",
-          "marketCap": "$541,795,900",
-          "epsForecast": "$0.46",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "NOAH",
-          "name": "Noah Holdings Ltd.",
-          "marketCap": "$409,685,632",
+          "symbol": "FINV",
+          "name": "FinVolution Group",
+          "marketCap": "$590,235,010",
           "epsForecast": "",
           "fiscalQuarterEnding": "Sep/2026"
         }
       ]
     },
     "before_open_next_trading_day": {
-      "date": "2026-11-25",
-      "count": 12,
+      "date": "2026-11-27",
+      "count": 1,
       "tickers": [
-        "DE",
-        "LI",
-        "BZ",
-        "GDS",
-        "HDL",
-        "GOTU",
-        "DSX",
-        "GASS",
-        "OMSE",
-        "YSG",
-        "NNOX",
-        "ADXN"
+        "XYF"
       ],
       "rows": [
         {
-          "symbol": "DE",
-          "name": "Deere & Company",
-          "marketCap": "$164,269,277,000",
-          "epsForecast": "$4.07",
-          "fiscalQuarterEnding": "Oct/2026"
-        },
-        {
-          "symbol": "LI",
-          "name": "Li Auto Inc.",
-          "marketCap": "$10,153,881,600",
-          "epsForecast": "($0.08)",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "BZ",
-          "name": "KANZHUN LIMITED",
-          "marketCap": "$6,072,322,600",
-          "epsForecast": "$0.11",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "GDS",
-          "name": "GDS Holdings Limited",
-          "marketCap": "$2,671,033,600",
-          "epsForecast": "$1.31",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "HDL",
-          "name": "SUPER HI INTERNATIONAL HOLDING LTD.",
-          "marketCap": "$695,813,440",
-          "epsForecast": "$0.01",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "GOTU",
-          "name": "Gaotu Techedu Inc.",
-          "marketCap": "$491,190,208",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "DSX",
-          "name": "Diana Shipping inc.",
-          "marketCap": "$274,954,272",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "GASS",
-          "name": "StealthGas, Inc.",
-          "marketCap": "$274,802,208",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "OMSE",
-          "name": "OMS Energy Technologies Inc.",
-          "marketCap": "$163,427,504",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "YSG",
-          "name": "Yatsen Holding Limited",
-          "marketCap": "$148,307,328",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "NNOX",
-          "name": "NANO-X IMAGING LTD",
-          "marketCap": "$17,725,952",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Sep/2026"
-        },
-        {
-          "symbol": "ADXN",
-          "name": "Addex Therapeutics Ltd",
-          "marketCap": "$5,911,884",
+          "symbol": "XYF",
+          "name": "X Financial",
+          "marketCap": "$289,253,408",
           "epsForecast": "",
           "fiscalQuarterEnding": "Sep/2026"
         }
@@ -207,259 +39,28 @@
   },
   "after_close": [
     {
-      "lastYearRptDt": "11/25/2025",
-      "lastYearEPS": "$2.35",
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.34",
       "time": "time-after-hours",
-      "symbol": "DELL",
-      "name": "Dell Technologies Inc.",
-      "marketCap": "$176,768,664,000",
-      "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$6.55",
-      "noOfEsts": "8"
-    },
-    {
-      "lastYearRptDt": "11/25/2025",
-      "lastYearEPS": "$1.80",
-      "time": "time-after-hours",
-      "symbol": "ADSK",
-      "name": "Autodesk, Inc.",
-      "marketCap": "$51,096,322,000",
-      "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$2.27",
-      "noOfEsts": "10"
-    },
-    {
-      "lastYearRptDt": "11/25/2025",
-      "lastYearEPS": "$1.09",
-      "time": "time-after-hours",
-      "symbol": "WDAY",
-      "name": "Workday, Inc.",
-      "marketCap": "$42,059,321,000",
-      "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$1.28",
-      "noOfEsts": "10"
-    },
-    {
-      "lastYearRptDt": "11/25/2025",
-      "lastYearEPS": "$0.93",
-      "time": "time-after-hours",
-      "symbol": "HPQ",
-      "name": "HP Inc.",
-      "marketCap": "$25,214,074,900",
-      "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$0.74",
-      "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "11/25/2025",
-      "lastYearEPS": "$0.23",
-      "time": "time-after-hours",
-      "symbol": "NTNX",
-      "name": "Nutanix, Inc.",
-      "marketCap": "$14,787,544,100",
-      "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$0.29",
-      "noOfEsts": "8"
-    },
-    {
-      "lastYearRptDt": "11/25/2025",
-      "lastYearEPS": "$1.28",
-      "time": "time-after-hours",
-      "symbol": "URBN",
-      "name": "Urban Outfitters, Inc.",
-      "marketCap": "$7,245,137,900",
-      "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$1.53",
-      "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "11/25/2025",
-      "lastYearEPS": "($0.33)",
-      "time": "time-after-hours",
-      "symbol": "AMBA",
-      "name": "Ambarella, Inc.",
-      "marketCap": "$2,342,561,280",
-      "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "($0.17)",
-      "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "11/25/2025",
-      "lastYearEPS": "$0.13",
-      "time": "time-after-hours",
-      "symbol": "BBAR",
-      "name": "Banco BBVA Argentina S.A.",
-      "marketCap": "$1,793,198,210",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.41",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "11/25/2025",
-      "lastYearEPS": "($0.01)",
-      "time": "time-after-hours",
-      "symbol": "CLSK",
-      "name": "CleanSpark, Inc.",
-      "marketCap": "$1,255,835,520",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "($0.36)",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "11/18/2025",
-      "lastYearEPS": "$1.52",
-      "time": "time-after-hours",
-      "symbol": "QFIN",
-      "name": "Qfin Holdings, Inc. ",
-      "marketCap": "$541,795,900",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.46",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "11/25/2025",
-      "lastYearEPS": "$0.46",
-      "time": "time-after-hours",
-      "symbol": "NOAH",
-      "name": "Noah Holdings Ltd.",
-      "marketCap": "$409,685,632",
+      "symbol": "FINV",
+      "name": "FinVolution Group",
+      "marketCap": "$590,235,010",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     }
   ],
   "before_open": [
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "$3.93",
+      "lastYearEPS": "$1.43",
       "time": "time-pre-market",
-      "symbol": "DE",
-      "name": "Deere & Company",
-      "marketCap": "$164,269,277,000",
-      "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$4.07",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "11/26/2025",
-      "lastYearEPS": "($0.09)",
-      "time": "time-pre-market",
-      "symbol": "LI",
-      "name": "Li Auto Inc.",
-      "marketCap": "$10,153,881,600",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "($0.08)",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "11/18/2025",
-      "lastYearEPS": "$0.24",
-      "time": "time-pre-market",
-      "symbol": "BZ",
-      "name": "KANZHUN LIMITED",
-      "marketCap": "$6,072,322,600",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.11",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "11/19/2025",
-      "lastYearEPS": "$0.45",
-      "time": "time-pre-market",
-      "symbol": "GDS",
-      "name": "GDS Holdings Limited",
-      "marketCap": "$2,671,033,600",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.31",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "11/26/2025",
-      "lastYearEPS": "$0.10",
-      "time": "time-pre-market",
-      "symbol": "HDL",
-      "name": "SUPER HI INTERNATIONAL HOLDING LTD.",
-      "marketCap": "$695,813,440",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.01",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.09)",
-      "time": "time-pre-market",
-      "symbol": "GOTU",
-      "name": "Gaotu Techedu Inc.",
-      "marketCap": "$491,190,208",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.05",
-      "time": "time-pre-market",
-      "symbol": "DSX",
-      "name": "Diana Shipping inc.",
-      "marketCap": "$274,954,272",
+      "symbol": "XYF",
+      "name": "X Financial",
+      "marketCap": "$289,253,408",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.36",
-      "time": "time-pre-market",
-      "symbol": "GASS",
-      "name": "StealthGas, Inc.",
-      "marketCap": "$274,802,208",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-pre-market",
-      "symbol": "OMSE",
-      "name": "OMS Energy Technologies Inc.",
-      "marketCap": "$163,427,504",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.10)",
-      "time": "time-pre-market",
-      "symbol": "YSG",
-      "name": "Yatsen Holding Limited",
-      "marketCap": "$148,307,328",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "11/20/2025",
-      "lastYearEPS": "($0.65)",
-      "time": "time-pre-market",
-      "symbol": "NNOX",
-      "name": "NANO-X IMAGING LTD",
-      "marketCap": "$17,725,952",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($1.50)",
-      "time": "time-pre-market",
-      "symbol": "ADXN",
-      "name": "Addex Therapeutics Ltd",
-      "marketCap": "$5,911,884",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
     }
   ]
 }
