@@ -1,24 +1,14 @@
 {
-  "generated_at_utc": "2026-11-25T08:58:46+00:00",
+  "generated_at_utc": "2026-11-26T08:45:00+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-11-25",
+  "reference_date": "2026-11-26",
   "next_trading_day": "2026-11-27",
   "summary": {
     "after_close_today": {
-      "date": "2026-11-25",
-      "count": 1,
-      "tickers": [
-        "FINV"
-      ],
-      "rows": [
-        {
-          "symbol": "FINV",
-          "name": "FinVolution Group",
-          "marketCap": "$590,235,010",
-          "epsForecast": "",
-          "fiscalQuarterEnding": "Sep/2026"
-        }
-      ]
+      "date": "2026-11-26",
+      "count": 0,
+      "tickers": [],
+      "rows": []
     },
     "before_open_next_trading_day": {
       "date": "2026-11-27",
@@ -30,26 +20,14 @@
         {
           "symbol": "XYF",
           "name": "X Financial",
-          "marketCap": "$289,253,408",
+          "marketCap": "$286,514,240",
           "epsForecast": "",
           "fiscalQuarterEnding": "Sep/2026"
         }
       ]
     }
   },
-  "after_close": [
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.34",
-      "time": "time-after-hours",
-      "symbol": "FINV",
-      "name": "FinVolution Group",
-      "marketCap": "$590,235,010",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    }
-  ],
+  "after_close": [],
   "before_open": [
     {
       "lastYearRptDt": "N/A",
@@ -57,10 +35,10 @@
       "time": "time-pre-market",
       "symbol": "XYF",
       "name": "X Financial",
-      "marketCap": "$289,253,408",
+      "marketCap": "$286,514,240",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     }
   ]
 }
