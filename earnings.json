@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-11-27T08:55:36+00:00",
+  "generated_at_utc": "2026-11-28T08:16:49+00:00",
   "source": "https://api.nasdaq.com/api/calendar/earnings",
-  "reference_date": "2026-11-27",
+  "reference_date": "2026-11-28",
   "next_trading_day": "2026-11-30",
   "summary": {
     "after_close_today": {
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "count": 0,
       "tickers": [],
       "rows": []
@@ -23,21 +23,21 @@
         {
           "symbol": "CHA",
           "name": "Chagee Holdings Limited",
-          "marketCap": "$2,083,135,490",
+          "marketCap": "$2,054,520,960",
           "epsForecast": "$0.33",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "HMR",
           "name": "Heidmar Maritime Holdings Corp.",
-          "marketCap": "$63,121,436",
+          "marketCap": "$71,380,320",
           "epsForecast": "$0.04",
           "fiscalQuarterEnding": "Sep/2026"
         },
         {
           "symbol": "BOSC",
           "name": "B.O.S. Better Online Solutions",
-          "marketCap": "$30,498,380",
+          "marketCap": "$30,851,370",
           "epsForecast": "",
           "fiscalQuarterEnding": "Sep/2026"
         },
@@ -59,7 +59,7 @@
       "time": "time-pre-market",
       "symbol": "CHA",
       "name": "Chagee Holdings Limited",
-      "marketCap": "$2,083,135,490",
+      "marketCap": "$2,054,520,960",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.33",
       "noOfEsts": "2"
@@ -70,7 +70,7 @@
       "time": "time-pre-market",
       "symbol": "HMR",
       "name": "Heidmar Maritime Holdings Corp.",
-      "marketCap": "$63,121,436",
+      "marketCap": "$71,380,320",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.04",
       "noOfEsts": "1"
@@ -81,7 +81,7 @@
       "time": "time-pre-market",
       "symbol": "BOSC",
       "name": "B.O.S. Better Online Solutions",
-      "marketCap": "$30,498,380",
+      "marketCap": "$30,851,370",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
